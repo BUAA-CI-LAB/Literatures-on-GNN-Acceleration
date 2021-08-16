@@ -1,4 +1,5 @@
 # Literatures on Graph Neural Networks Acceleration
+
 A reading list for deep graph learning acceleration, including but not limited to related research on software and hardware level. The list covers related papers, conferences, tools, books, blogs, courses and other resources. We have a [team of Maintaners](#Maintainers) responsible for maintainance, meanwhile also welcome contributions from anyone.
 
 Literatures in this page are arranged from a classification perspective, including the following topics:
