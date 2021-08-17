@@ -65,7 +65,7 @@ Click [here](./Paper%20List/By-Time.md) to view these literatures in a reverse c
 * [SoCC 2020] PaGraph: Scaling GNN training on large graphs via computation-aware caching. *Lin et al.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3419111.3421281)
 * [IPDPS 2020] Pcgcn: Partition-centric processing for accelerating graph convolutional network. *Tian et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9139807/)
 * [SysML 2019] PyTorch-BigGraph: A Large-scale Graph Embedding System. *Lerer et al.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3292500.3340404) [[GitHub]](https://github.com/facebookresearch/PyTorch-BigGraph)
-* [arXiv 2018] Relational inductive biases, deep learning, and graph networks. *Battaglia1 et al.* [[Paper]](https://arxiv.org/abs/1806.01261) [[GitHub]](https://github.com/deepmind/graph_nets)
+* [arXiv 2018] Relational inductive biases, deep learning, and graph networks. *Battaglia et al.* [[Paper]](https://arxiv.org/abs/1806.01261) [[GitHub]](https://github.com/deepmind/graph_nets)
 
 
 ---
