@@ -34,6 +34,7 @@ Deep graph learning acceleration papers in a chronological order.
 * [CVPR] Bi-GCN: Binary Graph Convolutional Network. *Wang et al.* [[Paper]](https://arxiv.org/abs/2010.07565)
 * [CVPR] Binary Graph Neural Networks. *Bahri et al.* [[Paper]](https://arxiv.org/abs/2012.15823)
 * [DAC] BlockGNN: Towards Efficient GNN Acceleration Using Block-Circulant Weight Matrices. *Zhou, et al.* [[Paper]](https://arxiv.org/abs/2104.06214)
+* [DAC] GNNerator: A Hardware/Software Framework for Accelerating Graph Neural Networks. *Stevens et al.* [[Paper]](https://arxiv.org/abs/2103.10836)
 * [DATE] ReGraphX: NoC-Enabled 3D Heterogeneous ReRAM Architecture for Training Graph Neural Networks. *Arka, et al.* [[Paper]](https://doi.org/10.23919/DATE51398.2021.9473949)
 * [EuroSys] Tesseract: distributed, general graph pattern mining on evolving graphs. *Bindschaedler, et al.* [[Paper]](https://doi.org/10.1145/3447786.3456253)
 * [EuroSys] Accelerating Graph Sampling for Graph Machine Learning Using GPUs. *Jangda, et al.* [[Paper]]( https://doi.org/10.1145/3447786.3456244)
@@ -87,7 +88,8 @@ Deep graph learning acceleration papers in a chronological order.
 ## arXiv
 
 ### 2021
-* [arXiv] GNNerator: A Hardware/Software Framework for Accelerating Graph Neural Networks. *Stevens et al.* [[Paper]](https://arxiv.org/abs/2103.10836)
+* [arXiv] GNNSampler: Bridging the Gap between Sampling Algorithms of GNN and Hardware. *Liu et al.* [[Paper]](https://arxiv.org/abs/2108.11571v1)
+* [arXiv] Sampling methods for efficient training of graph convolutional networks: A survey. *Liu et al.* [[Paper]](https://arxiv.org/abs/2103.05872)
 * [arXiv] VersaGNN: a Versatile accelerator for Graph neural networks. *Shi et al.* [[Paper]](https://arxiv.org/abs/2105.01280)
 * [arXiv] ZIPPER: Exploiting Tile- and Operator-level Parallelism for General and Scalable Graph Neural Network Acceleration. *Zhang et al.* [[Paper]](https://arxiv.org/abs/2107.08709v1)
 * [arXiv] PyTorch Geometric Temporal: Spatiotemporal Signal Processing with Neural Machine Learning Models. *Rozemberczki et al.* [[Paper]](https://arxiv.org/abs/2104.07788) [[GitHub]](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)
