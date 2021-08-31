@@ -76,6 +76,7 @@ Click [here](./Paper%20List/By-Time.md) to view these literatures in a reverse c
 * [CVPR 2021] Bi-GCN: Binary Graph Convolutional Network. *Wang et al.* [[Paper]](https://arxiv.org/abs/2010.07565)
 * [CVPR 2021] Binary Graph Neural Networks. *Bahri et al.* [[Paper]](https://arxiv.org/abs/2012.15823)
 * [ICLR 2021] Degree-Quant: Quantization-Aware Training for Graph Neural Networks. *Tailor et al.* [[Paper]](https://arxiv.org/abs/2008.05000)
+* [arXiv 2021] GNNSampler: Bridging the Gap between Sampling Algorithms of GNN and Hardware. *Liu et al.* [[Paper]](https://arxiv.org/abs/2108.11571v1)
 * [arXiv 2020] Learned Low Precision Graph Neural Networks. *Zhao et al.* [[Paper]](https://www.euromlsys.eu/pub/zhao21euromlsys.pdf)
 * [RTAS 2021] Optimizing Memory Efficiency of Graph Neural Networks on Edge Computing Platforms. *Zhou et al.* [[Paper]](https://arxiv.org/abs/2104.03058) [[GitHub]](https://github.com/BUAA-CI-Lab/GNN-Feature-Decomposition)
 * [ICLR 2021 Open Review] FGNAS: FPGA-AWARE GRAPH NEURAL ARCHITECTURE SEARCH. *Qing et al.* [[Paper]](https://openreview.net/pdf?id=cq4FHzAz9eA) 
