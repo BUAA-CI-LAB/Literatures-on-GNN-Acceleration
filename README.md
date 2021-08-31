@@ -24,7 +24,7 @@ Click [here](./Paper%20List/By-Time.md) to view these literatures in a reverse c
 * [IEEE Access 8 2020] FPGAN: An FPGA Accelerator for Graph Attention Networks With Software and Hardware Co-Optimization. *Yan et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9195849)
 * [HPCA 2021] GCNAX: A Flexible and Energy-efficient Accelerator for Graph Convolutional Neural Networks. *Li et al.* [[Paper]](https://doi.org/10.1109/HPCA51647.2021.00070)
 * [SC 2020] GE-SpMM: General-Purpose Sparse Matrix-Matrix Multiplication on GPUs for Graph Neural Networks. Huang, et al. [[Paper]](https://doi.org/10.1109/sc41405.2020.00076)
-* [Arxiv 2021] GNNerator: A Hardware/Software Framework for Accelerating Graph Neural Networks. *Stevens et al.* [[Paper]](https://arxiv.org/abs/2103.10836)
+* [DAC 2021] GNNerator: A Hardware/Software Framework for Accelerating Graph Neural Networks. *Stevens et al.* [[Paper]](https://arxiv.org/abs/2103.10836)
 * [CCIS 2020] GNN-PIM: A Processing-in-Memory Architecture for Graph Neural Networks. *Wang et al.* [[Paper]](https://www.semanticscholar.org/paper/GNN-PIM%3A-A-Processing-in-Memory-Architecture-for-Wang-Guan/1d03e4bebc9cf3c3fdd9204504d92b20d97d1fdf)
 * [ATC 2021] GLIST: Towards In-Storage Graph Learning. *Li, et al.* [[Paper]](www.usenix.org/conference/atc21/presentation/li-cangyuan)
 * [FPGA 2020] GraphACT: Accelerating GCN Training on CPU-FPGA Heterogeneous Platforms. *Zeng et al.* [[Paper]](https://arxiv.org/abs/2001.02498)
@@ -91,6 +91,7 @@ Click [here](./Paper%20List/By-Time.md) to view these literatures in a reverse c
 * [KDD 2020] Deep Graph Learning: Foundations, Advances and Applications. *Rong et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3394486.3406474)
 * [ISPASS 2021] GNNMark: A Benchmark Suite to Characterize Graph Neural Network Training on GPUs. *Baruah et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9408205)
 * [ISPASS 2021] Performance Analysis of Graph Neural Network Frameworks. *Wu et al.* [[Paper]](https://www.semanticscholar.org/paper/Performance-Analysis-of-Graph-Neural-Network-Wu-Sun/b6da3ab0a6e710f16e11e5890818a107d1d5735c)
+* [arXiv 2021] Sampling methods for efficient training of graph convolutional networks: A survey. *Liu et al.* [[Paper]](https://arxiv.org/abs/2103.05872)
 * [PPoPP 2021] Understanding and bridging the gaps in current GNN performance optimizations. *Huang et al.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3437801.3441585)
 
 
