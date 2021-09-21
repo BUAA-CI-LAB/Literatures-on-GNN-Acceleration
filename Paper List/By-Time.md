@@ -23,6 +23,7 @@ Deep graph learning acceleration papers in a chronological order.
 * [IEEE Computer Architecture Letters] Characterizing and Understanding GCNs on GPU. *Yan et al.* [[Paper]](https://arxiv.org/abs/2010.00130)
 * [TC] EnGN: A High-Throughput and Energy-Efficient Accelerator for Large Graph Neural Networks. *Liang et al.* [[Paper]](https://ieeexplore.ieee.org/document/9161360/)
 * [TPDS] EDGES: An Efficient Distributed Graph Embedding System on GPU Clusters. *Yang et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9272876)
+* [TKDE 2020] Deep Learning on Graphs: A Survey. *Zhang et al.*[[paper]](https://ieeexplore.ieee.org/abstract/document/9039675)
 
 ### 2019
 * [CoRR 2019] Deep Graph Library: Towards Efficient and Scalable Deep Learning on Graphs. *Wang* [[Paper]](https://arxiv.org/abs/1909.01315v2) [[GitHub]](https://github.com/dmlc/dgl/) [[Home Page]](https://www.dgl.ai/)

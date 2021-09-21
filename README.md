@@ -90,6 +90,7 @@ Click [here](./Paper%20List/By-Time.md) to view these literatures in a reverse c
 * [IEEE Computer Architecture Letters 2020] Characterizing and Understanding GCNs on GPU. *Yan et al.* [[Paper]](https://arxiv.org/abs/2010.00130)
 * [arXiv 2020] Computing Graph Neural Networks: A Survey from Algorithms to Accelerators. *Abadal et al.* [[Paper]](https://arxiv.org/abs/2010.00130)
 * [KDD 2020] Deep Graph Learning: Foundations, Advances and Applications. *Rong et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3394486.3406474)
+* [TKDE 2020] Deep Learning on Graphs: A Survey. *Zhang et al.*[[paper]](https://ieeexplore.ieee.org/abstract/document/9039675)
 * [ISPASS 2021] GNNMark: A Benchmark Suite to Characterize Graph Neural Network Training on GPUs. *Baruah et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9408205)
 * [ISPASS 2021] Performance Analysis of Graph Neural Network Frameworks. *Wu et al.* [[Paper]](https://www.semanticscholar.org/paper/Performance-Analysis-of-Graph-Neural-Network-Wu-Sun/b6da3ab0a6e710f16e11e5890818a107d1d5735c)
 * [arXiv 2021] Sampling methods for efficient training of graph convolutional networks: A survey. *Liu et al.* [[Paper]](https://arxiv.org/abs/2103.05872)
