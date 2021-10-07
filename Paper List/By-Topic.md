@@ -67,16 +67,20 @@ Deep graph learning acceleration papers organized by topics.
 * [IPDPS 2019] Accurate, efficient and scalable graph embedding. *Zeng et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/8820993)
 * [CVPR 2021] Bi-GCN: Binary Graph Convolutional Network. *Wang et al.* [[Paper]](https://arxiv.org/abs/2010.07565)
 * [CVPR 2021] Binary Graph Neural Networks. *Bahri et al.* [[Paper]](https://arxiv.org/abs/2012.15823)
+* [GLSVLSI 2021] Co-Exploration of Graph Neural Network and Network-on-Chip Design Using AutoML. *Manu et al.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3453688.3461741)
 * [ICLR 2021] Degree-Quant: Quantization-Aware Training for Graph Neural Networks. *Tailor et al.* [[Paper]](https://arxiv.org/abs/2008.05000)
+* [ICLR 2021 Open Review] FGNAS: FPGA-AWARE GRAPH NEURAL ARCHITECTURE SEARCH. *Qing et al.* [[Paper]](https://openreview.net/pdf?id=cq4FHzAz9eA)
+* [ICCAD 2021] G-CoS: GNN-Accelerator Co-Search Towards Both Better Accuracy and Efficiency. *Zhang et al.* [[Paper]](https://arxiv.org/pdf/2109.08983.pdf)
 * [arXiv 2020] Learned Low Precision Graph Neural Networks. *Zhao et al.* [[Paper]](https://www.euromlsys.eu/pub/zhao21euromlsys.pdf)
 * [RTAS 2021] Optimizing Memory Efficiency of Graph Neural Networks on Edge Computing Platforms. *Zhou et al.* [[Paper]](https://arxiv.org/abs/2104.03058) [[GitHub]](https://github.com/BUAA-CI-Lab/GNN-Feature-Decomposition)
-* [ICLR 2021 Open Review] FGNAS: FPGA-AWARE GRAPH NEURAL ARCHITECTURE SEARCH. *Qing et al.* [[Paper]](https://openreview.net/pdf?id=cq4FHzAz9eA) 
 * [SC 2020] Reducing Communication in Graph Neural Network Training. *Tripathy et al.* [[Paper]](https://arxiv.org/abs/2005.03300) [[GitHub]](https://github.com/PASSIONLab/gnn_training)
 * [ICTAI 2020] SGQuant: Squeezing the Last Bit on Graph Neural Networks with Specialized Quantization. *Feng et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9288186)
+* [KDD 2020] TinyGNN: Learning Efficient Graph Neural Networks. *Yan et al.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403236)
 
 
 ---
 ## Surveys and Performance Analysis on Graph Learning
+* [IJCAI 2021] Automated Machine Learning on Graphs: A Survey. *Zhang et al.* [[Paper]](https://arxiv.org/abs/2103.00742)
 * [arXiv 2021] A Taxonomy for Classification and Comparison of Dataflows for GNN Accelerators. *Garg et al.* [[Paper]](https://arxiv.org/abs/2103.07977)
 * [IEEE Computer Architecture Letters 2020] Characterizing and Understanding GCNs on GPU. *Yan et al.* [[Paper]](https://arxiv.org/abs/2010.00130)
 * [arXiv 2020] Computing Graph Neural Networks: A Survey from Algorithms to Accelerators. *Abadal et al.* [[Paper]](https://arxiv.org/abs/2010.00130)
@@ -85,3 +89,6 @@ Deep graph learning acceleration papers organized by topics.
 * [ISPASS 2021] Performance Analysis of Graph Neural Network Frameworks. *Wu et al.* [[Paper]](https://www.semanticscholar.org/paper/Performance-Analysis-of-Graph-Neural-Network-Wu-Sun/b6da3ab0a6e710f16e11e5890818a107d1d5735c)
 * [TKDE 2020] Deep Learning on Graphs: A Survey. *Zhang et al.*[[paper]](https://ieeexplore.ieee.org/abstract/document/9039675)
 * [PPoPP 2021] Understanding and bridging the gaps in current GNN performance optimizations. *Huang et al.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3437801.3441585)
+
+
+

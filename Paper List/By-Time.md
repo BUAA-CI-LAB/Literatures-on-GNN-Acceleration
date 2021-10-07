@@ -54,6 +54,9 @@ Deep graph learning acceleration papers in a chronological order.
 * [PPoPP] Understanding and Bridging the Gaps in Current GNN Performance Optimizations. *Huang, et al.* [[Paper]](https://doi.org/10.1145/3437801.3441585)
 * [RTAS] Brief Industry Paper: optimizing Memory Efficiency of Graph Neural Networks on Edge Computing Platforms. *Zhou et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/820993)
 * [USENIX ATC] GLIST: Towards In-Storage Graph Learning. *Li, et al.* [[Paper]](www.usenix.org/conference/atc21/presentation/li-cangyuan)
+* [GLSVLSI 2021] Co-Exploration of Graph Neural Network and Network-on-Chip Design Using AutoML. *Manu et al.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3453688.3461741)
+* [ICCAD 2021] G-CoS: GNN-Accelerator Co-Search Towards Both Better Accuracy and Efficiency. *Zhang et al.* [[Paper]](https://arxiv.org/pdf/2109.08983.pdf)
+* [IJCAI 2021] Automated Machine Learning on Graphs: A Survey. *Zhang et al.* [[Paper]](https://arxiv.org/abs/2103.00742)
 
 ### 2020
 * [AccML] GIN : High-Performance, Scalable Inference for Graph Neural Networks. *Fu et al.* [[Paper]](https://workshops.inf.ed.ac.uk/accml/papers/2020/AccML_2020_paper_6.pdf)
@@ -76,6 +79,7 @@ Deep graph learning acceleration papers in a chronological order.
 * [SC] GE-SpMM: General-Purpose Sparse Matrix-Matrix Multiplication on GPUs for Graph Neural Networks. Huang, et al. [[Paper]](https://doi.org/10.1109/sc41405.2020.00076)
 * [SC] Reducing Communication in Graph Neural Network Training. *Tripathy, et al.* [[Paper]](https://doi.org/10.1109/sc41405.2020.00074)
 * [SoCC] PaGraph: Scaling GNN Training on Large Graphs via Computation-Aware Caching. *Lin, et al.* [[Paper]](https://doi.org/10.1145/3419111.3421281)
+* [KDD 2020] TinyGNN: Learning Efficient Graph Neural Networks. *Yan et al.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3394486.3403236)
 
 ### 2019
 * [ASICON] An FPGA Implementation of GCN with Sparse Adjacency Matrix. *Ding et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/8983647)
@@ -103,5 +107,9 @@ Deep graph learning acceleration papers in a chronological order.
 
 ### 2018
 * [arXiv] Relational inductive biases, deep learning, and graph networks. *Battaglia1 et al.* [[Paper]](https://arxiv.org/abs/1806.01261) [[GitHub]](https://github.com/deepmind/graph_nets)
+
+
+
+
 
 
