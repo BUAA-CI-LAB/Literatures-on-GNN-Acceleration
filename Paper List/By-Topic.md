@@ -62,7 +62,7 @@ Deep graph learning acceleration papers organized by topics.
 
 ---
 ## Algorithmic Acceleration for Graph Neural Networks
-* [MLSys&ICLR Workshop 2021] Adaptive Filters and Aggregator Fusion for Efficient Graph Convolutions.* [[Paper]](https://arxiv.org/abs/2104.01481) [[GitHub]](https://github.com/shyam196/egc)
+* [MLSys&ICLR Workshop 2021] Adaptive Filters and Aggregator Fusion for Efficient Graph Convolutions.*Tailor et al.* [[Paper]](https://arxiv.org/abs/2104.01481) [[GitHub]](https://github.com/shyam196/egc)
 * [PMLR 2021] A Unified Lottery Ticket Hypothesis for Graph Neural Networks. *Chen et al.* [[Paper]](http://proceedings.mlr.press/v139/chen21p.html)
 * [PVLDB 2021] Accelerating Large Scale Real-Time GNN Inference using Channel Pruning. *Zhou et al.* [[Paper]](https://doi.org/10.14778/3461535.3461547)
 * [IPDPS 2019] Accurate, efficient and scalable graph embedding. *Zeng et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/8820993)
