@@ -32,6 +32,7 @@ Deep graph learning acceleration papers in a chronological order.
 ## Conference
 
 ### 2021
+* [MLSys&ICLR Workshop 2021] Adaptive Filters and Aggregator Fusion for Efficient Graph Convolutions.* [[Paper]](https://arxiv.org/abs/2104.01481) [[GitHub]](https://github.com/shyam196/egc)
 * [CVPR] Bi-GCN: Binary Graph Convolutional Network. *Wang et al.* [[Paper]](https://arxiv.org/abs/2010.07565)
 * [CVPR] Binary Graph Neural Networks. *Bahri et al.* [[Paper]](https://arxiv.org/abs/2012.15823)
 * [DAC] BlockGNN: Towards Efficient GNN Acceleration Using Block-Circulant Weight Matrices. *Zhou, et al.* [[Paper]](https://arxiv.org/abs/2104.06214)
