@@ -32,6 +32,7 @@ Deep graph learning acceleration papers in a chronological order.
 ## Conference
 
 ### 2021
+* [OSDI 2021] GNNAdvisor: An Adaptive and Efﬁcient Runtime System for GNN Acceleration on GPUs *Wang et al.* [[Paper]](https://www.usenix.org/system/files/osdi21-wang-yuke.pdf)
 * [MLSys&ICLR Workshop 2021] Adaptive Filters and Aggregator Fusion for Efficient Graph Convolutions.*Tailor et al.* [[Paper]](https://arxiv.org/abs/2104.01481) [[GitHub]](https://github.com/shyam196/egc)
 * [CVPR] Bi-GCN: Binary Graph Convolutional Network. *Wang et al.* [[Paper]](https://arxiv.org/abs/2010.07565)
 * [CVPR] Binary Graph Neural Networks. *Bahri et al.* [[Paper]](https://arxiv.org/abs/2012.15823)

@@ -45,6 +45,7 @@ Click [here](./Paper%20List/By-Time.md) to view these literatures in a reverse c
 
 ---
 ## System Designs for Deep Graph Learning
+
 * [JPDC 2021] Accurate, efficient and scalable training of Graph Neural Networks *Zeng et al.* [[Paper]](https://www.sciencedirect.com/science/article/pii/S0743731520303579)
 * [KDD 2019] AliGraph: a comprehensive graph neural network platform. *Yang et al.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3292500.3340404) [[GitHub]](https://github.com/alibaba/graph-learn)
 * [OSDI 2021] Dorylus: Affordable, Scalable, and Accurate GNN Training with Distributed CPU Servers and Serverless Threads. *Thorpe et al.* [[Paper]](https://arxiv.org/abs/2105.11118) [[GitHub]](https://github.com/uclasystem/dorylus)
@@ -57,6 +58,7 @@ Click [here](./Paper%20List/By-Time.md) to view these literatures in a reverse c
 * [ICCAD 2020] fuseGNN: accelerating graph convolutional neural network training on GPGPU. *Chen et al.* [[Paper]](https://ieeexplore.ieee.org/document/9256702) [[GitHub]](https://github.com/apuaaChen/gcnLib)
 * [SC 2020] FeatGraph: A Flexible and Efficient Backend for Graph Neural Network Systems. *Hu et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9355318) [[Github]](https://github.com/amazon-research/FeatGraph)
 * [ICLR Workshop 2019] Fast Graph Representation Learning with PyTorch Geometric. *Fey et al.* [[Paper]](https://arxiv.org/abs/1903.02428) [[GitHub]](https://github.com/rusty1s/pytorch_geometric) [[Documentation]](https://pytorch-geometric.readthedocs.io/en/latest/)
+* [OSDI 2021] GNNAdvisor: An Adaptive and Efﬁcient Runtime System for GNN Acceleration on GPUs *Wang et al.* [[Paper]](https://www.usenix.org/system/files/osdi21-wang-yuke.pdf)
 * [AccML 2020] GIN : High-Performance, Scalable Inference for Graph Neural Networks. *Fu et al.* [[Paper]](https://workshops.inf.ed.ac.uk/accml/papers/2020/AccML_2020_paper_6.pdf)
 * [JPDC 2021] High performance GPU primitives for graph-tensor learning operations. *Zhang et al.* [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0743731520304007)
 * [MLSys 2020] Improving the Accuracy, Scalability, and Performance of  Graph Neural Networks with Roc. *Jia* [[Paper]](https://www-cs.stanford.edu/people/matei/papers/2020/mlsys_roc.pdf)
