@@ -33,7 +33,7 @@ Deep graph learning acceleration papers in a chronological order.
 
 ### 2021
 * [OSDI 2021] GNNAdvisor: An Adaptive and Efﬁcient Runtime System for GNN Acceleration on GPUs *Wang et al.* [[Paper]](https://www.usenix.org/system/files/osdi21-wang-yuke.pdf)
-* [MLSys&ICLR Workshop 2021] Adaptive Filters and Aggregator Fusion for Efficient Graph Convolutions.*Tailor et al.* [[Paper]](https://arxiv.org/abs/2104.01481) [[GitHub]](https://github.com/shyam196/egc)
+* [GNNSys Workshop at MLSys 2021 & ICLR Workshop 2021] Adaptive Filters and Aggregator Fusion for Efficient Graph Convolutions.*Tailor et al.* [[Paper]](https://arxiv.org/abs/2104.01481) [[GitHub]](https://github.com/shyam196/egc)
 * [CVPR] Bi-GCN: Binary Graph Convolutional Network. *Wang et al.* [[Paper]](https://arxiv.org/abs/2010.07565)
 * [CVPR] Binary Graph Neural Networks. *Bahri et al.* [[Paper]](https://arxiv.org/abs/2012.15823)
 * [DAC] BlockGNN: Towards Efficient GNN Acceleration Using Block-Circulant Weight Matrices. *Zhou, et al.* [[Paper]](https://arxiv.org/abs/2104.06214)
@@ -59,6 +59,13 @@ Deep graph learning acceleration papers in a chronological order.
 * [GLSVLSI 2021] Co-Exploration of Graph Neural Network and Network-on-Chip Design Using AutoML. *Manu et al.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3453688.3461741)
 * [ICCAD 2021] G-CoS: GNN-Accelerator Co-Search Towards Both Better Accuracy and Efficiency. *Zhang et al.* [[Paper]](https://arxiv.org/pdf/2109.08983.pdf)
 * [IJCAI 2021] Automated Machine Learning on Graphs: A Survey. *Zhang et al.* [[Paper]](https://arxiv.org/abs/2103.00742)
+* [GNNSys Workshop at MLSys 2021] FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks.*He et al.* [[Paper]](https://gnnsys.github.io/papers/GNNSys21_paper_3.pdf) [[Poster]](https://gnnsys.github.io/posters/GNNSys21_poster_3.pdf)
+* [GNNSys Workshop at MLSys 2021] IGNNITION: A framework for fast prototyping of Graph Neural Networks.*Pujol-Perich et al.* [[Paper]](https://gnnsys.github.io/papers/GNNSys21_paper_4.pdf) [[Poster]](https://gnnsys.github.io/posters/GNNSys21_poster_4.pdf)
+* [GNNSys Workshop at MLSys 2021] Efficient Data Loader for Fast Sampling-based GNN Training on Large Graphs.*Bai et al.* [[Paper]](https://gnnsys.github.io/papers/GNNSys21_paper_8.pdf) [[Poster]](https://gnnsys.github.io/posters/GNNSys21_poster_8.pdf)
+* [GNNSys Workshop at MLSys 2021] Graphiler: A Compiler for Graph Neural Networks.*Xie et al.* [[Paper]](https://gnnsys.github.io/papers/GNNSys21_paper_10.pdf) [[Poster]](https://gnnsys.github.io/posters/GNNSys21_poster_10.pdf)
+* [GNNSys Workshop at MLSys 2021] Analyzing the Performance of Graph Neural Networks with Pipe Parallelism.*T. Dearing et al.* [[Paper]](https://gnnsys.github.io/papers/GNNSys21_paper_12.pdf) [[Poster]](https://gnnsys.github.io/posters/GNNSys21_poster_12.pdf)
+* [GNNSys Workshop at MLSys 2021] Effiicent Distribution for Deep Learning on Large Graphs.*Hoang et al.* [[Paper]](https://gnnsys.github.io/papers/GNNSys21_paper_16.pdf) [[Poster]](https://gnnsys.github.io/posters/GNNSys21_poster_16.pdf)
+* [GNNSys Workshop at MLSys 2021] Load Balancing for Parallel GNN Training.*Su et al.* [[Paper]](https://gnnsys.github.io/papers/GNNSys21_paper_18.pdf) [[Poster]](https://gnnsys.github.io/posters/GNNSys21_poster_18.pdf)
 
 ### 2020
 * [AccML] GIN : High-Performance, Scalable Inference for Graph Neural Networks. *Fu et al.* [[Paper]](https://workshops.inf.ed.ac.uk/accml/papers/2020/AccML_2020_paper_6.pdf)
