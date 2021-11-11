@@ -20,8 +20,7 @@ Click [here](./Paper%20List/By-Time.md) to view these literatures in a reverse c
 * [TCAD 2021] Cambricon-G: A Polyvalent Energy-efficient Accelerator for Dynamic Graph Neural Networks. *Song et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9326339)
 * [ICCAD 2020] DeepBurning-GL: an automated framework for generating graph neural network accelerators. *Liang et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9256539)
 * [TC 2020] EnGN: A High-Throughput and Energy-Efficient Accelerator for Large Graph Neural Networks. *Liang et al.* [[Paper]](https://ieeexplore.ieee.org/document/9161360/)
-* [IPDPS 2021] FusedMM: A Unified SDDMM-SpMM Kernel for Graph Embedding and Graph Neural Networks. *Rahman et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9460486)
-* [IEEE Access 8 2020] FPGAN: An FPGA Accelerator for Graph Attention Networks With Software and Hardware Co-Optimization. *Yan et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9195849)
+* [IEEE Access 2020] FPGAN: An FPGA Accelerator for Graph Attention Networks With Software and Hardware Co-Optimization. *Yan et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9195849)
 * [HPCA 2021] GCNAX: A Flexible and Energy-efficient Accelerator for Graph Convolutional Neural Networks. *Li et al.* [[Paper]](https://doi.org/10.1109/HPCA51647.2021.00070)
 * [SC 2020] GE-SpMM: General-Purpose Sparse Matrix-Matrix Multiplication on GPUs for Graph Neural Networks. Huang, et al. [[Paper]](https://doi.org/10.1109/sc41405.2020.00076)
 * [DAC 2021] GNNerator: A Hardware/Software Framework for Accelerating Graph Neural Networks. *Stevens et al.* [[Paper]](https://arxiv.org/abs/2103.10836)
@@ -33,9 +32,9 @@ Click [here](./Paper%20List/By-Time.md) to view these literatures in a reverse c
 * [DAC 2020] Hardware Acceleration of Graph Neural Networks. *Auten, et al.* [[Paper]](https://doi.org/10.1109/dac18072.2020.9218751)
 * [ASAP 2020] Hardware Acceleration of Large Scale GCN Inference. *Zhang et al.*[[Paper]](https://ieeexplore.ieee.org/document/9153263)
 * [HPCA 2020] HyGCN: A GCN Accelerator with Hybrid Architecture. *Yan, et al.* [[Paper]](https://doi.org/10.1109/HPCA47549.2020.00012)
+* [Arxiv 2021] LW-GCN: A Lightweight FPGA-based Graph Convolutional Network Accelerator. *Tao, et al.*  [[Paper]](https://arxiv.org/abs/2111.03184)
 * [DATE 2021] ReGraphX: NoC-Enabled 3D Heterogeneous ReRAM Architecture for Training Graph Neural Networks. *Arka, et al.* [[Paper]](https://doi.org/10.23919/DATE51398.2021.9473949)
 * [TCAD 2021] Rubik: A Hierarchical Architecture for Efficient Graph Neural Network Training. *Chen et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9428002)
-* [EuroSys 2021] Seastar: vertex-centric programming for graph neural networks. *Wu, et al.* [[Paper]](https://doi.org/10.1145/3447786.3456247)
 * [ICPADS 2020] S-GAT: Accelerating Graph Attention Networks Inference on FPGA Platform with Shift Operation. *Yan et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9359183)
 * [EuroSys 2021] Tesseract: distributed, general graph pattern mining on evolving graphs. *Bindschaedler, et al.* [[Paper]](https://doi.org/10.1145/3447786.3456253)
 * [ICA3PP 2020] Towards a Deep-Pipelined Architecture for Accelerating Deep GCN on a Multi-FPGA Platform. *Cheng et al.* [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-60245-1_36)
@@ -58,6 +57,7 @@ Click [here](./Paper%20List/By-Time.md) to view these literatures in a reverse c
 * [ICCAD 2020] fuseGNN: accelerating graph convolutional neural network training on GPGPU. *Chen et al.* [[Paper]](https://ieeexplore.ieee.org/document/9256702) [[GitHub]](https://github.com/apuaaChen/gcnLib)
 * [SC 2020] FeatGraph: A Flexible and Efficient Backend for Graph Neural Network Systems. *Hu et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9355318) [[Github]](https://github.com/amazon-research/FeatGraph)
 * [ICLR Workshop 2019] Fast Graph Representation Learning with PyTorch Geometric. *Fey et al.* [[Paper]](https://arxiv.org/abs/1903.02428) [[GitHub]](https://github.com/rusty1s/pytorch_geometric) [[Documentation]](https://pytorch-geometric.readthedocs.io/en/latest/)
+* [IPDPS 2021] FusedMM: A Unified SDDMM-SpMM Kernel for Graph Embedding and Graph Neural Networks. *Rahman et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9460486)
 * [GNNSys Workshop at MLSys 2021] Graphiler: A Compiler for Graph Neural Networks.*Xie et al.* [[Paper]](https://gnnsys.github.io/papers/GNNSys21_paper_10.pdf) [[Poster]](https://gnnsys.github.io/posters/GNNSys21_poster_10.pdf)
 * [OSDI 2021] GNNAdvisor: An Adaptive and Efﬁcient Runtime System for GNN Acceleration on GPUs *Wang et al.* [[Paper]](https://www.usenix.org/system/files/osdi21-wang-yuke.pdf)
 * [AccML 2020] GIN : High-Performance, Scalable Inference for Graph Neural Networks. *Fu et al.* [[Paper]](https://workshops.inf.ed.ac.uk/accml/papers/2020/AccML_2020_paper_6.pdf)
@@ -71,6 +71,7 @@ Click [here](./Paper%20List/By-Time.md) to view these literatures in a reverse c
 * [IPDPS 2020] Pcgcn: Partition-centric processing for accelerating graph convolutional network. *Tian et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9139807/)
 * [SysML 2019] PyTorch-BigGraph: A Large-scale Graph Embedding System. *Lerer et al.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3292500.3340404) [[GitHub]](https://github.com/facebookresearch/PyTorch-BigGraph)
 * [arXiv 2018] Relational inductive biases, deep learning, and graph networks. *Battaglia et al.* [[Paper]](https://arxiv.org/abs/1806.01261) [[GitHub]](https://github.com/deepmind/graph_nets)
+* [EuroSys 2021] Seastar: vertex-centric programming for graph neural networks. *Wu, et al.* [[Paper]](https://doi.org/10.1145/3447786.3456247)
 
 
 ---
