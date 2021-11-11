@@ -81,7 +81,6 @@ Deep graph learning acceleration papers in a chronological order.
 * [ICTAI] SGQuant: Squeezing the Last Bit on Graph Neural Networks with Specialized Quantization. *Feng et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9288186)
 * [IPDPS] Pcgcn: Partition-centric processing for accelerating graph convolutional network. *Tian et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9139807/)
 * [ISCA] GraphABCD: Scaling Out Graph Analytics with Asynchronous Block Coordinate Descent. *Yang et al.* [[Paper]](https://dl.acm.org/doi/10.1109/ISCA45697.2020.00043)
-(https://ieeexplore.ieee.org/abstract/document/9326339)
 * [KDD] Deep Graph Learning: Foundations, Advances and Applications. *Rong et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3394486.3406474)
 * [MLSys] Improving the Accuracy, Scalability, and Performance of  Graph Neural Networks with Roc. *Jia* [[Paper]](https://www-cs.stanford.edu/people/matei/papers/2020/mlsys_roc.pdf)
 * [SC] FeatGraph: A Flexible and Efficient Backend for Graph Neural Network Systems. *Hu, et al.* [[Paper]](https://doi.org/10.1109/sc41405.2020.00075.)
@@ -102,6 +101,7 @@ Deep graph learning acceleration papers in a chronological order.
 ## arXiv
 
 ### 2021
+* [arXiv] LW-GCN: A Lightweight FPGA-based Graph Convolutional Network Accelerator. *Tao, et al.* [[Paper]](https://arxiv.org/abs/2111.03184)
 * [arXiv] GNNSampler: Bridging the Gap between Sampling Algorithms of GNN and Hardware. *Liu et al.* [[Paper]](https://arxiv.org/abs/2108.11571v1)
 * [arXiv] Sampling methods for efficient training of graph convolutional networks: A survey. *Liu et al.* [[Paper]](https://arxiv.org/abs/2103.05872)
 * [arXiv] VersaGNN: a Versatile accelerator for Graph neural networks. *Shi et al.* [[Paper]](https://arxiv.org/abs/2105.01280)
