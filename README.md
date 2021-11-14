@@ -1,14 +1,14 @@
-# Literatures on Graph Neural Networks Acceleration
+# Literature on Graph Neural Networks Acceleration
 
 A reading list for deep graph learning acceleration, including but not limited to related research on software and hardware level. The list covers related papers, conferences, tools, books, blogs, courses and other resources. We have a [team of Maintaners](#Maintainers) responsible for maintainance, meanwhile also welcome contributions from anyone.
 
 Literatures in this page are arranged from a classification perspective, including the following topics:
-- [Hardware Acceleration For Graph Neural Networks](#Hardware-Acceleration-For-Graph-Neural-Networks)
-- [System Designs For Deep Graph Learning](#System-Designs-For-Deep-Graph-Learning)
-- [Algorithms For Graph Neural Networks Acceleration](#Algorithmic-Acceleration-for-Graph-Neural-Networks)
-- [Surveys and Performance Analysis About Deep Learning On Graphs](#Surveys-and-Performance-Analysis-on-Graph-Learning)
+- [Hardware Acceleration for Graph Neural Networks](#Hardware-Acceleration-For-Graph-Neural-Networks)
+- [System Designs for Deep Graph Learning](#System-Designs-For-Deep-Graph-Learning)
+- [Algorithms for Graph Neural Networks Acceleration](#Algorithmic-Acceleration-for-Graph-Neural-Networks)
+- [Surveys and Performance Analysis about Deep Learning on Graphs](#Surveys-and-Performance-Analysis-on-Graph-Learning)
 
-Click [here](./Paper%20List/By-Time.md) to view these literatures in a reverse chronological order. You can also find [Related Conferences](./General%20Resources/Conference.md), [Graph Learning Tools](./General%20Resources/Frameworks%20%26%20Tools/), [Learning Materials on GNNs](./General%20Resources/Learning%20Materials) and Other Resources in [General Resources](./General%20Resources).
+Click [here](./By-Time.md) to view these literatures in a reverse chronological order. You can also find [Related Conferences](./General%20Resources/Conference.md), [Graph Learning Tools](./General%20Resources/Frameworks%20%26%20Tools/), [Learning Materials on GNNs](./General%20Resources/Learning%20Materials) and Other Resources in [General Resources](./General%20Resources).
 
 ---
 ## Hardware Acceleration for Graph Neural Networks
