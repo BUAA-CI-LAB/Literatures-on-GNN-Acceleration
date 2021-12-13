@@ -33,6 +33,8 @@ Deep graph learning acceleration papers in a chronological order.
 ## Conference
 
 ### 2021
+* [**NeurIPS**] Graph Differentiable Architecture Search with Structure Learning. *Qin et al.* [[Paper]](https://papers.nips.cc/paper/2021/file/8c9f32e03aeb2e3000825c8c875c4edd-Paper.pdf)
+* [**DAC**] DyGNN: Algorithm and Architecture Support of Dynamic Pruning for Graph Neural Networks. *Chen et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9586298)
 * [**CLUSTER**] 2PGraph: Accelerating GNN Training over Large Graphs on GPU Clusters.*Zhang et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9556026)
 * [**MICRO**] Point-X: A Spatial-Locality-Aware Architecture for Energy-Efficient Graph-Based Point-Cloud Deep Learning. *Zhang, et al.*  [[Paper]](https://dl.acm.org/doi/10.1145/3466752.3480081)
 * [**ISCAS**] Characterizing the Communication Requirements of GNN Accelerators: A Model-Based Approach. *Guirado et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9401612)
@@ -72,6 +74,7 @@ Deep graph learning acceleration papers in a chronological order.
 * [**GNNSys Workshop**] Load Balancing for Parallel GNN Training.*Su et al.* [[Paper]](https://gnnsys.github.io/papers/GNNSys21_paper_18.pdf) [[Poster]](https://gnnsys.github.io/posters/GNNSys21_poster_18.pdf)
 
 ### 2020
+* [**CVPR**] L2-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks.*You et al.* [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/You_L2-GCN_Layer-Wise_and_Learned_Efficient_Training_of_Graph_Convolutional_Networks_CVPR_2020_paper.html) 
 * [**AccML**] GIN : High-Performance, Scalable Inference for Graph Neural Networks. *Fu et al.* [[Paper]](https://workshops.inf.ed.ac.uk/accml/papers/2020/AccML_2020_paper_6.pdf)
 * [**ASAP**] Hardware Acceleration of Large Scale GCN Inference. *Zhang et al.*[[Paper]](https://ieeexplore.ieee.org/document/9153263)
 * [**DAC**] Hardware Acceleration of Graph Neural Networks. *Auten, et al.* [[Paper]](https://doi.org/10.1109/dac18072.2020.9218751)
@@ -105,6 +108,10 @@ Deep graph learning acceleration papers in a chronological order.
 ## arXiv
 
 ### 2021
+* [**arXiv**] QGTC: Accelerating Quantized GNN via GPU Tensor Core. *Wang et al.* [[Paper]](http://arxiv.org/abs/2111.09547)
+* [**arXiv**] Edge-featured Graph Neural Architecture Search.*Cai et al.* [[Paper]](http://arxiv.org/abs/2109.01356)
+* [**arXiv**] TC-GNN: Accelerating Sparse Graph Neural Network Computation Via Dense Tensor Core on GPUs. *Wang, et al.* [[Paper]](http://arxiv.org/abs/2112.02052)
+* [**arXiv**] GNNIE: GNN Inference Engine with Load-balancing and Graph-Specific Caching. *Mondal et al.* [[Paper]](http://arxiv.org/abs/2105.10554)
 * [**arXiv**] Graph Neural Networks: Methods, Applications, and Opportunities. *Waikhom et al.* [[Paper]](http://arxiv.org/abs/2108.10733)
 * [**arXiv**] Understanding the Design Space of Sparse/Dense Multiphase Dataflows for Mapping Graph Neural Networks on Spatial Accelerators. *Garg et al.* [[Paper]](https://arxiv.org/pdf/2103.07977)
 * [**arXiv**] Understanding GNN Computational Graph: A Coordinated Computation, IO, and Memory Perspective. *Zhang et al.* [[Paper]](http://arxiv.org/abs/2110.09524)
