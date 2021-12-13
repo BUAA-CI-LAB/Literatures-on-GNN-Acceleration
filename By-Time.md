@@ -7,6 +7,7 @@ Deep graph learning acceleration papers in a chronological order.
 ## Journal
 
 ### 2021
+* [**CAL**] Making a Better Use of Caches for GCN Accelerators with Feature Slicing and Automatic Tile Morphing.* [[Paper]](https://ieeexplore.ieee.org/document/9461595/)
 * [**CAL**] Hardware Acceleration for GCNs via Bidirectional Fusion. *Li et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9425440)
 * [**JPDC**] Accurate, efficient and scalable training of Graph Neural Networks *Zeng et al.* [[Paper]](https://www.sciencedirect.com/science/article/pii/S0743731520303579)
 * [**JPDC**] High performance GPU primitives for graph-tensor learning operations. *Zhang et al.* [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0743731520304007)
@@ -32,6 +33,9 @@ Deep graph learning acceleration papers in a chronological order.
 ## Conference
 
 ### 2021
+* [**CLUSTER**] 2PGraph: Accelerating GNN Training over Large Graphs on GPU Clusters.*Zhang et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9556026)
+* [**MICRO**] Point-X: A Spatial-Locality-Aware Architecture for Energy-Efficient Graph-Based Point-Cloud Deep Learning. *Zhang, et al.*  [[Paper]](https://dl.acm.org/doi/10.1145/3466752.3480081)
+* [**ISCAS**] Characterizing the Communication Requirements of GNN Accelerators: A Model-Based Approach. *Guirado et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9401612)
 * [**OSDI**] GNNAdvisor: An Adaptive and Efﬁcient Runtime System for GNN Acceleration on GPUs *Wang et al.* [[Paper]](https://www.usenix.org/system/files/osdi21-wang-yuke.pdf)
 * [**GNNSys Workshop**] Adaptive Filters and Aggregator Fusion for Efficient Graph Convolutions.*Tailor et al.* [[Paper]](https://arxiv.org/abs/2104.01481) [[GitHub]](https://github.com/shyam196/egc)
 * [**CVPR**] Bi-GCN: Binary Graph Convolutional Network. *Wang et al.* [[Paper]](https://arxiv.org/abs/2010.07565)
@@ -101,6 +105,9 @@ Deep graph learning acceleration papers in a chronological order.
 ## arXiv
 
 ### 2021
+* [**arXiv**] Graph Neural Networks: Methods, Applications, and Opportunities. *Waikhom et al.* [[Paper]](http://arxiv.org/abs/2108.10733)
+* [**arXiv**] Understanding the Design Space of Sparse/Dense Multiphase Dataflows for Mapping Graph Neural Networks on Spatial Accelerators. *Garg et al.* [[Paper]](https://arxiv.org/pdf/2103.07977)
+* [**arXiv**] Understanding GNN Computational Graph: A Coordinated Computation, IO, and Memory Perspective. *Zhang et al.* [[Paper]](http://arxiv.org/abs/2110.09524)
 * [**arXiv**] LW-GCN: A Lightweight FPGA-based Graph Convolutional Network Accelerator. *Tao, et al.* [[Paper]](https://arxiv.org/abs/2111.03184)
 * [**arXiv**] GNNSampler: Bridging the Gap between Sampling Algorithms of GNN and Hardware. *Liu et al.* [[Paper]](https://arxiv.org/abs/2108.11571v1)
 * [**arXiv**] Sampling methods for efficient training of graph convolutional networks: A survey. *Liu et al.* [[Paper]](https://arxiv.org/abs/2103.05872)
