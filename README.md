@@ -124,7 +124,7 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 * [**TKDE   2020**] Deep Learning on Graphs: A Survey. *Zhang et al.*[[paper]](https://ieeexplore.ieee.org/abstract/document/9039675)
 * [**arXiv  2021**] Graph Neural Networks: Methods, Applications, and Opportunities. *Waikhom et al.* [[Paper]](http://arxiv.org/abs/2108.10733)
 * [**ISPASS  2021**] GNNMark: A Benchmark Suite to Characterize Graph Neural Network Training on GPUs. *Baruah et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9408205)
-* [**CAL 2021**] Making a Better Use of Caches for GCN Accelerators with Feature Slicing and Automatic Tile Morphing.* [[Paper]](https://ieeexplore.ieee.org/document/9461595/)
+* [**CAL 2021**] Making a Better Use of Caches for GCN Accelerators with Feature Slicing and Automatic Tile Morphing. *Yoo et al.* [[Paper]](https://ieeexplore.ieee.org/document/9461595/)
 * [**ISPASS  2021**] Performance Analysis of Graph Neural Network Frameworks. *Wu et al.* [[Paper]](https://www.semanticscholar.org/paper/Performance-Analysis-of-Graph-Neural-Network-Wu-Sun/b6da3ab0a6e710f16e11e5890818a107d1d5735c)
 * [**arXiv 2022**] Survey on Graph Neural Network Acceleration: An Algorithmic Perspective. *Liu, et al.* [[Paper]]( https://arxiv.org/pdf/2202.04822)
 * [**arXiv 2021**] Sampling methods for efficient training of graph convolutional networks: A survey. *Liu et al.* [[Paper]](https://arxiv.org/abs/2103.05872)
