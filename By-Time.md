@@ -6,6 +6,8 @@ Deep graph learning acceleration papers in a chronological order.
 ---
 ## Journal
 
+
+
 ### 2021
 * [**CAL**] Making a Better Use of Caches for GCN Accelerators with Feature Slicing and Automatic Tile Morphing.* [[Paper]](https://ieeexplore.ieee.org/document/9461595/)
 * [**CAL**] Hardware Acceleration for GCNs via Bidirectional Fusion. *Li et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9425440)
@@ -31,6 +33,15 @@ Deep graph learning acceleration papers in a chronological order.
 
 ---
 ## Conference
+
+
+### 2022
+* [**FCCM 2022**] GenGNN: A Generic FPGA Framework for Graph Neural Network Acceleration. *Stefan, et al.* [[Paper]]( https://arxiv.org/pdf/2201.08475)
+* [**FPGA 2022**] HP-GNN: Generating High Throughput GNN Training Implementation on CPU-FPGA Heterogeneous Platform. *Lin, et al.* [[Paper]]( https://dl.acm.org/doi/pdf/10.1145/3490422.3502359)  
+* [**FPGA 2022**] DecGNN: A Framework for Mapping Decoupled GNN Models onto CPU-FPGA Heterogeneous Platform. *Zhang, et al.* [[Paper]]( https://dl.acm.org/doi/abs/10.1145/3490422.3502326)
+* [**FPGA 2022**] SPA-GCN: Efficient and Flexible GCN Accelerator with Application for Graph Similarity Computation. *Atefeh, et al.* [[Paper]]( https://arxiv.org/pdf/2111.05936)
+
+
 
 ### 2021
 * [**NeurIPS**] Graph Differentiable Architecture Search with Structure Learning. *Qin et al.* [[Paper]](https://papers.nips.cc/paper/2021/file/8c9f32e03aeb2e3000825c8c875c4edd-Paper.pdf)
@@ -106,6 +117,10 @@ Deep graph learning acceleration papers in a chronological order.
 
 ---
 ## arXiv
+
+### 2022
+* [**arXiv 2022**] Survey on Graph Neural Network Acceleration: An Algorithmic Perspective. *Liu, et al.* [[Paper]]( https://arxiv.org/pdf/2202.04822)
+
 
 ### 2021
 * [**arXiv**] QGTC: Accelerating Quantized GNN via GPU Tensor Core. *Wang et al.* [[Paper]](http://arxiv.org/abs/2111.09547)
