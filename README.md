@@ -36,6 +36,7 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 * [**CAL 2021**] Hardware Acceleration for GCNs via Bidirectional Fusion. *Li et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9425440)
 * [**DAC 2020**] Hardware Acceleration of Graph Neural Networks. *Auten, et al.* [[Paper]](https://doi.org/10.1109/dac18072.2020.9218751)
 * [**ASAP 2020**] Hardware Acceleration of Large Scale GCN Inference. *Zhang et al.*[[Paper]](https://ieeexplore.ieee.org/document/9153263)
+* [**FAST 2022**] Hardware/Software Co-Programmable Framework for Computational SSDs to Accelerate Deep Learning Service on Large-Scale Graphs. *Kwon, et al.* [[Paper]](https://arxiv.org/abs/2201.09189)
 * [**HPCA 2020**] HyGCN: A GCN Accelerator with Hybrid Architecture. *Yan, et al.* [[Paper]](https://doi.org/10.1109/HPCA47549.2020.00012)
 * [**arXiv 2021**] LW-GCN: A Lightweight FPGA-based Graph Convolutional Network Accelerator. *Tao, et al.*  [[Paper]](https://arxiv.org/abs/2111.03184)
 * [**MICRO 2021**] Point-X: A Spatial-Locality-Aware Architecture for Energy-Efficient Graph-Based Point-Cloud Deep Learning. *Zhang, et al.*  [[Paper]](https://dl.acm.org/doi/10.1145/3466752.3480081)
