@@ -9,6 +9,7 @@ Deep graph learning acceleration papers in a chronological order.
 
 
 ### 2021
+
 * [**CAL**] Making a Better Use of Caches for GCN Accelerators with Feature Slicing and Automatic Tile Morphing. [[Paper]](https://ieeexplore.ieee.org/document/9461595/)
 * [**CAL**] Hardware Acceleration for GCNs via Bidirectional Fusion. *Li et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9425440)
 * [**JPDC**] Accurate, efficient and scalable training of Graph Neural Networks *Zeng et al.* [[Paper]](https://www.sciencedirect.com/science/article/pii/S0743731520303579)
@@ -45,6 +46,10 @@ Deep graph learning acceleration papers in a chronological order.
 * [**FPGA**] SPA-GCN: Efficient and Flexible GCN Accelerator with Application for Graph Similarity Computation. *Atefeh, et al.* [[Paper]]( https://arxiv.org/pdf/2111.05936)
 
 ### 2021
+* [**KDD 2021**] DeGNN: Improving Graph Neural Networks with Graph Decomposition. *Miao, et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3447548.3467312)
+* [**ICML 2021**] Optimization of Graph Neural Networks: Implicit Acceleration by Skip Connections and More Depth. *Xu et al.* [[Paper]](http://proceedings.mlr.press/v139/xu21k/xu21k.pdf)
+* [**ICML 2021**] GraphNorm: A Principled Approach to Accelerating Graph Neural Network Training. *Cai et al.* [[Paper]](http://proceedings.mlr.press/v139/cai21e/cai21e.pdf)
+* [**ICCAD 2021**] DARe: DropLayer-Aware Manycore ReRAM architecture for Training Graph Neural Networks. *Aqeeb et al.* [[Paper]](https://ieeexplore.ieee.org/document/9643511)
 * [**DAC 2021**] PIMGCN: A ReRAM-Based PIM Design for Graph Convolutional Network Acceleration. *Yang, et al.*  [[Paper]](https://ieeexplore.ieee.org/document/9586231)
 * [**NeurIPS**] Graph Differentiable Architecture Search with Structure Learning. *Qin et al.* [[Paper]](https://papers.nips.cc/paper/2021/file/8c9f32e03aeb2e3000825c8c875c4edd-Paper.pdf)
 * [**DAC**] DyGNN: Algorithm and Architecture Support of Dynamic Pruning for Graph Neural Networks. *Chen et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9586298)
