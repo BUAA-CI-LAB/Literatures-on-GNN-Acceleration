@@ -39,6 +39,7 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 * [**FAST 2022**] Hardware/Software Co-Programmable Framework for Computational SSDs to Accelerate Deep Learning Service on Large-Scale Graphs. *Kwon, et al.* [[Paper]](https://arxiv.org/abs/2201.09189)
 * [**HPCA 2020**] HyGCN: A GCN Accelerator with Hybrid Architecture. *Yan, et al.* [[Paper]](https://doi.org/10.1109/HPCA47549.2020.00012)
 * [**arXiv 2021**] LW-GCN: A Lightweight FPGA-based Graph Convolutional Network Accelerator. *Tao, et al.*  [[Paper]](https://arxiv.org/abs/2111.03184)
+* [**DAC 2021**] PIMGCN: A ReRAM-Based PIM Design for Graph Convolutional Network Acceleration. *Yang, et al.*  [[Paper]](https://ieeexplore.ieee.org/document/9586231)
 * [**MICRO 2021**] Point-X: A Spatial-Locality-Aware Architecture for Energy-Efficient Graph-Based Point-Cloud Deep Learning. *Zhang, et al.*  [[Paper]](https://dl.acm.org/doi/10.1145/3466752.3480081)
 * [**DATE 2021**] ReGraphX: NoC-Enabled 3D Heterogeneous ReRAM Architecture for Training Graph Neural Networks. *Arka, et al.* [[Paper]](https://doi.org/10.23919/DATE51398.2021.9473949)
 * [**TCAD 2021**] Rubik: A Hierarchical Architecture for Efficient Graph Neural Network Training. *Chen et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9428002)
@@ -88,6 +89,7 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 ---
 ## Algorithmic Acceleration for Graph Neural Networks
 
+
 * [**GNNSys 2021**] Adaptive Filters and Aggregator Fusion for Efficient Graph Convolutions.*Tailor et al.* [[Paper]](https://arxiv.org/abs/2104.01481) [[GitHub]](https://github.com/shyam196/egc)
 * [**PMLR 2021**] A Unified Lottery Ticket Hypothesis for Graph Neural Networks. *Chen et al.* [[Paper]](http://proceedings.mlr.press/v139/chen21p.html)
 * [**PVLDB 2021**] Accelerating Large Scale Real-Time GNN Inference using Channel Pruning. *Zhou et al.* [[Paper]](https://doi.org/10.14778/3461535.3461547)
@@ -105,6 +107,7 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 * [**NeurIPS 2021**] Graph Differentiable Architecture Search with Structure Learning. *Qin et al.* [[Paper]](https://papers.nips.cc/paper/2021/file/8c9f32e03aeb2e3000825c8c875c4edd-Paper.pdf)
 * [**arXiv 2021**] GNNSampler: Bridging the Gap between Sampling Algorithms of GNN and Hardware. *Liu et al.* [[Paper]](https://arxiv.org/abs/2108.11571v1)
 * [**ICCAD 2021**] G-CoS: GNN-Accelerator Co-Search Towards Both Better Accuracy and Efficiency. *Zhang et al.* [[Paper]](https://arxiv.org/pdf/2109.08983.pdf)
+* [**NeurIPS 2020**] Gcn meets gpu: Decoupling “when to sample” from “how to sample”.*Morteza et al.* [[Paper]](https://proceedings.neurips.cc/paper/2020/file/d714d2c5a796d5814c565d78dd16188d-Paper.pdf)
 * [**FPGA 2022**] HP-GNN: Generating High Throughput GNN Training Implementation on CPU-FPGA Heterogeneous Platform. *Lin, et al.* [[Paper]]( https://dl.acm.org/doi/pdf/10.1145/3490422.3502359)
 * [**arXiv 2020**] Learned Low Precision Graph Neural Networks. *Zhao et al.* [[Paper]](https://www.euromlsys.eu/pub/zhao21euromlsys.pdf)
 * [**RTAS 2021**] Optimizing Memory Efficiency of Graph Neural Networks on Edge Computing Platforms. *Zhou et al.* [[Paper]](https://arxiv.org/abs/2104.03058) [[GitHub]](https://github.com/BUAA-CI-Lab/GNN-Feature-Decomposition)

@@ -9,7 +9,7 @@ Deep graph learning acceleration papers in a chronological order.
 
 
 ### 2021
-* [**CAL**] Making a Better Use of Caches for GCN Accelerators with Feature Slicing and Automatic Tile Morphing.* [[Paper]](https://ieeexplore.ieee.org/document/9461595/)
+* [**CAL**] Making a Better Use of Caches for GCN Accelerators with Feature Slicing and Automatic Tile Morphing. [[Paper]](https://ieeexplore.ieee.org/document/9461595/)
 * [**CAL**] Hardware Acceleration for GCNs via Bidirectional Fusion. *Li et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9425440)
 * [**JPDC**] Accurate, efficient and scalable training of Graph Neural Networks *Zeng et al.* [[Paper]](https://www.sciencedirect.com/science/article/pii/S0743731520303579)
 * [**JPDC**] High performance GPU primitives for graph-tensor learning operations. *Zhang et al.* [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0743731520304007)
@@ -21,6 +21,8 @@ Deep graph learning acceleration papers in a chronological order.
 * [**TPDS**] Efficient Data Loader for Fast Sampling-Based GNN Training on Large Graphs. *Bai et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9376972)
 
 ### 2020
+
+* [**NeurIPS 2020**] Gcn meets gpu: Decoupling “when to sample” from “how to sample”.*Morteza et al.* [[Paper]](https://proceedings.neurips.cc/paper/2020/file/d714d2c5a796d5814c565d78dd16188d-Paper.pdf)
 * [**CCIS**] GNN-PIM: A Processing-in-Memory Architecture for Graph Neural Networks. *Wang et al.* [[Paper]](https://www.semanticscholar.org/paper/GNN-PIM%3A-A-Processing-in-Memory-Architecture-for-Wang-Guan/1d03e4bebc9cf3c3fdd9204504d92b20d97d1fdf)
 * [**IEEE Access**] FPGAN: An FPGA Accelerator for Graph Attention Networks With Software and Hardware Co-Optimization. *Yan et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9195849)
 * [**CAL**] Characterizing and Understanding GCNs on GPU. *Yan et al.* [[Paper]](https://arxiv.org/abs/2010.00130)
@@ -43,6 +45,7 @@ Deep graph learning acceleration papers in a chronological order.
 * [**FPGA**] SPA-GCN: Efficient and Flexible GCN Accelerator with Application for Graph Similarity Computation. *Atefeh, et al.* [[Paper]]( https://arxiv.org/pdf/2111.05936)
 
 ### 2021
+* [**DAC 2021**] PIMGCN: A ReRAM-Based PIM Design for Graph Convolutional Network Acceleration. *Yang, et al.*  [[Paper]](https://ieeexplore.ieee.org/document/9586231)
 * [**NeurIPS**] Graph Differentiable Architecture Search with Structure Learning. *Qin et al.* [[Paper]](https://papers.nips.cc/paper/2021/file/8c9f32e03aeb2e3000825c8c875c4edd-Paper.pdf)
 * [**DAC**] DyGNN: Algorithm and Architecture Support of Dynamic Pruning for Graph Neural Networks. *Chen et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9586298)
 * [**CLUSTER**] 2PGraph: Accelerating GNN Training over Large Graphs on GPU Clusters.*Zhang et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9556026)
