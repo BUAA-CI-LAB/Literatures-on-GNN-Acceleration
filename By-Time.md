@@ -39,6 +39,11 @@ Deep graph learning acceleration papers in a chronological order.
 
 
 ### 2022
+* [**MLSys 2022**] BNS-GCN: Efficient Full-Graph Training of Graph Convolutional Networks with Boundary Node Sampling. *Wan et al.* [[Paper]](https://arxiv.org/pdf/2203.10983.pdf)
+* [**ICLR 2022**] PipeGCN: Efficient full-graph training of graph convolutional networks with pipelined feature communication. *Wan et al.* [[Paper]](https://arxiv.org/pdf/2203.10428.pdf)
+* [**AAAI 2022**] Early-Bird GCNs: Graph-Network Co-Optimization Towards More Efficient GCN Training and Inference via Drawing Early-Bird Lottery Tickets. *You et al.* [[Paper]](https://www.researchgate.net/profile/Haoran-You/publication/349704520_GEBT_Drawing_Early-Bird_Tickets_in_Graph_Convolutional_Network_Training/links/61e0930dc5e3103375916c9f/GEBT-Drawing-Early-Bird-Tickets-in-Graph-Convolutional-Network-Training.pdf)
+* [**HPCA 2022**] GCoD: Graph Convolutional Network Acceleration via Dedicated Algorithm and Accelerator Co-Design. *You et al.* [[Paper]](https://arxiv.org/pdf/2112.11594)
+* [**ICLR 2022**] IGLU: Efficient GCN Training via Lazy Updates. *Narayanan et al.* [[Paper]](https://arxiv.org/pdf/2109.13995)
 * [**FAST**] Hardware/Software Co-Programmable Framework for Computational SSDs to Accelerate Deep Learning Service on Large-Scale Graphs. *Kwon, et al.* [[Paper]](https://arxiv.org/abs/2201.09189)
 * [**FCCM**] GenGNN: A Generic FPGA Framework for Graph Neural Network Acceleration. *Stefan, et al.* [[Paper]]( https://arxiv.org/pdf/2201.08475)
 * [**FPGA**] HP-GNN: Generating High Throughput GNN Training Implementation on CPU-FPGA Heterogeneous Platform. *Lin, et al.* [[Paper]]( https://dl.acm.org/doi/pdf/10.1145/3490422.3502359)  
@@ -92,6 +97,7 @@ Deep graph learning acceleration papers in a chronological order.
 * [**GNNSys Workshop**] Load Balancing for Parallel GNN Training.*Su et al.* [[Paper]](https://gnnsys.github.io/papers/GNNSys21_paper_18.pdf) [[Poster]](https://gnnsys.github.io/posters/GNNSys21_poster_18.pdf)
 
 ### 2020
+* [**ICLR 2020**] GraphSAINT: Graph Sampling Based Inductive Learning Method. *Xue et al.* [[Paper]](https://arxiv.org/pdf/1907.04931)
 * [**CVPR**] L2-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks.*You et al.* [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/You_L2-GCN_Layer-Wise_and_Learned_Efficient_Training_of_Graph_Convolutional_Networks_CVPR_2020_paper.html) 
 * [**AccML**] GIN : High-Performance, Scalable Inference for Graph Neural Networks. *Fu et al.* [[Paper]](https://workshops.inf.ed.ac.uk/accml/papers/2020/AccML_2020_paper_6.pdf)
 * [**ASAP**] Hardware Acceleration of Large Scale GCN Inference. *Zhang et al.*[[Paper]](https://ieeexplore.ieee.org/document/9153263)
@@ -126,6 +132,7 @@ Deep graph learning acceleration papers in a chronological order.
 ## arXiv
 
 ### 2022
+* [**arXiv 2022**] SUGAR: Efficient Subgraph-level Training via Resource-aware Graph Partitioning. *Xue et al.* [[Paper]](https://arxiv.org/pdf/2202.00075.pdf)
 * [**arXiv**] Survey on Graph Neural Network Acceleration: An Algorithmic Perspective. *Liu, et al.* [[Paper]]( https://arxiv.org/pdf/2202.04822)
 
 
