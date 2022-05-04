@@ -8,6 +8,10 @@ Deep graph learning acceleration papers in a chronological order.
 
 
 
+### 2022
+
+* [**CAL**] Characterizing and Understanding Distributed GNN Training on GPUs. *Lin et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9760056)
+
 ### 2021
 
 * [**CAL**] Making a Better Use of Caches for GCN Accelerators with Feature Slicing and Automatic Tile Morphing. [[Paper]](https://ieeexplore.ieee.org/document/9461595/)
@@ -23,32 +27,37 @@ Deep graph learning acceleration papers in a chronological order.
 
 ### 2020
 
-* [**NeurIPS 2020**] Gcn meets gpu: Decoupling “when to sample” from “how to sample”.*Morteza et al.* [[Paper]](https://proceedings.neurips.cc/paper/2020/file/d714d2c5a796d5814c565d78dd16188d-Paper.pdf)
+* [**CAL**] Characterizing and Understanding GCNs on GPU. *Yan et al.* [[Paper]](https://arxiv.org/abs/2010.00130)
 * [**CCIS**] GNN-PIM: A Processing-in-Memory Architecture for Graph Neural Networks. *Wang et al.* [[Paper]](https://www.semanticscholar.org/paper/GNN-PIM%3A-A-Processing-in-Memory-Architecture-for-Wang-Guan/1d03e4bebc9cf3c3fdd9204504d92b20d97d1fdf)
 * [**IEEE Access**] FPGAN: An FPGA Accelerator for Graph Attention Networks With Software and Hardware Co-Optimization. *Yan et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9195849)
-* [**CAL**] Characterizing and Understanding GCNs on GPU. *Yan et al.* [[Paper]](https://arxiv.org/abs/2010.00130)
+* [**NeurIPS**] Gcn meets gpu: Decoupling “when to sample” from “how to sample”.*Morteza et al.* [[Paper]](https://proceedings.neurips.cc/paper/2020/file/d714d2c5a796d5814c565d78dd16188d-Paper.pdf)
 * [**TC**] EnGN: A High-Throughput and Energy-Efficient Accelerator for Large Graph Neural Networks. *Liang et al.* [[Paper]](https://ieeexplore.ieee.org/document/9161360/)
-* [**TPDS**] EDGES: An Efficient Distributed Graph Embedding System on GPU Clusters. *Yang et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9272876)
 * [**TKDE**] Deep Learning on Graphs: A Survey. *Zhang et al.*[[paper]](https://ieeexplore.ieee.org/abstract/document/9039675)
+* [**TPDS**] EDGES: An Efficient Distributed Graph Embedding System on GPU Clusters. *Yang et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9272876)
 
 ### 2019
 * [**CoRR**] Deep Graph Library: Towards Efficient and Scalable Deep Learning on Graphs. *Wang* [[Paper]](https://arxiv.org/abs/1909.01315v2) [[GitHub]](https://github.com/dmlc/dgl/) [[Home Page]](https://www.dgl.ai/)
+
 
 ---
 ## Conference
 
 
 
-
-
 ### 2022
+* [**CICC**] StreamGCN: Accelerating Graph Convolutional Networks with Streaming Processing. *Sohrabizadeh et al.* [[Paper]](https://web.cs.ucla.edu/~atefehsz/publication/StreamGCN-CICC22.pdf)
 * [**ICLR**] EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression. *Liu et al.* [[Paper]](https://openreview.net/pdf?id=vkaMaq95_rX)
 * [**ICLR**] Learn Locally, Correct Globally: A Distributed Algorithm for Training Graph Neural Networks. *Ramezani et al.* [[Paper]](https://openreview.net/forum?id=FndDxSz3LxQ)
 * [**ICLR**] Graph-less Neural Networks: Teaching Old MLPs New Tricks Via Distillation. *Zhang et al.* [[Paper]](https://openreview.net/forum?id=4p6_5HBWPCw)
 * [**ICLR**] Adaptive Filters for Low-Latency and Memory-Efficient Graph Neural Networks. *Tailor et al.* [[Paper]](https://openreview.net/forum?id=hl9ePdHO4_s)
-* [**www**] Resource-Efficient Training for Large Graph Convolutional Networks with Label-Centric Cumulative Sampling. *Lin et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3485447.3512165)
-* [**www**] PaSca: A Graph Neural Architecture Search System under the Scalable Paradigm. *Zhang et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3485447.3511986)
+* [**WWW**] Resource-Efficient Training for Large Graph Convolutional Networks with Label-Centric Cumulative Sampling. *Lin et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3485447.3512165)
+* [**WWW**] PaSca: A Graph Neural Architecture Search System under the Scalable Paradigm. *Zhang et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3485447.3511986)
+* [**WWW**] Fograph: Enabling Real-Time Deep Graph Inference with Fog Computing. *Zeng et al.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485447.3511982)
+* [**MLSys**] Accelerating Training and Inference of Graph Neural Networks with Fast Sampling and Pipelining. *Kaler et al.* [[Paper]](https://proceedings.mlsys.org/paper/2022/hash/35f4a8d465e6e1edc05f3d8ab658c551-Abstract.html)
 * [**MLSys**] BNS-GCN: Efficient Full-Graph Training of Graph Convolutional Networks with Boundary Node Sampling. *Wan et al.* [[Paper]](https://arxiv.org/pdf/2203.10983.pdf)
+* [**MLSys**] Graphiler: Optimizing Graph Neural Networks with Message Passing Data Flow Graph. *Xie et al.* [[Paper]](https://proceedings.mlsys.org/paper/2022/hash/a87ff679a2f3e71d9181a67b7542122c-Abstract.html)
+* [**MLSys**] Sequential Aggregation and Rematerialization: Distributed Full-batch Training of Graph Neural Networks on Large Graphs. *Mostafa.* [[Paper]](https://proceedings.mlsys.org/paper/2022/hash/5fd0b37cd7dbbb00f97ba6ce92bf5add-Abstract.html)
+* [**MLSys**] Understanding GNN Computational Graph: A Coordinated Computation, IO, and Memory Perspective. *Zhang et al.* [[Paper]](http://arxiv.org/abs/2110.09524)
 * [**ICLR**] PipeGCN: Efficient full-graph training of graph convolutional networks with pipelined feature communication. *Wan et al.* [[Paper]](https://arxiv.org/pdf/2203.10428.pdf)
 * [**AAAI**] Early-Bird GCNs: Graph-Network Co-Optimization Towards More Efficient GCN Training and Inference via Drawing Early-Bird Lottery Tickets. *You et al.* [[Paper]](https://www.researchgate.net/profile/Haoran-You/publication/349704520_GEBT_Drawing_Early-Bird_Tickets_in_Graph_Convolutional_Network_Training/links/61e0930dc5e3103375916c9f/GEBT-Drawing-Early-Bird-Tickets-in-Graph-Convolutional-Network-Training.pdf)
 * [**HPCA**] GCoD: Graph Convolutional Network Acceleration via Dedicated Algorithm and Accelerator Co-Design. *You et al.* [[Paper]](https://arxiv.org/pdf/2112.11594)
@@ -146,6 +155,9 @@ Deep graph learning acceleration papers in a chronological order.
 ### 2022
 * [**arXiv**] SUGAR: Efficient Subgraph-level Training via Resource-aware Graph Partitioning. *Xue et al.* [[Paper]](https://arxiv.org/pdf/2202.00075.pdf)
 * [**arXiv**] Survey on Graph Neural Network Acceleration: An Algorithmic Perspective. *Liu, et al.* [[Paper]]( https://arxiv.org/pdf/2202.04822)
+* [**arXiv**] FlowGNN: A Dataflow Architecture for Universal Graph Neural Network Inference via Multi-Queue Streaming. *Sarkar et al.* [[Paper]](https://arxiv.org/abs/2204.13103)
+* [**arXiv**] GROW: A Row-Stationary Sparse-Dense GEMM Accelerator for Memory-Efficient Graph Convolutional Neural Networks. *Kang et al.* [[Paper]](https://arxiv.org/abs/2203.00158)
+* [**arXiv**] Enabling Flexibility for Sparse Tensor Acceleration via Heterogeneity. *Qin et al.* [[Paper]](https://arxiv.org/abs/2201.08916)
 
 
 ### 2021
@@ -155,7 +167,6 @@ Deep graph learning acceleration papers in a chronological order.
 * [**arXiv**] GNNIE: GNN Inference Engine with Load-balancing and Graph-Specific Caching. *Mondal et al.* [[Paper]](http://arxiv.org/abs/2105.10554)
 * [**arXiv**] Graph Neural Networks: Methods, Applications, and Opportunities. *Waikhom et al.* [[Paper]](http://arxiv.org/abs/2108.10733)
 * [**arXiv**] Understanding the Design Space of Sparse/Dense Multiphase Dataflows for Mapping Graph Neural Networks on Spatial Accelerators. *Garg et al.* [[Paper]](https://arxiv.org/pdf/2103.07977)
-* [**arXiv**] Understanding GNN Computational Graph: A Coordinated Computation, IO, and Memory Perspective. *Zhang et al.* [[Paper]](http://arxiv.org/abs/2110.09524)
 * [**arXiv**] LW-GCN: A Lightweight FPGA-based Graph Convolutional Network Accelerator. *Tao, et al.* [[Paper]](https://arxiv.org/abs/2111.03184)
 * [**arXiv**] GNNSampler: Bridging the Gap between Sampling Algorithms of GNN and Hardware. *Liu et al.* [[Paper]](https://arxiv.org/abs/2108.11571v1)
 * [**arXiv**] Sampling methods for efficient training of graph convolutional networks: A survey. *Liu et al.* [[Paper]](https://arxiv.org/abs/2103.05872)
