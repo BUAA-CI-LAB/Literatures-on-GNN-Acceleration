@@ -148,7 +148,6 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 ## Surveys and Performance Analysis on Graph Learning
 * [**GNNSys 2021**] Analyzing the Performance of Graph Neural Networks with Pipe Parallelism.*T. Dearing et al.* [[Paper]](https://gnnsys.github.io/papers/GNNSys21_paper_12.pdf) [[Poster]](https://gnnsys.github.io/posters/GNNSys21_poster_12.pdf)
 * [**IJCAI 2021**] Automated Machine Learning on Graphs: A Survey. *Zhang et al.* [[Paper]](https://arxiv.org/abs/2103.00742)
-* [**ICPAHD 2021**] A Review on Important Issues in GCN Accelerator Design. *Miao.* [[Paper]](https://www.atlantis-press.com/proceedings/icpahd-21/125969443)
 * [**arXiv 2021**] A Taxonomy for Classification and Comparison of Dataflows for GNN Accelerators. *Garg et al.* [[Paper]](https://arxiv.org/abs/2103.07977)
 * [**ISCAS 2021**] Characterizing the Communication Requirements of GNN Accelerators: A Model-Based Approach. *Guirado et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9401612)
 * [**CAL 2022**] Characterizing and Understanding Distributed GNN Training on GPUs. *Lin et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9760056)
