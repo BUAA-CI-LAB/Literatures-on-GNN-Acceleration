@@ -96,7 +96,6 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
 ---
 ## Algorithmic Acceleration for Graph Neural Networks
-
 * [**ICLR 2022**] Adaptive Filters for Low-Latency and Memory-Efficient Graph Neural Networks. *Tailor et al.* [[Paper]](https://openreview.net/forum?id=hl9ePdHO4_s)
 * [**GNNSys 2021**] Adaptive Filters and Aggregator Fusion for Efficient Graph Convolutions.*Tailor et al.* [[Paper]](https://arxiv.org/abs/2104.01481) [[GitHub]](https://github.com/shyam196/egc)
 * [**PMLR 2021**] A Unified Lottery Ticket Hypothesis for Graph Neural Networks. *Chen et al.* [[Paper]](http://proceedings.mlr.press/v139/chen21p.html)
@@ -109,6 +108,7 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 * [**KDD 2021**] DeGNN: Improving Graph Neural Networks with Graph Decomposition. *Miao, et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3447548.3467312)
 * [**FPGA 2022**] DecGNN: A Framework for Mapping Decoupled GNN Models onto CPU-FPGA Heterogeneous Platform. *Zhang, et al.* [[Paper]]( https://dl.acm.org/doi/abs/10.1145/3490422.3502326)
 * [**ICLR  2021**] Degree-Quant: Quantization-Aware Training for Graph Neural Networks. *Tailor et al.* [[Paper]](https://arxiv.org/abs/2008.05000)
+* [**ICML 2022**] Efficient Computation of Higher-Order Subgraph Attribution via Message Passing. *Xiong et al.* [[Paper]](https://icml.cc/Conferences/2022/Schedule?showEvent=17546)
 * [**ICLR 2022**] EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression. *Liu et al.* [[Paper]](https://openreview.net/pdf?id=vkaMaq95_rX)
 * [**AAAI 2022**] Early-Bird GCNs: Graph-Network Co-Optimization Towards More Efficient GCN Training and Inference via Drawing Early-Bird Lottery Tickets. *You et al.* [[Paper]](https://www.researchgate.net/profile/Haoran-You/publication/349704520_GEBT_Drawing_Early-Bird_Tickets_in_Graph_Convolutional_Network_Training/links/61e0930dc5e3103375916c9f/GEBT-Drawing-Early-Bird-Tickets-in-Graph-Convolutional-Network-Training.pdf)
 * [**arXiv 2021**] Edge-featured Graph Neural Architecture Search.*Cai et al.* [[Paper]](http://arxiv.org/abs/2109.01356)
@@ -117,6 +117,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 * [**GNNSys 2021**] Effiicent Distribution for Deep Learning on Large Graphs.*Hoang et al.* [[Paper]](https://gnnsys.github.io/papers/GNNSys21_paper_16.pdf) [[Poster]](https://gnnsys.github.io/posters/GNNSys21_poster_16.pdf)
 * [**ICLR 2021 Open Review**] FGNAS: FPGA-AWARE GRAPH NEURAL ARCHITECTURE SEARCH. *Qing et al.* [[Paper]](https://openreview.net/pdf?id=cq4FHzAz9eA)
 * [**WWW 2022**] Fograph: Enabling Real-Time Deep Graph Inference with Fog Computing. *Zeng et al.* [[Paper]](
+* [**ICML 2022**] Generalization Guarantee of Training Graph Convolutional Networks with Graph Topology Sampling. *Li et al.* [[Paper]](https://icml.cc/Conferences/2022/Schedule?showEvent=16764)
+* [**ICML 2022**] GraphFM: Improving Large-Scale GNN Training via Feature Momentum. *Yu et al.* [[Paper]](https://arxiv.org/abs/2206.07161)
 * [**ICLR 2022**] Graph-less Neural Networks: Teaching Old MLPs New Tricks Via Distillation. *Zhang et al.* [[Paper]](https://openreview.net/forum?id=4p6_5HBWPCw)
 * [**ICDM 2021**] GraphANGEL: Adaptive aNd Structure-Aware Sampling on Graph NEuraL Networks. *Peng et al.* [[Paper]](https://ieeexplore.ieee.org/document/9679081)
 * [**MLSys 2022**] Graphiler: Optimizing Graph Neural Networks with Message Passing Data Flow Graph. *Xie et al.* [[Paper]](https://proceedings.mlsys.org/paper/2022/hash/a87ff679a2f3e71d9181a67b7542122c-Abstract.html)
@@ -129,6 +131,7 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 * [**NeurIPS 2020**] Gcn meets gpu: Decoupling “when to sample” from “how to sample”.*Morteza et al.* [[Paper]](https://proceedings.neurips.cc/paper/2020/file/d714d2c5a796d5814c565d78dd16188d-Paper.pdf)
 * [**FPGA 2022**] HP-GNN: Generating High Throughput GNN Training Implementation on CPU-FPGA Heterogeneous Platform. *Lin, et al.* [[Paper]]( https://dl.acm.org/doi/pdf/10.1145/3490422.3502359)
 * [**ICLR 2022**] IGLU: Efficient GCN Training via Lazy Updates. *Narayanan et al.* [[Paper]](https://arxiv.org/pdf/2109.13995)
+* [**ICML 2022**] Scalable Deep Gaussian Markov Random Fields for General Graphs. *Oskarsson et al.* [[Paper]](https://arxiv.org/abs/2206.05032)
 * [**ICLR 2022**] Learn Locally, Correct Globally: A Distributed Algorithm for Training Graph Neural Networks. *Ramezani et al.* [[Paper]](https://openreview.net/forum?id=FndDxSz3LxQ)
 * [**arXiv 2020**] Learned Low Precision Graph Neural Networks. *Zhao et al.* [[Paper]](https://www.euromlsys.eu/pub/zhao21euromlsys.pdf)
 * [**ICML 2021**] Optimization of Graph Neural Networks: Implicit Acceleration by Skip Connections and More Depth. *Xu et al.* [[Paper]](http://proceedings.mlr.press/v139/xu21k/xu21k.pdf)
@@ -158,6 +161,7 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 * [**arXiv  2021**] Graph Neural Networks: Methods, Applications, and Opportunities. *Waikhom et al.* [[Paper]](http://arxiv.org/abs/2108.10733)
 * [**ISPASS  2021**] GNNMark: A Benchmark Suite to Characterize Graph Neural Network Training on GPUs. *Baruah et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9408205)
 * [**CAL 2021**] Making a Better Use of Caches for GCN Accelerators with Feature Slicing and Automatic Tile Morphing. *Yoo et al.* [[Paper]](https://ieeexplore.ieee.org/document/9461595/)
+* [**arXiv 2022**] Parallel and Distributed Graph Neural Networks: An In-Depth Concurrency Analysis. *Besta et al.* [[Paper]](https://arxiv.org/abs/2205.09702)
 * [**ISPASS  2021**] Performance Analysis of Graph Neural Network Frameworks. *Wu et al.* [[Paper]](https://www.semanticscholar.org/paper/Performance-Analysis-of-Graph-Neural-Network-Wu-Sun/b6da3ab0a6e710f16e11e5890818a107d1d5735c)
 * [**arXiv 2022**] Survey on Graph Neural Network Acceleration: An Algorithmic Perspective. *Liu, et al.* [[Paper]]( https://arxiv.org/pdf/2202.04822)
 * [**arXiv 2021**] Sampling methods for efficient training of graph convolutional networks: A survey. *Liu et al.* [[Paper]](https://arxiv.org/abs/2103.05872)

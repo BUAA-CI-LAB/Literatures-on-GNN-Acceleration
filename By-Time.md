@@ -45,6 +45,11 @@ Deep graph learning acceleration papers in a chronological order.
 
 
 ### 2022
+* [**ICML 2022**] GraphFM: Improving Large-Scale GNN Training via Feature Momentum. *Yu et al.* [[Paper]](https://arxiv.org/abs/2206.07161)
+* [**ICML 2022**] Generalization Guarantee of Training Graph Convolutional Networks with Graph Topology Sampling. *Li et al.* [[Paper]](https://icml.cc/Conferences/2022/Schedule?showEvent=16764)
+* [**ICML 2022**] Efficient Computation of Higher-Order Subgraph Attribution via Message Passing. *Xiong et al.* [[Paper]](https://icml.cc/Conferences/2022/Schedule?showEvent=17546)
+* [**ICML 2022**] Scalable Deep Gaussian Markov Random Fields for General Graphs. *Oskarsson et al.* [[Paper]](https://arxiv.org/abs/2206.05032)
+* [**ICML 2022**] LeNSE: Learning To Navigate Subgraph Embeddings for Large-Scale Combinatorial Optimisation. *Ireland et al.* [[Paper]](https://arxiv.org/abs/2205.10106)
 * [**CICC**] StreamGCN: Accelerating Graph Convolutional Networks with Streaming Processing. *Sohrabizadeh et al.* [[Paper]](https://web.cs.ucla.edu/~atefehsz/publication/StreamGCN-CICC22.pdf)
 * [**ICLR**] EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression. *Liu et al.* [[Paper]](https://openreview.net/pdf?id=vkaMaq95_rX)
 * [**ICLR**] Learn Locally, Correct Globally: A Distributed Algorithm for Training Graph Neural Networks. *Ramezani et al.* [[Paper]](https://openreview.net/forum?id=FndDxSz3LxQ)
@@ -153,6 +158,7 @@ Deep graph learning acceleration papers in a chronological order.
 ## arXiv
 
 ### 2022
+* [**arXiv 2022**] Parallel and Distributed Graph Neural Networks: An In-Depth Concurrency Analysis. *Besta et al.* [[Paper]](https://arxiv.org/abs/2205.09702)
 * [**arXiv**] SUGAR: Efficient Subgraph-level Training via Resource-aware Graph Partitioning. *Xue et al.* [[Paper]](https://arxiv.org/pdf/2202.00075.pdf)
 * [**arXiv**] Survey on Graph Neural Network Acceleration: An Algorithmic Perspective. *Liu, et al.* [[Paper]]( https://arxiv.org/pdf/2202.04822)
 * [**arXiv**] FlowGNN: A Dataflow Architecture for Universal Graph Neural Network Inference via Multi-Queue Streaming. *Sarkar et al.* [[Paper]](https://arxiv.org/abs/2204.13103)
