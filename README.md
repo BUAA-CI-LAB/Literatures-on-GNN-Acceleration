@@ -14,7 +14,7 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
 ---
 ## Hardware Acceleration for Graph Neural Networks
-* [**IEEE Trans Circuits Syst I 2022**] A Low-Power Graph Convolutional Network Processor With Sparse Grouping for 3D Point Cloud Semantic Segmentation in Mobile Devices. *Kim et al.* [[Paper]](https://ieeexplore.ieee.org/document/9669025)
+* [**TCS I 2022**] A Low-Power Graph Convolutional Network Processor With Sparse Grouping for 3D Point Cloud Semantic Segmentation in Mobile Devices. *Kim et al.* [[Paper]](https://ieeexplore.ieee.org/document/9669025)
 * [**HPCA 2022**] Accelerating Graph Convolutional Networks Using Crossbar-based Processing-In-Memory Architectures. *Huang et al.* [[Paper]](https://www.computer.org/csdl/proceedings-article/hpca/2022/202700b029/1Ds0gRvUFjO)
 * [**EuroSys 2021**] Accelerating Graph Sampling for Graph Machine Learning Using GPUs. *Jangda, et al.* [[Paper]]( https://doi.org/10.1145/3447786.3456244)
 * [**ASICON 2019**] An FPGA Implementation of GCN with Sparse Adjacency Matrix. *Ding et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/8983647)
