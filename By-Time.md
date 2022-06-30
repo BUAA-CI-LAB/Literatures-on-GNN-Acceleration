@@ -11,6 +11,8 @@ Deep graph learning acceleration papers in a chronological order.
 ### 2022
 
 * [**CAL**] Characterizing and Understanding Distributed GNN Training on GPUs. *Lin et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9760056)
+* [**TPDS**] SGCNAX: A Scalable Graph Convolutional Neural Network Accelerator With Workload Balancing. *Li et al.* [[Paper]](https://www.computer.org/csdl/journal/td/2022/11/09645224/1zc6JTLADC0)
+* [**TCS I**] A Low-Power Graph Convolutional Network Processor With Sparse Grouping for 3D Point Cloud Semantic Segmentation in Mobile Devices. *Kim et al.* [[Paper]](https://ieeexplore.ieee.org/document/9669025)
 
 ### 2021
 
@@ -45,11 +47,16 @@ Deep graph learning acceleration papers in a chronological order.
 
 
 ### 2022
-* [**ICML 2022**] GraphFM: Improving Large-Scale GNN Training via Feature Momentum. *Yu et al.* [[Paper]](https://arxiv.org/abs/2206.07161)
-* [**ICML 2022**] Generalization Guarantee of Training Graph Convolutional Networks with Graph Topology Sampling. *Li et al.* [[Paper]](https://icml.cc/Conferences/2022/Schedule?showEvent=16764)
-* [**ICML 2022**] Efficient Computation of Higher-Order Subgraph Attribution via Message Passing. *Xiong et al.* [[Paper]](https://icml.cc/Conferences/2022/Schedule?showEvent=17546)
-* [**ICML 2022**] Scalable Deep Gaussian Markov Random Fields for General Graphs. *Oskarsson et al.* [[Paper]](https://arxiv.org/abs/2206.05032)
-* [**ICML 2022**] LeNSE: Learning To Navigate Subgraph Embeddings for Large-Scale Combinatorial Optimisation. *Ireland et al.* [[Paper]](https://arxiv.org/abs/2205.10106)
+* [**SIGMOD**] NeutronStar: Distributed GNN Training with Hybrid Dependency Management. *Wang et al.* [[Paper]](https://doi.org/10.1145/3514221.3526134)
+* [**DAC**] Improving GNN-Based Accelerator Design Automation with Meta Learning. *Bai et al.* [[Paper]](https://vast.cs.ucla.edu/sites/default/files/publications/_DAC_22__GNN_DSE_MAML.pdf)
+* [**ISCA**] Hyperscale FPGA-as-a-service architecture for large-scale distributed graph neural network. *Li et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3470496.3527439)
+* [**ISCA**] Graphite: optimizing graph neural networks on CPUs through cooperative software-hardware techniques. *Gong et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3470496.3527403)
+* [**ISCA**] DIMMining: pruning-efficient and parallel graph mining on near-memory-computing. *Dai et al.* [[Paper]](https://doi.org/10.1145/3470496.3527388)
+* [**ICML**] GraphFM: Improving Large-Scale GNN Training via Feature Momentum. *Yu et al.* [[Paper]](https://arxiv.org/abs/2206.07161)
+* [**ICML**] Generalization Guarantee of Training Graph Convolutional Networks with Graph Topology Sampling. *Li et al.* [[Paper]](https://icml.cc/Conferences/2022/Schedule?showEvent=16764)
+* [**ICML**] Efficient Computation of Higher-Order Subgraph Attribution via Message Passing. *Xiong et al.* [[Paper]](https://icml.cc/Conferences/2022/Schedule?showEvent=17546)
+* [**ICML**] Scalable Deep Gaussian Markov Random Fields for General Graphs. *Oskarsson et al.* [[Paper]](https://arxiv.org/abs/2206.05032)
+* [**ICML**] LeNSE: Learning To Navigate Subgraph Embeddings for Large-Scale Combinatorial Optimisation. *Ireland et al.* [[Paper]](https://arxiv.org/abs/2205.10106)
 * [**CICC**] StreamGCN: Accelerating Graph Convolutional Networks with Streaming Processing. *Sohrabizadeh et al.* [[Paper]](https://web.cs.ucla.edu/~atefehsz/publication/StreamGCN-CICC22.pdf)
 * [**ICLR**] EXACT: Scalable Graph Neural Networks Training via Extreme Activation Compression. *Liu et al.* [[Paper]](https://openreview.net/pdf?id=vkaMaq95_rX)
 * [**ICLR**] Learn Locally, Correct Globally: A Distributed Algorithm for Training Graph Neural Networks. *Ramezani et al.* [[Paper]](https://openreview.net/forum?id=FndDxSz3LxQ)
@@ -66,6 +73,8 @@ Deep graph learning acceleration papers in a chronological order.
 * [**ICLR**] PipeGCN: Efficient full-graph training of graph convolutional networks with pipelined feature communication. *Wan et al.* [[Paper]](https://arxiv.org/pdf/2203.10428.pdf)
 * [**AAAI**] Early-Bird GCNs: Graph-Network Co-Optimization Towards More Efficient GCN Training and Inference via Drawing Early-Bird Lottery Tickets. *You et al.* [[Paper]](https://www.researchgate.net/profile/Haoran-You/publication/349704520_GEBT_Drawing_Early-Bird_Tickets_in_Graph_Convolutional_Network_Training/links/61e0930dc5e3103375916c9f/GEBT-Drawing-Early-Bird-Tickets-in-Graph-Convolutional-Network-Training.pdf)
 * [**HPCA**] GCoD: Graph Convolutional Network Acceleration via Dedicated Algorithm and Accelerator Co-Design. *You et al.* [[Paper]](https://arxiv.org/pdf/2112.11594)
+* [**HPCA**] Accelerating Graph Convolutional Networks Using Crossbar-based Processing-In-Memory Architectures. *Huang et al.* [[Paper]](https://www.computer.org/csdl/proceedings-article/hpca/2022/202700b029/1Ds0gRvUFjO)
+* [**HPDC**] TLPGNN: A Lightweight Two-Level Parallelism Paradigm for Graph Neural Network Computation on GPU. *Fu et al.* [[Paper]](https://doi.org/10.1145/3502181.3531467)
 * [**ICLR**] IGLU: Efficient GCN Training via Lazy Updates. *Narayanan et al.* [[Paper]](https://arxiv.org/pdf/2109.13995)
 * [**FAST**] Hardware/Software Co-Programmable Framework for Computational SSDs to Accelerate Deep Learning Service on Large-Scale Graphs. *Kwon, et al.* [[Paper]](https://arxiv.org/abs/2201.09189)
 * [**FCCM**] GenGNN: A Generic FPGA Framework for Graph Neural Network Acceleration. *Stefan, et al.* [[Paper]]( https://arxiv.org/pdf/2201.08475)
@@ -158,7 +167,10 @@ Deep graph learning acceleration papers in a chronological order.
 ## arXiv
 
 ### 2022
-* [**arXiv 2022**] Parallel and Distributed Graph Neural Networks: An In-Depth Concurrency Analysis. *Besta et al.* [[Paper]](https://arxiv.org/abs/2205.09702)
+* [**arXiv**] Low-latency Mini-batch GNN Inference on CPU-FPGA Heterogeneous Platform. *Zhang et al.* [[Paper]](http://arxiv.org/abs/2206.08536)
+* [**arXiv**] SmartSAGE: Training Large-scale Graph Neural Networks using In-Storage Processing Architectures. *Lee et al.* [[Paper]](http://arxiv.org/abs/2205.04711)
+* [**arXiv**] Hardware/Software Co-Programmable Framework for Computational SSDs to Accelerate Deep Learning Service on Large-Scale Graphs. *Kwon et al.* [[Paper]](http://arxiv.org/abs/2201.09189)
+* [**arXiv**] Parallel and Distributed Graph Neural Networks: An In-Depth Concurrency Analysis. *Besta et al.* [[Paper]](https://arxiv.org/abs/2205.09702)
 * [**arXiv**] SUGAR: Efficient Subgraph-level Training via Resource-aware Graph Partitioning. *Xue et al.* [[Paper]](https://arxiv.org/pdf/2202.00075.pdf)
 * [**arXiv**] Survey on Graph Neural Network Acceleration: An Algorithmic Perspective. *Liu, et al.* [[Paper]]( https://arxiv.org/pdf/2202.04822)
 * [**arXiv**] FlowGNN: A Dataflow Architecture for Universal Graph Neural Network Inference via Multi-Queue Streaming. *Sarkar et al.* [[Paper]](https://arxiv.org/abs/2204.13103)
