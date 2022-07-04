@@ -102,9 +102,9 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 * [**CCIS 2020**] GNN-PIM: A Processing-in-Memory Architecture for Graph Neural Networks. 
   >*Wang et al.* [[Paper]](https://www.semanticscholar.org/paper/GNN-PIM%3A-A-Processing-in-Memory-Architecture-for-Wang-Guan/1d03e4bebc9cf3c3fdd9204504d92b20d97d1fdf)
 * [**FPGA 2020**] GraphACT: Accelerating GCN Training on CPU-FPGA Heterogeneous Platforms. 
+  >*Zeng et al.* [[Paper]](https://arxiv.org/abs/2001.02498)
 * [**ICPADS 2020**] S-GAT: Accelerating Graph Attention Networks Inference on FPGA Platform with Shift Operation. 
   >*Yan et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9359183)
-  >*Zeng et al.* [[Paper]](https://arxiv.org/abs/2001.02498)
 * [**ASAP 2020**] Hardware Acceleration of Large Scale GCN Inference. 
   >*Zhang et al.*[[Paper]](https://ieeexplore.ieee.org/document/9153263)
 * [**ICA3PP 2020**] Towards a Deep-Pipelined Architecture for Accelerating Deep GCN on a Multi-FPGA Platform. 
