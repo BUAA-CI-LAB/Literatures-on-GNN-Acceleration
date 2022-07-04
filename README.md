@@ -129,107 +129,70 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   >*Atefeh, et al.* [[Paper]]( https://arxiv.org/pdf/2111.05936)
 * [**HPDC 2022**] TLPGNN: A Lightweight Two-Level Parallelism Paradigm for Graph Neural Network Computation on GPU. 
   >*Fu et al.* [[Paper]](https://doi.org/10.1145/3502181.3531467)
-
 * [**CLUSTER 2021**] 2PGraph: Accelerating GNN Training over Large Graphs on GPU Clusters.
   >*Zhang et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9556026)
-
 * [**JPDC  2021**] Accurate, efficient and scalable training of Graph Neural Networks 
   >*Zeng et al.* [[Paper]](https://www.sciencedirect.com/science/article/pii/S0743731520303579)
-
 * [**JPDC  2021**] High performance GPU primitives for graph-tensor learning operations. 
   >*Zhang et al.* [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0743731520304007)
-
 * [**OSDI  2021**] Dorylus: Affordable, Scalable, and Accurate GNN Training with Distributed CPU Servers and Serverless Threads. 
   >*Thorpe et al.* [[Paper]](https://arxiv.org/abs/2105.11118) [[GitHub]](https://github.com/uclasystem/dorylus)
-
 * [**OSDI   2021**] GNNAdvisor: An Adaptive and Efﬁcient Runtime System for GNN Acceleration on GPUs 
   >*Wang et al.* [[Paper]](https://www.usenix.org/system/files/osdi21-wang-yuke.pdf)
-
 * [**EuroSys 2021**] DGCL: an efficient communication library for distributed GNN training. 
   >*Cai et al.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447786.3456233)
-
 * [**EuroSys  2021**] FlexGraph: a flexible and efficient distributed framework for GNN training. 
   >*Wang et al.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3447786.3456229) [[GitHub]](https://github.com/snudatalab/FlexGraph)
-
 * [**EuroSys 2021**] Seastar: vertex-centric programming for graph neural networks. 
   >*Wu, et al.* [[Paper]](https://doi.org/10.1145/3447786.3456247)
-
 * [**TPDS  2021**] Efficient Data Loader for Fast Sampling-Based GNN Training on Large Graphs. 
   >*Bai et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9376972)
-
 * [**GNNSys 2021**] FedGraphNN: A Federated Learning System and Benchmark for Graph Neural Networks.
   >*He et al.* [[Paper]](https://gnnsys.github.io/papers/GNNSys21_paper_3.pdf) [[Poster]](https://gnnsys.github.io/posters/GNNSys21_poster_3.pdf)
-
 * [**GNNSys 2021**] Graphiler: A Compiler for Graph Neural Networks.
   >*Xie et al.* [[Paper]](https://gnnsys.github.io/papers/GNNSys21_paper_10.pdf) [[Poster]](https://gnnsys.github.io/posters/GNNSys21_poster_10.pdf)
-
 * [**GNNSys 2021**] IGNNITION: A framework for fast prototyping of Graph Neural Networks.
   >*Pujol-Perich et al.* [[Paper]](https://gnnsys.github.io/papers/GNNSys21_paper_4.pdf) [[Poster]](https://gnnsys.github.io/posters/GNNSys21_poster_4.pdf)
-
 * [**GNNSys 2021**] Load Balancing for Parallel GNN Training.
   >*Su et al.* [[Paper]](https://gnnsys.github.io/papers/GNNSys21_paper_18.pdf) [[Poster]](https://gnnsys.github.io/posters/GNNSys21_poster_18.pdf)
-
 * [**IPDPS  2021**] FusedMM: A Unified SDDMM-SpMM Kernel for Graph Embedding and Graph Neural Networks. 
   >*Rahman et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9460486)
-
 * [**arXiv  2021**] PyTorch Geometric Temporal: Spatiotemporal Signal Processing with Neural Machine Learning Models. 
   >*Rozemberczki et al.* [[Paper]](https://arxiv.org/abs/2104.07788) [[GitHub]](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)
-
 * [**arXiv 2021**] QGTC: Accelerating Quantized GNN via GPU Tensor Core. 
   >*Wang et al.* [[Paper]](http://arxiv.org/abs/2111.09547)
-
 * [**arXiv 2021**] TC-GNN: Accelerating Sparse Graph Neural Network Computation Via Dense Tensor Core on GPUs. 
   >*Wang, et al.* [[Paper]](http://arxiv.org/abs/2112.02052)
-
 * [**ICCAD 2020**] fuseGNN: accelerating graph convolutional neural network training on GPGPU. 
   >*Chen et al.* [[Paper]](https://ieeexplore.ieee.org/document/9256702) [[GitHub]](https://github.com/apuaaChen/gcnLib)
-
 * [**SC 2020**] FeatGraph: A Flexible and Efficient Backend for Graph Neural Network Systems. 
   >*Hu et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9355318) [[Github]](https://github.com/amazon-research/FeatGraph)
-
 * [**MLSys  2020**] Improving the Accuracy, Scalability, and Performance of  Graph Neural Networks with Roc. 
   >*Jia* [[Paper]](https://www-cs.stanford.edu/people/matei/papers/2020/mlsys_roc.pdf)
-
 * [**CVPR 2020**] L2-GCN: Layer-Wise and Learned Efficient Training of Graph Convolutional Networks.
   >*You et al.* [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/You_L2-GCN_Layer-Wise_and_Learned_Efficient_Training_of_Graph_Convolutional_Networks_CVPR_2020_paper.html) 
-
 * [**TPDS  2020**] EDGES: An Efficient Distributed Graph Embedding System on GPU Clusters. 
   >*Yang et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9272876)
-
 * [**AccML  2020**] GIN : High-Performance, Scalable Inference for Graph Neural Networks. 
   >*Fu et al.* [[Paper]](https://workshops.inf.ed.ac.uk/accml/papers/2020/AccML_2020_paper_6.pdf)
-
 * [**SoCC  2020**] PaGraph: Scaling GNN training on large graphs via computation-aware caching. 
   >*Lin et al.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3419111.3421281)
-
 * [**IPDPS  2020**] Pcgcn: Partition-centric processing for accelerating graph convolutional network. 
   >*Tian et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9139807/)
-
 * [**IA3  2020**] DistDGL: Distributed Graph Neural Network Training for Billion-Scale Graphs. 
   >*Zheng et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9407264)
-
 * [**CoRR  2019**] Deep Graph Library: Towards Efficient and Scalable Deep Learning on Graphs. 
   >*Wang* [[Paper]](https://arxiv.org/abs/1909.01315v2) [[GitHub]](https://github.com/dmlc/dgl/) [[Home Page]](https://www.dgl.ai/)
-
 * [**ICLR  2019**] Fast Graph Representation Learning with PyTorch Geometric. 
   >*Fey et al.* [[Paper]](https://arxiv.org/abs/1903.02428) [[GitHub]](https://github.com/rusty1s/pytorch_geometric) [[Documentation]](https://pytorch-geometric.readthedocs.io/en/latest/)
-
 * [**KDD  2019**] AliGraph: a comprehensive graph neural network platform. 
   >*Yang et al.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3292500.3340404) [[GitHub]](https://github.com/alibaba/graph-learn)
-
 * [**SysML 2019**] PyTorch-BigGraph: A Large-scale Graph Embedding System. 
   >*Lerer et al.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3292500.3340404) [[GitHub]](https://github.com/facebookresearch/PyTorch-BigGraph)
-
 * [**ATC  2019**] NeuGraph: Parallel Deep Neural Network Computation on Large Graphs. 
   >*Ma et al.* [[Paper]](https://www.usenix.org/conference/atc19/presentation/ma)
-
 * [**arXiv 2018**] Relational inductive biases, deep learning, and graph networks. 
   >*Battaglia et al.* [[Paper]](https://arxiv.org/abs/1806.01261) [[GitHub]](https://github.com/deepmind/graph_nets)
-
-
-
-
-
 ---
 ## Algorithmic Acceleration for Graph Neural Networks
 
