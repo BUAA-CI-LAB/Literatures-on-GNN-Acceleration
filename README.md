@@ -24,37 +24,37 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 * [**ISCA 2022**] DIMMining: pruning-efficient and parallel graph mining on near-memory-computing. 
   >*Dai G, Zhu Z, Fu T, et al.* [[Paper]](https://doi.org/10.1145/3470496.3527388)
 * [**ISCA 2022**] Hyperscale FPGA-as-a-service architecture for large-scale distributed graph neural network. 
-  >*Li et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3470496.3527439)
+  >*Li S, Niu D, Wang Y, et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3470496.3527439)
 * [**DAC 2022**] Improving GNN-Based Accelerator Design Automation with Meta Learning. 
-  >*Bai et al.* [[Paper]](https://vast.cs.ucla.edu/sites/default/files/publications/_DAC_22__GNN_DSE_MAML.pdf)
+  >*Bai Y, Sohrabizadeh A, Sun Y, et al.* [[Paper]](https://vast.cs.ucla.edu/sites/default/files/publications/_DAC_22__GNN_DSE_MAML.pdf)
 * [**CICC 2022**] StreamGCN: Accelerating Graph Convolutional Networks with Streaming Processing.    
-  >*Sohrabizadeh et al.* [[Paper]](https://web.cs.ucla.edu/~atefehsz/publication/StreamGCN-CICC22.pdf)
+  >*Sohrabizadeh A, Chi Y, Cong J.* [[Paper]](https://web.cs.ucla.edu/~atefehsz/publication/StreamGCN-CICC22.pdf)
 * [**IPDPS 2022**] Model-Architecture Co-Design for High Performance Temporal GNN Inference on FPGA. 
-  >*Zhou et al.* [[Paper]](https://arxiv.org/abs/2203.05095)
+  >*Zhou H, Zhang B, Kannan R, et al.* [[Paper]](https://arxiv.org/abs/2203.05095)
 * [**TPDS 2022**] SGCNAX: A Scalable Graph Convolutional Neural Network Accelerator With Workload Balancing. 
-  >*Li et al.* [[Paper]](https://www.computer.org/csdl/journal/td/2022/11/09645224/1zc6JTLADC0)
+  >*Li J, Zheng H, Wang K, et al.* [[Paper]](https://www.computer.org/csdl/journal/td/2022/11/09645224/1zc6JTLADC0)
 * [**TCSI 2022**] A Low-Power Graph Convolutional Network Processor With Sparse Grouping for 3D Point Cloud Semantic Segmentation in Mobile Devices. 
-  >*Kim et al.* [[Paper]](https://ieeexplore.ieee.org/document/9669025)
+  >*Kim S, Kim S, Lee J, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9669025)
 * [**FCCM 2022**] GenGNN: A Generic FPGA Framework for Graph Neural Network Acceleration. 
-  >*Stefan, et al.* [[Paper]]( https://arxiv.org/pdf/2201.08475)
+  >*Abi-Karam S, He Y, Sarkar R, et al.* [[Paper]]( https://arxiv.org/pdf/2201.08475) [[GitHub]](https://github.com/sharc-lab/gengnn)
 * [**FAST 2022**] Hardware/Software Co-Programmable Framework for Computational SSDs to Accelerate Deep Learning Service on Large-Scale Graphs. 
-  >*Kwon, et al.* [[Paper]](https://arxiv.org/abs/2201.09189)
+  >*Kwon M, Gouk D, Lee S, et al.* [[Paper]](https://arxiv.org/abs/2201.09189)
 * [**arXiv 2022**] GROW: A Row-Stationary Sparse-Dense GEMM Accelerator for Memory-Efficient Graph Convolutional Neural Networks. 
-  >*Kang et al.* [[Paper]](https://arxiv.org/abs/2203.00158)
+  >*Kang M, Hwang R, Lee J, et al.* [[Paper]](https://arxiv.org/abs/2203.00158)
 * [**arXiv 2022**] Enabling Flexibility for Sparse Tensor Acceleration via Heterogeneity. 
-  >*Qin et al.* [[Paper]](https://arxiv.org/abs/2201.08916)
+  >*Qin E, Garg R, Bambhaniya A, et al.* [[Paper]](https://arxiv.org/abs/2201.08916)
 * [**arXiv 2022**] FlowGNN: A Dataflow Architecture for Universal Graph Neural Network Inference via Multi-Queue Streaming. 
-  >*Sarkar et al.* [[Paper]](https://arxiv.org/abs/2204.13103)
-* [**arXiv 2022**] Low-latency Mini-batch GNN Inference on CPU-FPGA Heterogeneous Platform. 
-  >*Zhang et al.* [[Paper]](http://arxiv.org/abs/2206.08536)
+  >*Sarkar R, Abi-Karam S, He Y, et al.* [[Paper]](https://arxiv.org/abs/2204.13103) [[GitHub]](https://github.com/sharc-lab/flowgnn)
+* [**arXiv 2022**] Low-latency Mini-batch GNN Inference on CPU-FPGA Heterogeneous Platform. 
+  >*Zhang B, Zeng H, Prasanna V.* [[Paper]](http://arxiv.org/abs/2206.08536)
 * [**arXiv 2022**] SmartSAGE: Training Large-scale Graph Neural Networks using In-Storage Processing Architectures. 
-  >*Lee et al.* [[Paper]](http://arxiv.org/abs/2205.04711)
+  >*Lee Y, Chung J, Rhu M.* [[Paper]](http://arxiv.org/abs/2205.04711)
 * [**MICRO 2021**] AWB-GCN: A Graph Convolutional Network Accelerator with Runtime Workload Rebalancing. 
-  >*Geng et al.* [[Paper]](https://ieeexplore.ieee.org/document/9252000)
+  >*Geng T, Li A, Shi R, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9252000)
 * [**MICRO 2021**] Point-X: A Spatial-Locality-Aware Architecture for Energy-Efficient Graph-Based Point-Cloud Deep Learning. 
-  >*Zhang, et al.*  [[Paper]](https://dl.acm.org/doi/10.1145/3466752.3480081)
+  >*Zhang J F, Zhang Z.*  [[Paper]](https://dl.acm.org/doi/10.1145/3466752.3480081)
 * [**HPCA 2021**] GCNAX: A Flexible and Energy-efficient Accelerator for Graph Convolutional Neural Networks. 
-  >*Li et al.* [[Paper]](https://doi.org/10.1109/HPCA51647.2021.00070)
+  >*Li J, Louri A, Karanth A, et al.* [[Paper]](https://doi.org/10.1109/HPCA51647.2021.00070)
 * [**DAC 2021**] DyGNN: Algorithm and Architecture Support of Dynamic Pruning for Graph Neural Networks. 
   >*Chen et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9586298)
 * [**DAC 2021**] BlockGNN: Towards Efficient GNN Acceleration Using Block-Circulant Weight Matrices. 
