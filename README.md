@@ -308,39 +308,39 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 * [**arXiv 2022**] Parallel and Distributed Graph Neural Networks: An In-Depth Concurrency Analysis. 
   >*Besta M, Hoefler T.* [[Paper]](https://arxiv.org/abs/2205.09702)
 * [**arXiv 2022**] Survey on Graph Neural Network Acceleration: An Algorithmic Perspective. 
-  >*Liu, et al.* [[Paper]]( https://arxiv.org/pdf/2202.04822)
+  >*Liu X, Yan M, Deng L, et al.* [[Paper]]( https://arxiv.org/pdf/2202.04822)
 * [**GNNSys 2021**] Analyzing the Performance of Graph Neural Networks with Pipe Parallelism.
-  >*T. Dearing et al.* [[Paper]](https://gnnsys.github.io/papers/GNNSys21_paper_12.pdf) [[Poster]](https://gnnsys.github.io/posters/GNNSys21_poster_12.pdf)
+  >*Dearing M T, Wang X.* [[Paper]](https://gnnsys.github.io/papers/GNNSys21_paper_12.pdf) [[Poster]](https://gnnsys.github.io/posters/GNNSys21_poster_12.pdf)
 * [**IJCAI 2021**] Automated Machine Learning on Graphs: A Survey. 
-  >*Zhang et al.* [[Paper]](https://arxiv.org/abs/2103.00742)
+  >*Zhang Z, Wang X, Zhu W.* [[Paper]](https://arxiv.org/abs/2103.00742)
 * [**PPoPP 2021**] Understanding and bridging the gaps in current GNN performance optimizations. 
-  >*Huang et al.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3437801.3441585)
+  >*Huang K, Zhai J, Zheng Z, et al.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3437801.3441585)
 * [**ISCAS 2021**] Characterizing the Communication Requirements of GNN Accelerators: A Model-Based Approach. 
-  >*Guirado et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9401612)
+  >*Guirado R, Jain A, Abadal S, et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9401612)
 * [**ISPASS  2021**] GNNMark: A Benchmark Suite to Characterize Graph Neural Network Training on GPUs. 
-  >*Baruah et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9408205)
+  >*Baruah T, Shivdikar K, Dong S, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9408205)
 * [**ISPASS  2021**] Performance Analysis of Graph Neural Network Frameworks. 
-  >*Wu et al.* [[Paper]](https://www.semanticscholar.org/paper/Performance-Analysis-of-Graph-Neural-Network-Wu-Sun/b6da3ab0a6e710f16e11e5890818a107d1d5735c)
+  >*Wu J, Sun J, Sun H, et al.* [[Paper]](https://www.semanticscholar.org/paper/Performance-Analysis-of-Graph-Neural-Network-Wu-Sun/b6da3ab0a6e710f16e11e5890818a107d1d5735c)
 * [**CAL 2021**] Making a Better Use of Caches for GCN Accelerators with Feature Slicing and Automatic Tile Morphing. 
-  >*Yoo et al.* [[Paper]](https://ieeexplore.ieee.org/document/9461595/)
+  >*Yoo M, Song J, Lee J, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9461595/)
 * [**arXiv 2021**] Understanding GNN Computational Graph: A Coordinated Computation, IO, and Memory Perspective. 
-  >*Zhang et al.* [[Paper]](http://arxiv.org/abs/2110.09524)
+  >*Zhang H, Yu Z, Dai G, et al.* [[Paper]](http://arxiv.org/abs/2110.09524)
 * [**arXiv 2021**] Understanding the Design Space of Sparse/Dense Multiphase Dataflows for Mapping Graph Neural Networks on Spatial Accelerators. 
-  >*Garg et al.* [[Paper]](https://arxiv.org/pdf/2103.07977)
+  >*Garg R, Qin E, Muñoz-Martínez F, et al.* [[Paper]](https://arxiv.org/pdf/2103.07977)
 * [**arXiv 2021**] A Taxonomy for Classification and Comparison of Dataflows for GNN Accelerators. 
-  >*Garg et al.* [[Paper]](https://arxiv.org/abs/2103.07977)
+  >*Garg R, Qin E, Martínez F M, et al.* [[Paper]](https://arxiv.org/abs/2103.07977)
 * [**arXiv  2021**] Graph Neural Networks: Methods, Applications, and Opportunities. 
-  >*Waikhom et al.* [[Paper]](http://arxiv.org/abs/2108.10733)
+  >*Waikhom L, Patgiri R.* [[Paper]](http://arxiv.org/abs/2108.10733)
 * [**arXiv 2021**] Sampling methods for efficient training of graph convolutional networks: A survey. 
-  >*Liu et al.* [[Paper]](https://arxiv.org/abs/2103.05872)
+  >*Liu X, Yan M, Deng L, et al.* [[Paper]](https://arxiv.org/abs/2103.05872)
 * [**KDD 2020**] Deep Graph Learning: Foundations, Advances and Applications. 
-  >*Rong et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3394486.3406474)
-* [**TKDE   2020**] Deep Learning on Graphs: A Survey. 
-  >*Zhang et al.*[[paper]](https://ieeexplore.ieee.org/abstract/document/9039675)
+  >*Rong Y, Xu T, Huang J, et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3394486.3406474)
+* [**TKDE 2020**] Deep Learning on Graphs: A Survey. 
+  >*Zhang Z, Cui P, Zhu W.*[[paper]](https://ieeexplore.ieee.org/abstract/document/9039675)
 * [**CAL 2020**] Characterizing and Understanding GCNs on GPU. 
-  >*Yan et al.* [[Paper]](https://arxiv.org/abs/2010.00130)
+  >*Yan M, Chen Z, Deng L, et al.* [[Paper]](https://arxiv.org/abs/2010.00130)
 * [**arXiv 2020**] Computing Graph Neural Networks: A Survey from Algorithms to Accelerators. 
-  >*Abadal et al.* [[Paper]](https://arxiv.org/abs/2010.00130)
+  >*Abadal S, Jain A, Guirado R, et al.* [[Paper]](https://arxiv.org/abs/2010.00130)
 
 
 
