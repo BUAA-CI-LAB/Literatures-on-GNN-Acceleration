@@ -56,67 +56,67 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 * [**HPCA 2021**] GCNAX: A Flexible and Energy-efficient Accelerator for Graph Convolutional Neural Networks. 
   >*Li J, Louri A, Karanth A, et al.* [[Paper]](https://doi.org/10.1109/HPCA51647.2021.00070)
 * [**DAC 2021**] DyGNN: Algorithm and Architecture Support of Dynamic Pruning for Graph Neural Networks. 
-  >*Chen et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9586298)
+  >*Chen C, Li K, Zou X, et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9586298)
 * [**DAC 2021**] BlockGNN: Towards Efficient GNN Acceleration Using Block-Circulant Weight Matrices. 
-  >*Zhou et al.* [[Paper]](https://arxiv.org/abs/2104.06214)
+  >*Zhou Z, Shi B, Zhang Z, et al.* [[Paper]](https://arxiv.org/abs/2104.06214)
 * [**DAC 2021**] GNNerator: A Hardware/Software Framework for Accelerating Graph Neural Networks. 
-  >*Stevens et al.* [[Paper]](https://arxiv.org/abs/2103.10836)
+  >*Stevens J R, Das D, Avancha S, et al.* [[Paper]](https://arxiv.org/abs/2103.10836)
 * [**DAC 2021**] PIMGCN: A ReRAM-Based PIM Design for Graph Convolutional Network Acceleration. 
-  >*Yang, et al.*  [[Paper]](https://ieeexplore.ieee.org/document/9586231)
+  >*Yang T, Li D, Han Y, et al.*  [[Paper]](https://ieeexplore.ieee.org/document/9586231)
 * [**TCAD 2021**] Rubik: A Hierarchical Architecture for Efficient Graph Neural Network Training. 
-  >*Chen et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9428002)
+  >*Chen X, Wang Y, Xie X, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9428002)
 * [**TCAD 2021**] Cambricon-G: A Polyvalent Energy-efficient Accelerator for Dynamic Graph Neural Networks. 
-  >*Song et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9326339)
+  >*Song X, Zhi T, Fan Z, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9326339)
 * [**ICCAD 2021**] DARe: DropLayer-Aware Manycore ReRAM architecture for Training Graph Neural Networks. 
-  >*Aqeeb et al.* [[Paper]](https://ieeexplore.ieee.org/document/9643511)
+  >*Arka A I, Joardar B K, Doppa J R, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9643511)
 * [**DATE 2021**] ReGraphX: NoC-Enabled 3D Heterogeneous ReRAM Architecture for Training Graph Neural Networks. 
-  >*Arka, et al.* [[Paper]](https://doi.org/10.23919/DATE51398.2021.9473949)
+  >*Arka A I, Doppa J R, Pande P P, et al.* [[Paper]](https://doi.org/10.23919/DATE51398.2021.9473949)
 * [**FCCM 2021**] BoostGCN: A Framework for Optimizing GCN Inference on FPGA. 
-  >*Zhang et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9444065)
+  >*Zhang B, Kannan R, Prasanna V.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9444065)
 * [**EuroSys 2021**] Tesseract: distributed, general graph pattern mining on evolving graphs. 
-  >*Bindschaedler, et al.* [[Paper]](https://doi.org/10.1145/3447786.3456253)
-* [**EuroSys 2021**] Accelerating Graph Sampling for Graph Machine Learning Using GPUs. 
-  >*Jangda, et al.* [[Paper]]( https://doi.org/10.1145/3447786.3456244)
+  >*Bindschaedler L, Malicevic J, Lepers B, et al.* [[Paper]](https://doi.org/10.1145/3447786.3456253)
+* [**EuroSys 2021**] Accelerating Graph Sampling for Graph Machine Learning Using GPUs. 
+  >*Jangda A, Polisetty S, Guha A, et al.* [[Paper]]( https://doi.org/10.1145/3447786.3456244)
 * [**ATC 2021**] GLIST: Towards In-Storage Graph Learning. 
-  >*Li, et al.* [[Paper]](www.usenix.org/conference/atc21/presentation/li-cangyuan)
+  >*Li C, Wang Y, Liu C, et al.* [[Paper]](www.usenix.org/conference/atc21/presentation/li-cangyuan)
 * [**CAL 2021**] Hardware Acceleration for GCNs via Bidirectional Fusion. 
-  >*Li et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9425440)
+  >*Li H, Yan M, Yang X, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9425440)
 * [**SCIS 2021**] Towards Efficient Allocation of Graph Convolutional Networks on Hybrid Computation-In-Memory Architecture. 
-  >*Chen et al.* [[Paper]](https://link.springer.com/article/10.1007/s11432-020-3248-y)
+  >*Chen J, Lin G, Chen J, et al.* [[Paper]](https://link.springer.com/article/10.1007/s11432-020-3248-y)
 * [**arXiv 2021**] GNNIE: GNN Inference Engine with Load-balancing and Graph-Specific Caching. 
-  >*Mondal et al.* [[Paper]](http://arxiv.org/abs/2105.10554)
-* [**arXiv 2021**] LW-GCN: A Lightweight FPGA-based Graph Convolutional Network Accelerator. 
-  >*Tao, et al.*  [[Paper]](https://arxiv.org/abs/2111.03184)
+  >*Mondal S, Manasi S D, Kunal K, et al.* [[Paper]](http://arxiv.org/abs/2105.10554)
+* [**arXiv 2021**] LW-GCN: A Lightweight FPGA-based Graph Convolutional Network Accelerator. 
+  >*Tao Z, Wu C, Liang Y, et al.*  [[Paper]](https://arxiv.org/abs/2111.03184)
 * [**arXiv 2021**] VersaGNN: a Versatile accelerator for Graph neural networks. 
-  >*Shi et al.* [[Paper]](https://arxiv.org/abs/2105.01280)
+  >*Shi F, Jin A Y, Zhu S C.* [[Paper]](https://arxiv.org/abs/2105.01280)
 * [**arXiv 2021**] ZIPPER: Exploiting Tile- and Operator-level Parallelism for General and Scalable Graph Neural Network Acceleration. 
-  >*Zhang et al.* [[Paper]](https://arxiv.org/abs/2107.08709v1)
+  >*Zhang Z, Leng J, Lu S, et al.* [[Paper]](https://arxiv.org/abs/2107.08709v1)
 * [**HPCA 2020**] HyGCN: A GCN Accelerator with Hybrid Architecture. 
-  >*Yan et al.* [[Paper]](https://doi.org/10.1109/HPCA47549.2020.00012)
+  >*Yan M, Deng L, Hu X, et al.* [[Paper]](https://doi.org/10.1109/HPCA47549.2020.00012)
 * [**DAC 2020**] Hardware Acceleration of Graph Neural Networks. 
-  >*Auten et al.* [[Paper]](https://doi.org/10.1109/dac18072.2020.9218751)
+  >*Auten A, Tomei M, Kumar R.* [[Paper]](https://doi.org/10.1109/dac18072.2020.9218751)
 * [**ICCAD 2020**] DeepBurning-GL: an automated framework for generating graph neural network accelerators. 
-  >*Liang et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9256539)
+  >*Liang S, Liu C, Wang Y, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9256539)
 * [**TC 2020**] EnGN: A High-Throughput and Energy-Efficient Accelerator for Large Graph Neural Networks. 
-  >*Liang et al.* [[Paper]](https://ieeexplore.ieee.org/document/9161360/)
-* [**SC 2020**] GE-SpMM: General-Purpose Sparse Matrix-Matrix Multiplication on GPUs for Graph Neural Networks. 
-  >*Huang et al.* [[Paper]](https://doi.org/10.1109/sc41405.2020.00076)
+  >*Liang S, Wang Y, Liu C, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9161360/)
+* [**SC 2020**] GE-SpMM: General-Purpose Sparse Matrix-Matrix Multiplication on GPUs for Graph Neural Networks. 
+  >*Huang G, Dai G, Wang Y, et al.* [[Paper]](https://doi.org/10.1109/sc41405.2020.00076) [[GitHub]](https://github.com/hgyhungry/ge-spmm)
 * [**CCIS 2020**] GNN-PIM: A Processing-in-Memory Architecture for Graph Neural Networks. 
-  >*Wang et al.* [[Paper]](https://www.semanticscholar.org/paper/GNN-PIM%3A-A-Processing-in-Memory-Architecture-for-Wang-Guan/1d03e4bebc9cf3c3fdd9204504d92b20d97d1fdf)
+  >*Wang Z, Guan Y, Sun G, et al.* [[Paper]](https://www.semanticscholar.org/paper/GNN-PIM%3A-A-Processing-in-Memory-Architecture-for-Wang-Guan/1d03e4bebc9cf3c3fdd9204504d92b20d97d1fdf)
 * [**FPGA 2020**] GraphACT: Accelerating GCN Training on CPU-FPGA Heterogeneous Platforms. 
-  >*Zeng et al.* [[Paper]](https://arxiv.org/abs/2001.02498)
+  >*Zeng H, Prasanna V.* [[Paper]](https://arxiv.org/abs/2001.02498) [[GitHub]](https://github.com/GraphSAINT/GraphACT)
 * [**ICPADS 2020**] S-GAT: Accelerating Graph Attention Networks Inference on FPGA Platform with Shift Operation. 
-  >*Yan et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9359183)
+  >*Yan W, Tong W, Zhi X.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9359183)
 * [**ASAP 2020**] Hardware Acceleration of Large Scale GCN Inference. 
-  >*Zhang et al.*[[Paper]](https://ieeexplore.ieee.org/document/9153263)
+  >*Zhang B, Zeng H, Prasanna V.*[[Paper]](https://ieeexplore.ieee.org/document/9153263)
 * [**ICA3PP 2020**] Towards a Deep-Pipelined Architecture for Accelerating Deep GCN on a Multi-FPGA Platform. 
-  >*Cheng et al.* [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-60245-1_36)
+  >*Cheng Q, Wen M, Shen J, et al.* [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-60245-1_36)
 * [**Access 2020**] FPGAN: An FPGA Accelerator for Graph Attention Networks With Software and Hardware Co-Optimization. 
-  >*Yan et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9195849)
-* [**arXiv 2020**] GRIP: A Graph Neural Network Accelerator Architecture. 
-  >*Kiningham et al.* [[Paper]](https://arxiv.org/abs/2007.13828)
-* [**ASICON 2019**] An FPGA Implementation of GCN with Sparse Adjacency Matrix. 
-  >*Ding et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/8983647)
+  >*Yan W, Tong W, Zhi X.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9195849)
+* [**arXiv 2020**] GRIP: A Graph Neural Network Accelerator Architecture. 
+  >*Kiningham K, Re C, Levis P.* [[Paper]](https://arxiv.org/abs/2007.13828)
+* [**ASICON 2019**] An FPGA Implementation of GCN with Sparse Adjacency Matrix. 
+  >*Ding L, Huang Z, Chen G.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/8983647)
 
 
 ---
