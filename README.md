@@ -12,15 +12,17 @@ Literatures in this page are arranged from a classification perspective, includi
 
 Click [here](./By-Time.md) to view these literatures in a reverse chronological order. You can also find [Related Conferences](./General%20Resources/Conference.md), [Graph Learning Tools](./General%20Resources/Frameworks%20%26%20Tools/), [Learning Materials on GNNs](./General%20Resources/Learning%20Materials) and Other Resources in [General Resources](./General%20Resources).
 
+
+
 ---
 ## Hardware Acceleration for Graph Neural Networks
 
 * [**HPCA 2022**] Accelerating Graph Convolutional Networks Using Crossbar-based Processing-In-Memory Architectures. 
-  >*Huang et al.* [[Paper]](https://www.computer.org/csdl/proceedings-article/hpca/2022/202700b029/1Ds0gRvUFjO)
+  >*Huang Y, Zheng L, Yao P, et al.* [[Paper]](https://www.computer.org/csdl/proceedings-article/hpca/2022/202700b029/1Ds0gRvUFjO)
 * [**HPCA 2022**] GCoD: Graph Convolutional Network Acceleration via Dedicated Algorithm and Accelerator Co-Design. 
-  >*You et al.* [[Paper]](https://arxiv.org/pdf/2112.11594)
+  >*You H, Geng T, Zhang Y, et al.* [[Paper]](https://arxiv.org/pdf/2112.11594) [[GitHub]](https://github.com/rice-eic/gcod)
 * [**ISCA 2022**] DIMMining: pruning-efficient and parallel graph mining on near-memory-computing. 
-  >*Dai et al.* [[Paper]](https://doi.org/10.1145/3470496.3527388)
+  >*Dai G, Zhu Z, Fu T, et al.* [[Paper]](https://doi.org/10.1145/3470496.3527388)
 * [**ISCA 2022**] Hyperscale FPGA-as-a-service architecture for large-scale distributed graph neural network. 
   >*Li et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3470496.3527439)
 * [**DAC 2022**] Improving GNN-Based Accelerator Design Automation with Meta Learning. 
