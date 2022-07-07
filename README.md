@@ -17,7 +17,7 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 ---
 ## Hardware Acceleration for Graph Neural Networks
 
-* [**HPCA 2022**] **Accelerating Graph Convolutional Networks Using Crossbar-based Processing-In-Memory Architectures**. 
+* [**HPCA 2022**] Accelerating Graph Convolutional Networks Using Crossbar-based Processing-In-Memory Architectures. 
   >*Huang Y, Zheng L, Yao P, et al.* [[Paper]](https://www.computer.org/csdl/proceedings-article/hpca/2022/202700b029/1Ds0gRvUFjO)
 * [**HPCA 2022**] GCoD: Graph Convolutional Network Acceleration via Dedicated Algorithm and Accelerator Co-Design. 
   >*You H, Geng T, Zhang Y, et al.* [[Paper]](https://arxiv.org/pdf/2112.11594) [[GitHub]](https://github.com/rice-eic/gcod)
