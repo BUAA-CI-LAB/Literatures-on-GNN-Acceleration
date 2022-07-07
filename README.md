@@ -138,7 +138,7 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 * [**JPDC  2021**] High performance GPU primitives for graph-tensor learning operations. 
   >*Zhang T, Kan W, Liu X Y.* [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0743731520304007)
 * [**OSDI  2021**] Dorylus: Affordable, Scalable, and Accurate GNN Training with Distributed CPU Servers and Serverless Threads. 
-  >*Thorpe J, Qiao Y, Eyolfson J, et al.* [[Paper]](https://arxiv.org/abs/2105.11118) [[GitHub]](https://github.com/uclasystem/dorylus) [[GitHub]](https://github.com/uclasystem/dorylus)
+  >*Thorpe J, Qiao Y, Eyolfson J, et al.* [[Paper]](https://arxiv.org/abs/2105.11118) [[GitHub]](https://github.com/uclasystem/dorylus)
 * [**OSDI   2021**] GNNAdvisor: An Adaptive and Efﬁcient Runtime System for GNN Acceleration on GPUs 
   >*Wang Y, Feng B, Li G, et al.* [[Paper]](https://www.usenix.org/system/files/osdi21-wang-yuke.pdf) [[GitHub]](https://github.com/YukeWang96/OSDI21_AE)
 * [**EuroSys 2021**] DGCL: an efficient communication library for distributed GNN training. 
