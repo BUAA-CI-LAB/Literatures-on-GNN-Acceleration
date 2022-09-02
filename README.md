@@ -89,8 +89,6 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   >*Li C, Wang Y, Liu C, et al.* [[Paper]](www.usenix.org/conference/atc21/presentation/li-cangyuan)
 * [**CAL 2021**] Hardware Acceleration for GCNs via Bidirectional Fusion. 
   >*Li H, Yan M, Yang X, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9425440)
-* [**SCIS 2021**] Towards Efficient Allocation of Graph Convolutional Networks on Hybrid Computation-In-Memory Architecture. 
-  >*Chen J, Lin G, Chen J, et al.* [[Paper]](https://link.springer.com/article/10.1007/s11432-020-3248-y)
 * [**arXiv 2021**] GNNIE: GNN Inference Engine with Load-balancing and Graph-Specific Caching. 
   >*Mondal S, Manasi S D, Kunal K, et al.* [[Paper]](http://arxiv.org/abs/2105.10554)
 * [**arXiv 2021**] LW-GCN: A Lightweight FPGA-based Graph Convolutional Network Accelerator. 
