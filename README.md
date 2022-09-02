@@ -21,20 +21,26 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   >*Huang Y, Zheng L, Yao P, et al.* [[Paper]](https://www.computer.org/csdl/proceedings-article/hpca/2022/202700b029/1Ds0gRvUFjO)
 * [**HPCA 2022**] GCoD: Graph Convolutional Network Acceleration via Dedicated Algorithm and Accelerator Co-Design. 
   >*You H, Geng T, Zhang Y, et al.* [[Paper]](https://arxiv.org/pdf/2112.11594) [[GitHub]](https://github.com/rice-eic/gcod)
+* [**HPCA 2022**] ReGNN: A Redundancy-Eliminated Graph Neural Networks Accelerator.
+  >*Chen C, Li K, Li Y, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9773273)
 * [**ISCA 2022**] DIMMining: pruning-efficient and parallel graph mining on near-memory-computing. 
   >*Dai G, Zhu Z, Fu T, et al.* [[Paper]](https://doi.org/10.1145/3470496.3527388)
-* [**ISCA 2022**] Hyperscale FPGA-as-a-service architecture for large-scale distributed graph neural network. 
+* [**ISCA 2022**] Hyperscale FPGA-as-a-service architecture for large-scale distributed graph neural network.
   >*Li S, Niu D, Wang Y, et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3470496.3527439)
 * [**DAC 2022**] Improving GNN-Based Accelerator Design Automation with Meta Learning. 
   >*Bai Y, Sohrabizadeh A, Sun Y, et al.* [[Paper]](https://vast.cs.ucla.edu/sites/default/files/publications/_DAC_22__GNN_DSE_MAML.pdf)
-* [**CICC 2022**] StreamGCN: Accelerating Graph Convolutional Networks with Streaming Processing.    
+* [**CICC 2022**] StreamGCN: Accelerating Graph Convolutional Networks with Streaming Processing.
   >*Sohrabizadeh A, Chi Y, Cong J.* [[Paper]](https://web.cs.ucla.edu/~atefehsz/publication/StreamGCN-CICC22.pdf)
-* [**IPDPS 2022**] Model-Architecture Co-Design for High Performance Temporal GNN Inference on FPGA. 
+* [**IPDPS 2022**] Model-Architecture Co-Design for High Performance Temporal GNN Inference on FPGA.
   >*Zhou H, Zhang B, Kannan R, et al.* [[Paper]](https://arxiv.org/abs/2203.05095)
 * [**TPDS 2022**] SGCNAX: A Scalable Graph Convolutional Neural Network Accelerator With Workload Balancing. 
   >*Li J, Zheng H, Wang K, et al.* [[Paper]](https://www.computer.org/csdl/journal/td/2022/11/09645224/1zc6JTLADC0)
 * [**TCSI 2022**] A Low-Power Graph Convolutional Network Processor With Sparse Grouping for 3D Point Cloud Semantic Segmentation in Mobile Devices. 
   >*Kim S, Kim S, Lee J, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9669025)
+* [**JSA 2022**] Algorithms and architecture support of degree-based quantization for graph neural networks.
+  >*Guo Y, Chen Y, Zou X, et al.* [[Paper]](https://dl.acm.org/doi/10.1016/j.sysarc.2022.102578)
+* [**JSA 2022**] QEGCN: An FPGA-based accelerator for quantized GCNs with edge-level parallelism.
+  >*Yuan W, Tian T, Wu Q, et al.* [[Paper]](https://dl.acm.org/doi/10.1016/j.sysarc.2022.102596)
 * [**FCCM 2022**] GenGNN: A Generic FPGA Framework for Graph Neural Network Acceleration. 
   >*Abi-Karam S, He Y, Sarkar R, et al.* [[Paper]]( https://arxiv.org/pdf/2201.08475) [[GitHub]](https://github.com/sharc-lab/gengnn)
 * [**FAST 2022**] Hardware/Software Co-Programmable Framework for Computational SSDs to Accelerate Deep Learning Service on Large-Scale Graphs. 
@@ -73,6 +79,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   >*Arka A I, Doppa J R, Pande P P, et al.* [[Paper]](https://doi.org/10.23919/DATE51398.2021.9473949)
 * [**FCCM 2021**] BoostGCN: A Framework for Optimizing GCN Inference on FPGA. 
   >*Zhang B, Kannan R, Prasanna V.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9444065)
+* [**SCIS 2021**] Towards efficient allocation of graph convolutional networks on hybrid computation-in-memory architecture.
+  >*Chen J, Lin G, Chen J, et al.* [[Paper]](https://link.springer.com/article/10.1007/s11432-020-3248-y)
 * [**EuroSys 2021**] Tesseract: distributed, general graph pattern mining on evolving graphs. 
   >*Bindschaedler L, Malicevic J, Lepers B, et al.* [[Paper]](https://doi.org/10.1145/3447786.3456253)
 * [**EuroSys 2021**] Accelerating Graph Sampling for Graph Machine Learning Using GPUs. 
@@ -123,6 +131,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 ## System Designs for Deep Graph Learning
 * [**ISCA 2022**] Graphite: optimizing graph neural networks on CPUs through cooperative software-hardware techniques. 
   >*Gong Z, Ji H, Yao Y, et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3470496.3527403)
+* [**PPoPP 2022**] QGTC: accelerating quantized graph neural networks via GPU tensor core.
+  >*Wang Y, Feng B, Ding Y.* [[Paper]](https://dl.acm.org/doi/10.1145/3503221.3508408)
 * [**SIGMOD 2022**] NeutronStar: Distributed GNN Training with Hybrid Dependency Management. 
   >*Wang Q, Zhang Y, Wang H, et al.* [[Paper]](https://doi.org/10.1145/3514221.3526134)
 * [**MLSys 2022**] Accelerating Training and Inference of Graph Neural Networks with Fast Sampling and Pipelining. 
@@ -131,6 +141,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   >*Sohrabizadeh A, Chi Y, Cong J.* [[Paper]]( https://arxiv.org/pdf/2111.05936)
 * [**HPDC 2022**] TLPGNN: A Lightweight Two-Level Parallelism Paradigm for Graph Neural Network Computation on GPU. 
   >*Fu Q, Ji Y, Huang H H.* [[Paper]](https://doi.org/10.1145/3502181.3531467)
+* [**arXiv 2022**] Improved Aggregating and Accelerating Training Methods for Spatial Graph Neural Networks on Fraud Detection.
+  >*Zeng Y, Tang J.* [[Paper]](http://arxiv.org/abs/2202.06580)
 * [**CLUSTER 2021**] 2PGraph: Accelerating GNN Training over Large Graphs on GPU Clusters.
   >*Zhang L, Lai Z, Li S, et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9556026)
 * [**JPDC  2021**] Accurate, efficient and scalable training of Graph Neural Networks 
