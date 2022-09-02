@@ -11,8 +11,11 @@ Deep graph learning acceleration papers in a chronological order.
 ### 2022
 
 * [**CAL**] Characterizing and Understanding Distributed GNN Training on GPUs. *Lin et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9760056)
+* [**JSA**] Algorithms and architecture support of degree-based quantization for graph neural networks. *Guo et al.* [[Paper]](https://dl.acm.org/doi/10.1016/j.sysarc.2022.102578)
+* [**JSA**] QEGCN: An FPGA-based accelerator for quantized GCNs with edge-level parallelism. *Yuan et al.* [[Paper]](https://dl.acm.org/doi/10.1016/j.sysarc.2022.102596)
 * [**TPDS**] SGCNAX: A Scalable Graph Convolutional Neural Network Accelerator With Workload Balancing. *Li et al.* [[Paper]](https://www.computer.org/csdl/journal/td/2022/11/09645224/1zc6JTLADC0)
 * [**TCS I**] A Low-Power Graph Convolutional Network Processor With Sparse Grouping for 3D Point Cloud Semantic Segmentation in Mobile Devices. *Kim et al.* [[Paper]](https://ieeexplore.ieee.org/document/9669025)
+
 
 ### 2021
 
@@ -62,6 +65,7 @@ Deep graph learning acceleration papers in a chronological order.
 * [**ICLR**] Learn Locally, Correct Globally: A Distributed Algorithm for Training Graph Neural Networks. *Ramezani et al.* [[Paper]](https://openreview.net/forum?id=FndDxSz3LxQ)
 * [**ICLR**] Graph-less Neural Networks: Teaching Old MLPs New Tricks Via Distillation. *Zhang et al.* [[Paper]](https://openreview.net/forum?id=4p6_5HBWPCw)
 * [**ICLR**] Adaptive Filters for Low-Latency and Memory-Efficient Graph Neural Networks. *Tailor et al.* [[Paper]](https://openreview.net/forum?id=hl9ePdHO4_s)
+* [**PPoPP**] QGTC: accelerating quantized graph neural networks via GPU tensor core. *Wang et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3503221.3508408)
 * [**WWW**] Resource-Efficient Training for Large Graph Convolutional Networks with Label-Centric Cumulative Sampling. *Lin et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3485447.3512165)
 * [**WWW**] PaSca: A Graph Neural Architecture Search System under the Scalable Paradigm. *Zhang et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3485447.3511986)
 * [**WWW**] Fograph: Enabling Real-Time Deep Graph Inference with Fog Computing. *Zeng et al.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3485447.3511982)
@@ -74,6 +78,7 @@ Deep graph learning acceleration papers in a chronological order.
 * [**AAAI**] Early-Bird GCNs: Graph-Network Co-Optimization Towards More Efficient GCN Training and Inference via Drawing Early-Bird Lottery Tickets. *You et al.* [[Paper]](https://www.researchgate.net/profile/Haoran-You/publication/349704520_GEBT_Drawing_Early-Bird_Tickets_in_Graph_Convolutional_Network_Training/links/61e0930dc5e3103375916c9f/GEBT-Drawing-Early-Bird-Tickets-in-Graph-Convolutional-Network-Training.pdf)
 * [**HPCA**] GCoD: Graph Convolutional Network Acceleration via Dedicated Algorithm and Accelerator Co-Design. *You et al.* [[Paper]](https://arxiv.org/pdf/2112.11594)
 * [**HPCA**] Accelerating Graph Convolutional Networks Using Crossbar-based Processing-In-Memory Architectures. *Huang et al.* [[Paper]](https://www.computer.org/csdl/proceedings-article/hpca/2022/202700b029/1Ds0gRvUFjO)
+* [**HPCA**] ReGNN: A Redundancy-Eliminated Graph Neural Networks Accelerator. *Chen et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9773273)
 * [**HPDC**] TLPGNN: A Lightweight Two-Level Parallelism Paradigm for Graph Neural Network Computation on GPU. *Fu et al.* [[Paper]](https://doi.org/10.1145/3502181.3531467)
 * [**ICLR**] IGLU: Efficient GCN Training via Lazy Updates. *Narayanan et al.* [[Paper]](https://arxiv.org/pdf/2109.13995)
 * [**FAST**] Hardware/Software Co-Programmable Framework for Computational SSDs to Accelerate Deep Learning Service on Large-Scale Graphs. *Kwon, et al.* [[Paper]](https://arxiv.org/abs/2201.09189)
@@ -176,6 +181,7 @@ Deep graph learning acceleration papers in a chronological order.
 * [**arXiv**] FlowGNN: A Dataflow Architecture for Universal Graph Neural Network Inference via Multi-Queue Streaming. *Sarkar et al.* [[Paper]](https://arxiv.org/abs/2204.13103)
 * [**arXiv**] GROW: A Row-Stationary Sparse-Dense GEMM Accelerator for Memory-Efficient Graph Convolutional Neural Networks. *Kang et al.* [[Paper]](https://arxiv.org/abs/2203.00158)
 * [**arXiv**] Enabling Flexibility for Sparse Tensor Acceleration via Heterogeneity. *Qin et al.* [[Paper]](https://arxiv.org/abs/2201.08916)
+* [**arXiv**] Improved Aggregating and Accelerating Training Methods for Spatial Graph Neural Networks on Fraud Detection. *Zeng et al.* [[Paper]](http://arxiv.org/abs/2202.06580)
 
 
 ### 2021
