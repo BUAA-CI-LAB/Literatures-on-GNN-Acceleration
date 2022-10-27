@@ -127,6 +127,14 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
 ---
 ## System Designs for Deep Graph Learning
+
+
+* [**VLDB 2022**] ByteGNN: efficient graph neural network training at large scale. 
+  >*Zheng C, Chen H, Cheng Y, et al.* [[Paper]](https://dl.acm.org/doi/abs/10.14778/3514061.3514069)
+* [**EuroSys 2022**] GNNLab: a factored system for sample-based GNN training over GPUs. 
+  >*Yang J, Tang D, Song X, et al.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3492321.3519557)
+* [**TC 2022**] Multi-node Acceleration for Large-scale GCNs. 
+  >*Sun, Gongjian, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9893364/)
 * [**ISCA 2022**] Graphite: optimizing graph neural networks on CPUs through cooperative software-hardware techniques. 
   >*Gong Z, Ji H, Yao Y, et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3470496.3527403)
 * [**PPoPP 2022**] QGTC: accelerating quantized graph neural networks via GPU tensor core.
@@ -141,9 +149,11 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   >*Fu Q, Ji Y, Huang H H.* [[Paper]](https://doi.org/10.1145/3502181.3531467)
 * [**arXiv 2022**] Improved Aggregating and Accelerating Training Methods for Spatial Graph Neural Networks on Fraud Detection.
   >*Zeng Y, Tang J.* [[Paper]](http://arxiv.org/abs/2202.06580)
+* [**arXiv 2022**] Marius++: Large-scale training of graph neural networks on a single machine. 
+  >*Waleffe R, Mohoney J, Rekatsinas T, et al.* [[Paper]](https://arxiv.org/abs/2202.02365)
 * [**CLUSTER 2021**] 2PGraph: Accelerating GNN Training over Large Graphs on GPU Clusters.
   >*Zhang L, Lai Z, Li S, et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9556026)
-* [**JPDC  2021**] Accurate, efficient and scalable training of Graph Neural Networks 
+* [**JPDC  2021**] Accurate, efficient and scalable training of Graph Neural Networks. 
   >*Zeng H, Zhou H, Srivastava A, et al.* [[Paper]](https://www.sciencedirect.com/science/article/pii/S0743731520303579) [[GitHub]](https://github.com/GraphSAINT/GraphSAINT)
 * [**JPDC  2021**] High performance GPU primitives for graph-tensor learning operations. 
   >*Zhang T, Kan W, Liu X Y.* [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0743731520304007)
@@ -315,6 +325,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
 ---
 ## Surveys and Performance Analysis on Graph Learning
+* [**CAL 2022**] Characterizing and Understanding HGNNs on GPUs. 
+  >*Yan M, Zou M, Yang X, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9855397/)
 * [**arXiv 2022**] Parallel and Distributed Graph Neural Networks: An In-Depth Concurrency Analysis. 
   >*Besta M, Hoefler T.* [[Paper]](https://arxiv.org/abs/2205.09702)
 * [**arXiv 2022**] Survey on Graph Neural Network Acceleration: An Algorithmic Perspective. 

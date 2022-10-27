@@ -10,11 +10,13 @@ Deep graph learning acceleration papers in a chronological order.
 
 ### 2022
 
+* [**TC 2022**] Multi-node Acceleration for Large-scale GCNs. *Sun, Gongjian, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9893364/)
+* [**CAL 2022**] Characterizing and Understanding HGNNs on GPUs. *Yan M, Zou M, Yang X, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9855397/)
 * [**CAL**] Characterizing and Understanding Distributed GNN Training on GPUs. *Lin et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9760056)
 * [**JSA**] Algorithms and architecture support of degree-based quantization for graph neural networks. *Guo et al.* [[Paper]](https://dl.acm.org/doi/10.1016/j.sysarc.2022.102578)
 * [**JSA**] QEGCN: An FPGA-based accelerator for quantized GCNs with edge-level parallelism. *Yuan et al.* [[Paper]](https://dl.acm.org/doi/10.1016/j.sysarc.2022.102596)
 * [**TPDS**] SGCNAX: A Scalable Graph Convolutional Neural Network Accelerator With Workload Balancing. *Li et al.* [[Paper]](https://www.computer.org/csdl/journal/td/2022/11/09645224/1zc6JTLADC0)
-* [**TCS I**] A Low-Power Graph Convolutional Network Processor With Sparse Grouping for 3D Point Cloud Semantic Segmentation in Mobile Devices. *Kim et al.* [[Paper]](https://ieeexplore.ieee.org/document/9669025)
+* [**TCSI**] A Low-Power Graph Convolutional Network Processor With Sparse Grouping for 3D Point Cloud Semantic Segmentation in Mobile Devices. *Kim et al.* [[Paper]](https://ieeexplore.ieee.org/document/9669025)
 
 
 ### 2021
@@ -50,6 +52,7 @@ Deep graph learning acceleration papers in a chronological order.
 
 
 ### 2022
+* [**VLDB 2022**] ByteGNN: efficient graph neural network training at large scale. *Zheng C, Chen H, Cheng Y, et al.* [[Paper]](https://dl.acm.org/doi/abs/10.14778/3514061.3514069)
 * [**SIGMOD**] NeutronStar: Distributed GNN Training with Hybrid Dependency Management. *Wang et al.* [[Paper]](https://doi.org/10.1145/3514221.3526134)
 * [**DAC**] Improving GNN-Based Accelerator Design Automation with Meta Learning. *Bai et al.* [[Paper]](https://vast.cs.ucla.edu/sites/default/files/publications/_DAC_22__GNN_DSE_MAML.pdf)
 * [**ISCA**] Hyperscale FPGA-as-a-service architecture for large-scale distributed graph neural network. *Li et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3470496.3527439)
@@ -86,6 +89,7 @@ Deep graph learning acceleration papers in a chronological order.
 * [**FPGA**] HP-GNN: Generating High Throughput GNN Training Implementation on CPU-FPGA Heterogeneous Platform. *Lin, et al.* [[Paper]]( https://dl.acm.org/doi/pdf/10.1145/3490422.3502359)  
 * [**FPGA**] DecGNN: A Framework for Mapping Decoupled GNN Models onto CPU-FPGA Heterogeneous Platform. *Zhang, et al.* [[Paper]]( https://dl.acm.org/doi/abs/10.1145/3490422.3502326)
 * [**FPGA**] SPA-GCN: Efficient and Flexible GCN Accelerator with Application for Graph Similarity Computation. *Atefeh, et al.* [[Paper]]( https://arxiv.org/pdf/2111.05936)
+* [**EuroSys**] GNNLab: a factored system for sample-based GNN training over GPUs. *Yang J, Tang D, Song X, et al.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3492321.3519557)
 
 ### 2021
 * [**KDD**] Global Neighbor Sampling for Mixed CPU-GPU Training on Giant Graphs. *Dong et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3447548.3467437)
@@ -172,6 +176,7 @@ Deep graph learning acceleration papers in a chronological order.
 ## arXiv
 
 ### 2022
+* [**arXiv**] Marius++: Large-scale training of graph neural networks on a single machine. *Waleffe R, Mohoney J, Rekatsinas T, et al.* [[Paper]](https://arxiv.org/abs/2202.02365)
 * [**arXiv**] Low-latency Mini-batch GNN Inference on CPU-FPGA Heterogeneous Platform. *Zhang et al.* [[Paper]](http://arxiv.org/abs/2206.08536)
 * [**arXiv**] SmartSAGE: Training Large-scale Graph Neural Networks using In-Storage Processing Architectures. *Lee et al.* [[Paper]](http://arxiv.org/abs/2205.04711)
 * [**arXiv**] Hardware/Software Co-Programmable Framework for Computational SSDs to Accelerate Deep Learning Service on Large-Scale Graphs. *Kwon et al.* [[Paper]](http://arxiv.org/abs/2201.09189)
