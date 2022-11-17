@@ -337,8 +337,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   >*Yan M, Zou M, Yang X, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9855397/)
 * [**arXiv 2022**] Parallel and Distributed Graph Neural Networks: An In-Depth Concurrency Analysis. 
   >*Besta M, Hoefler T.* [[Paper]](https://arxiv.org/abs/2205.09702)
-* [**arXiv 2022**] Survey on Graph Neural Network Acceleration: An Algorithmic Perspective. 
-  >*Liu X, Yan M, Deng L, et al.* [[Paper]]( https://arxiv.org/pdf/2202.04822)
+* [**IJCAI 2022**] Survey on Graph Neural Network Acceleration: An Algorithmic Perspective. 
+  >*Liu X, Yan M, Deng L, et al.* [[Paper]](https://arxiv.org/pdf/2202.04822)
 * [**GNNSys 2021**] Analyzing the Performance of Graph Neural Networks with Pipe Parallelism.
   >*Dearing M T, Wang X.* [[Paper]](https://gnnsys.github.io/papers/GNNSys21_paper_12.pdf) [[Poster]](https://gnnsys.github.io/posters/GNNSys21_poster_12.pdf)
 * [**IJCAI 2021**] Automated Machine Learning on Graphs: A Survey. 
