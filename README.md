@@ -128,11 +128,18 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 ---
 ## System Designs for Deep Graph Learning
 
-
+* [**NSDI 2023**] BGL: GPU-Efficient GNN Training by Optimizing Graph Data I/O and Preprocessing.
+  >*Liu T, Chen Y, Li D, et al.* [[Paper]](https://arxiv.org/abs/2112.08541)
+* [**arXiv 2022**] A Comprehensive Survey on Distributed Training of Graph Neural Networks.  
+  >*Lin H, Yan M, Ye X, et al.* [[Paper]](https://arxiv.org/abs/2211.05368)
+* [**arXiv 2022**] Distributed Graph Neural Network Training: A Survey.
+  >*Shao Y, Li H, Gu X, et al.* [[Paper]](https://arxiv.org/abs/2211.00216)
 * [**VLDB 2022**] ByteGNN: efficient graph neural network training at large scale. 
   >*Zheng C, Chen H, Cheng Y, et al.* [[Paper]](https://dl.acm.org/doi/abs/10.14778/3514061.3514069)
 * [**EuroSys 2022**] GNNLab: a factored system for sample-based GNN training over GPUs. 
   >*Yang J, Tang D, Song X, et al.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3492321.3519557)
+* [**PPoPP 2022**] Rethinking graph data placement for graph neural network training on multiple GPUs.
+  >*Song S, Jiang P.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503221.3508435)
 * [**TC 2022**] Multi-node Acceleration for Large-scale GCNs. 
   >*Sun, Gongjian, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9893364/)
 * [**ISCA 2022**] Graphite: optimizing graph neural networks on CPUs through cooperative software-hardware techniques. 
