@@ -156,6 +156,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   >*Waleffe R, Mohoney J, Rekatsinas T, et al.* [[Paper]](https://arxiv.org/abs/2202.02365)
 * [**CLUSTER 2021**] 2PGraph: Accelerating GNN Training over Large Graphs on GPU Clusters.
   >*Zhang L, Lai Z, Li S, et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9556026)
+* [**APSys 2021**] Accelerating GNN training with locality-aware partial execution.
+  >*Kim T, Hwang C, Park K S, et al. * [[Paper]](https://dl.acm.org/doi/abs/10.1145/3476886.3477515)
 * [**JPDC  2021**] Accurate, efficient and scalable training of Graph Neural Networks. 
   >*Zeng H, Zhou H, Srivastava A, et al.* [[Paper]](https://www.sciencedirect.com/science/article/pii/S0743731520303579) [[GitHub]](https://github.com/GraphSAINT/GraphSAINT)
 * [**JPDC  2021**] High performance GPU primitives for graph-tensor learning operations. 
@@ -182,6 +184,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   >*Su Q, Wang M, Zheng D, et al* [[Paper]](https://gnnsys.github.io/papers/GNNSys21_paper_18.pdf) [[Poster]](https://gnnsys.github.io/posters/GNNSys21_poster_18.pdf)
 * [**IPDPS  2021**] FusedMM: A Unified SDDMM-SpMM Kernel for Graph Embedding and Graph Neural Networks. 
   >*Rahman M K, Sujon M H, Azad A.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9460486) [[GitHub]](https://github.com/HipGraph/FusedMM)
+* [**IPCCC 2021**] Accelerate graph neural network training by reusing batch data on GPUs.
+  >*Ran Z, Lai Z, Zhang L, et al. * [[Paper]](https://ieeexplore.ieee.org/abstract/document/9679362/)
 * [**arXiv  2021**] PyTorch Geometric Temporal: Spatiotemporal Signal Processing with Neural Machine Learning Models. 
   >*Rozemberczki B, Scherer P, He Y, et al.* [[Paper]](https://arxiv.org/abs/2104.07788) [[GitHub]](https://github.com/benedekrozemberczki/pytorch_geometric_temporal)
 * [**arXiv 2021**] QGTC: Accelerating Quantized GNN via GPU Tensor Core. 
@@ -322,12 +326,9 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   >*Zhao Y, Wang D, Bates D, et al.* [[Paper]](https://www.euromlsys.eu/pub/zhao21euromlsys.pdf)
 * [**IPDPS 2019**] Accurate, efficient and scalable graph embedding. 
   >*Zeng H, Zhou H, Srivastava A, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/8820993)
-
-
-
-
 ---
 ## Surveys and Performance Analysis on Graph Learning
+
 
 * [**arXiv 2022**] A Comprehensive Survey on Distributed Training of Graph Neural Networks.  
   >*Lin H, Yan M, Ye X, et al.* [[Paper]](https://arxiv.org/abs/2211.05368)
@@ -339,6 +340,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   >*Besta M, Hoefler T.* [[Paper]](https://arxiv.org/abs/2205.09702)
 * [**IJCAI 2022**] Survey on Graph Neural Network Acceleration: An Algorithmic Perspective. 
   >*Liu X, Yan M, Deng L, et al.* [[Paper]](https://arxiv.org/pdf/2202.04822)
+* [**ACM Computing Surveys 2022**] A practical tutorial on graph neural networks
+  >*Ward I R, Joyner J, Lickfold C, et al.*[[Paper]](https://dl.acm.org/doi/10.1145/3503043)
 * [**GNNSys 2021**] Analyzing the Performance of Graph Neural Networks with Pipe Parallelism.
   >*Dearing M T, Wang X.* [[Paper]](https://gnnsys.github.io/papers/GNNSys21_paper_12.pdf) [[Poster]](https://gnnsys.github.io/posters/GNNSys21_poster_12.pdf)
 * [**IJCAI 2021**] Automated Machine Learning on Graphs: A Survey. 
