@@ -348,6 +348,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   >*Liu X, Yan M, Deng L, et al.* [[Paper]](https://arxiv.org/pdf/2202.04822)
 * [**ACM Computing Surveys 2022**] A Practical Tutorial on Graph Neural Networks
   >*Ward I R, Joyner J, Lickfold C, et al.*[[Paper]](https://dl.acm.org/doi/10.1145/3503043)
+* [**CAL 2022**] Characterizing and Understanding Distributed GNN Training on GPUs.
+  >*Lin H, Yan M, Yang X, et al.*[[Paper]](https://dl.acm.org/doi/10.1145/3503043)
 * [**Access 2022**] Analyzing GCN Aggregation on GPU. 
   >*Kim I, Jeong J, Oh Y, et al.*[[Paper]](https://ieeexplore.ieee.org/iel7/6287639/9668973/09930519.pdf)
 * [**GNNSys 2021**] Analyzing the Performance of Graph Neural Networks with Pipe Parallelism.
