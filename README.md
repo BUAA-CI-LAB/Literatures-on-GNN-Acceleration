@@ -150,6 +150,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   >*Sohrabizadeh A, Chi Y, Cong J.* [[Paper]]( https://arxiv.org/pdf/2111.05936)
 * [**HPDC 2022**] TLPGNN: A Lightweight Two-Level Parallelism Paradigm for Graph Neural Network Computation on GPU. 
   >*Fu Q, Ji Y, Huang H H.* [[Paper]](https://doi.org/10.1145/3502181.3531467)
+* [**Concurrency and Computation 2022**] BRGraph: An efficient graph neural network training system by reusing batch data on GPU.
+  >*Ge K, Ran Z, Lai Z, et al.* [[Paper]](https://onlinelibrary.wiley.com/doi/10.1002/cpe.6961)
 * [**arXiv 2022**] Improved Aggregating and Accelerating Training Methods for Spatial Graph Neural Networks on Fraud Detection.
   >*Zeng Y, Tang J.* [[Paper]](http://arxiv.org/abs/2202.06580)
 * [**arXiv 2022**] Marius++: Large-scale training of graph neural networks on a single machine. 
@@ -194,6 +196,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   >*Wang Y, Feng B, Ding Y.* [[Paper]](http://arxiv.org/abs/2112.02052) [[GitHub]](https://github.com/YukeWang96/TCGNN-Pytorch)
 * [**ICCAD 2020**] fuseGNN: accelerating graph convolutional neural network training on GPGPU. 
   >*Chen Z, Yan M, Zhu M, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9256702) [[GitHub]](https://github.com/apuaaChen/gcnLib)
+* [**VLDB 2020**] AGL: a scalable system for industrial-purpose graph machine learning.
+  >*Zhang D, Huang X, Liu Z, et al.* [[Paper]](https://arxiv.org/pdf/2003.02454)
 * [**SC 2020**] FeatGraph: A Flexible and Efficient Backend for Graph Neural Network Systems. 
   >*Hu Y, Ye Z, Wang M, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9355318) [[Github]](https://github.com/amazon-research/FeatGraph)
 * [**MLSys  2020**] Improving the Accuracy, Scalability, and Performance of  Graph Neural Networks with Roc. 
@@ -296,6 +300,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   >*Hoang L, Chen X, Lee H, et al.* [[Paper]](https://gnnsys.github.io/papers/GNNSys21_paper_16.pdf) [[Poster]](https://gnnsys.github.io/posters/GNNSys21_poster_16.pdf)
 * [**GNNSys 2021**] Adaptive Filters and Aggregator Fusion for Efficient Graph Convolutions.
   >*Tailor S A, Opolka F L, Lio P, et al.* [[Paper]](https://arxiv.org/abs/2104.01481) [[GitHub]](https://github.com/shyam196/egc)
+* [**GNNSys 2021**] Adaptive Load Balancing for Parallel GNN Training.
+  >*Su Q, Wang M, Zheng D, et al.* [[Paper]](https://gnnsys.github.io/papers/GNNSys21_paper_18.pdf)
 * [**PMLR 2021**] A Unified Lottery Ticket Hypothesis for Graph Neural Networks. 
   >*Chen T, Sui Y, Chen X, et al.* [[Paper]](http://proceedings.mlr.press/v139/chen21p.html)
 * [**PVLDB 2021**] Accelerating Large Scale Real-Time GNN Inference using Channel Pruning. 
@@ -340,8 +346,10 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   >*Besta M, Hoefler T.* [[Paper]](https://arxiv.org/abs/2205.09702)
 * [**IJCAI 2022**] Survey on Graph Neural Network Acceleration: An Algorithmic Perspective. 
   >*Liu X, Yan M, Deng L, et al.* [[Paper]](https://arxiv.org/pdf/2202.04822)
-* [**ACM Computing Surveys 2022**] A practical tutorial on graph neural networks
+* [**ACM Computing Surveys 2022**] A Practical Tutorial on Graph Neural Networks
   >*Ward I R, Joyner J, Lickfold C, et al.*[[Paper]](https://dl.acm.org/doi/10.1145/3503043)
+* [**Access 2022**] Analyzing GCN Aggregation on GPU. 
+  >*Kim I, Jeong J, Oh Y, et al.*[[Paper]](https://ieeexplore.ieee.org/iel7/6287639/9668973/09930519.pdf)
 * [**GNNSys 2021**] Analyzing the Performance of Graph Neural Networks with Pipe Parallelism.
   >*Dearing M T, Wang X.* [[Paper]](https://gnnsys.github.io/papers/GNNSys21_paper_12.pdf) [[Poster]](https://gnnsys.github.io/posters/GNNSys21_poster_12.pdf)
 * [**IJCAI 2021**] Automated Machine Learning on Graphs: A Survey. 
