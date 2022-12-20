@@ -37,6 +37,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   >*Li J, Zheng H, Wang K, et al.* [[Paper]](https://www.computer.org/csdl/journal/td/2022/11/09645224/1zc6JTLADC0)
 * [**TCSI 2022**] A Low-Power Graph Convolutional Network Processor With Sparse Grouping for 3D Point Cloud Semantic Segmentation in Mobile Devices. 
   >*Kim S, Kim S, Lee J, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9669025)
+* [**JAHC 2022**] DRGN: a dynamically reconfigurable accelerator for graph neural networks.
+  >*Yang C, Huo K B, Geng L F, et al.* [[Paper]](https://link.springer.com/article/10.1007/s12652-022-04402-x)
 * [**JSA 2022**] Algorithms and architecture support of degree-based quantization for graph neural networks.
   >*Guo Y, Chen Y, Zou X, et al.* [[Paper]](https://dl.acm.org/doi/10.1016/j.sysarc.2022.102578)
 * [**JSA 2022**] QEGCN: An FPGA-based accelerator for quantized GCNs with edge-level parallelism.
@@ -45,6 +47,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   >*Abi-Karam S, He Y, Sarkar R, et al.* [[Paper]]( https://arxiv.org/pdf/2201.08475) [[GitHub]](https://github.com/sharc-lab/gengnn)
 * [**FAST 2022**] Hardware/Software Co-Programmable Framework for Computational SSDs to Accelerate Deep Learning Service on Large-Scale Graphs. 
   >*Kwon M, Gouk D, Lee S, et al.* [[Paper]](https://arxiv.org/abs/2201.09189)
+* [**arXiv 2022**] DFG-NAS: Deep and Flexible Graph Neural Architecture Search.
+  >*Zhang W, Lin Z, Shen Y, et al.* [[Paper]](https://arxiv.org/abs/2206.08582)
 * [**arXiv 2022**] GROW: A Row-Stationary Sparse-Dense GEMM Accelerator for Memory-Efficient Graph Convolutional Neural Networks. 
   >*Kang M, Hwang R, Lee J, et al.* [[Paper]](https://arxiv.org/abs/2203.00158)
 * [**arXiv 2022**] Enabling Flexibility for Sparse Tensor Acceleration via Heterogeneity. 
@@ -130,6 +134,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
 * [**NSDI 2023**] BGL: GPU-Efficient GNN Training by Optimizing Graph Data I/O and Preprocessing.
   >*Liu T, Chen Y, Li D, et al.* [[Paper]](https://arxiv.org/abs/2112.08541)
+* [**arXiv 2022**] DistGNN-MB: Distributed Large-Scale Graph Neural Network Training on x86 via Minibatch Sampling.
+  >*Vasimuddin M, Mohanty R, Misra S, et al.* [[Paper]](https://arxiv.org/abs/2211.06385)
 * [**VLDB 2022**] ByteGNN: efficient graph neural network training at large scale. 
   >*Zheng C, Chen H, Cheng Y, et al.* [[Paper]](https://dl.acm.org/doi/abs/10.14778/3514061.3514069)
 * [**EuroSys 2022**] GNNLab: a factored system for sample-based GNN training over GPUs. 
@@ -146,6 +152,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   >*Wang Q, Zhang Y, Wang H, et al.* [[Paper]](https://doi.org/10.1145/3514221.3526134)
 * [**MLSys 2022**] Accelerating Training and Inference of Graph Neural Networks with Fast Sampling and Pipelining. 
   >*Kaler T, Stathas N, Ouyang A, et al.* [[Paper]](https://proceedings.mlsys.org/paper/2022/hash/35f4a8d465e6e1edc05f3d8ab658c551-Abstract.html)
+* [**KDD 2022**] Distributed Hybrid CPU and GPU training for Graph Neural Networks on Billion-Scale Heterogeneous Graphs.
+  >*Zheng D, Song X, Yang C, et al.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539177)
 * [**FPGA 2022**] SPA-GCN: Efficient and Flexible GCN Accelerator with Application for Graph Similarity Computation. 
   >*Sohrabizadeh A, Chi Y, Cong J.* [[Paper]]( https://arxiv.org/pdf/2111.05936)
 * [**HPDC 2022**] TLPGNN: A Lightweight Two-Level Parallelism Paradigm for Graph Neural Network Computation on GPU. 
@@ -156,6 +164,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   >*Zeng Y, Tang J.* [[Paper]](http://arxiv.org/abs/2202.06580)
 * [**arXiv 2022**] Marius++: Large-scale training of graph neural networks on a single machine. 
   >*Waleffe R, Mohoney J, Rekatsinas T, et al.* [[Paper]](https://arxiv.org/abs/2202.02365)
+* [**HPCA 2021**] DistGNN: scalable distributed training for large-scale graph neural networks.
+  >*Md V, Misra S, Ma G, et al.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3458817.3480856)
 * [**CLUSTER 2021**] 2PGraph: Accelerating GNN Training over Large Graphs on GPU Clusters.
   >*Zhang L, Lai Z, Li S, et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9556026)
 * [**APSys 2021**] Accelerating GNN training with locality-aware partial execution.
@@ -212,6 +222,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   >*Lin Z, Li C, Miao Y, et al.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3419111.3421281)
 * [**IPDPS  2020**] Pcgcn: Partition-centric processing for accelerating graph convolutional network. 
   >*Tian C, Ma L, Yang Z, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9139807/)
+* [**arXiv 2020**] Deep graph library optimizations for intel (r) x86 architecture.
+  >*Avancha S, Md V, Misra S, et al.* [[Paper]](https://arxiv.org/abs/2007.06354)
 * [**IA3  2020**] DistDGL: Distributed Graph Neural Network Training for Billion-Scale Graphs. 
   >*Zheng D, Ma C, Wang M, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9407264)
 * [**CoRR  2019**] Deep Graph Library: Towards Efficient and Scalable Deep Learning on Graphs. 
@@ -252,6 +264,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   >*Oskarsson J, Sidén P, Lindsten F.* [[Paper]](https://arxiv.org/abs/2206.05032) [[GitHub]](https://github.com/joeloskarsson/graph-dgmrf)
 * [**ICML 2022**] GraphFM: Improving Large-Scale GNN Training via Feature Momentum. 
   >*Yu H, Wang L, Wang B, et al.* [[Paper]](https://arxiv.org/abs/2206.07161) [[GitHub]](https://github.com/divelab/DIG)
+* [**SC 2022**] CoGNN: Efficient Scheduling for Concurrent GNN Training on GPUs.
+  >*Sun Q, Liu Y, Yang H, et al.* [[Paper]](https://www.computer.org/csdl/proceedings-article/sc/2022/544400a538/1I0bSY3k27S)
 * [**MLSys 2022**] BNS-GCN: Efficient Full-Graph Training of Graph Convolutional Networks with Boundary Node Sampling. 
   >*Wan C, Li Y, Li A, et al.* [[Paper]](https://arxiv.org/pdf/2203.10983.pdf) [[GitHub]](https://github.com/RICE-EIC/BNS-GCN)
 * [**MLSys 2022**] Graphiler: Optimizing Graph Neural Networks with Message Passing Data Flow Graph. 
@@ -330,6 +344,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   >*Feng B, Wang Y, Li X, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9288186)
 * [**arXiv 2020**] Learned Low Precision Graph Neural Networks. 
   >*Zhao Y, Wang D, Bates D, et al.* [[Paper]](https://www.euromlsys.eu/pub/zhao21euromlsys.pdf)
+* [**arXiv 2020**] Distributed Training of Graph Convolutional Networks using Subgraph Approximation.
+  >*Angerd A, Balasubramanian K, Annavaram M.* [[Paper]](https://arxiv.org/abs/2012.04930)
 * [**IPDPS 2019**] Accurate, efficient and scalable graph embedding. 
   >*Zeng H, Zhou H, Srivastava A, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/8820993)
 ---
