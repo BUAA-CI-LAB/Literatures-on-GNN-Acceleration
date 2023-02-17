@@ -132,6 +132,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 ---
 ## System Designs for Deep Graph Learning
 
+* [**INFOCOM 2023**] Two-level Graph Caching for Expediting Distributed GNN Training.
+  >*Ziyue Luo et al.*
 * [**NSDI 2023**] BGL: GPU-Efficient GNN Training by Optimizing Graph Data I/O and Preprocessing.
   >*Liu T, Chen Y, Li D, et al.* [[Paper]](https://arxiv.org/abs/2112.08541)
 * [**arXiv 2022**] DistGNN-MB: Distributed Large-Scale Graph Neural Network Training on x86 via Minibatch Sampling.
