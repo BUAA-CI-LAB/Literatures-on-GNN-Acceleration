@@ -52,6 +52,7 @@ Deep graph learning acceleration papers in a chronological order.
 
 
 ### 2022
+* [**ICCD 2022**] CoDG-ReRAM: An Algorithm-Hardware Co-design to Accelerate Semi-Structured GNNs on ReRAM. *Luo Y, Behnam P, Thorat K, et al.* [[Paper]](https://khan.engr.uconn.edu/pubs/iccd22-reram-gnn.pdfO)
 * [**VLDB 2022**] ByteGNN: efficient graph neural network training at large scale. *Zheng C, Chen H, Cheng Y, et al.* [[Paper]](https://dl.acm.org/doi/abs/10.14778/3514061.3514069)
 * [**SIGMOD**] NeutronStar: Distributed GNN Training with Hybrid Dependency Management. *Wang et al.* [[Paper]](https://doi.org/10.1145/3514221.3526134)
 * [**DAC**] Improving GNN-Based Accelerator Design Automation with Meta Learning. *Bai et al.* [[Paper]](https://vast.cs.ucla.edu/sites/default/files/publications/_DAC_22__GNN_DSE_MAML.pdf)

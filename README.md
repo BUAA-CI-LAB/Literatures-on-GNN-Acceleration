@@ -17,6 +17,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 ---
 ## Hardware Acceleration for Graph Neural Networks
 
+* [**ICCD 2022**] CoDG-ReRAM: An Algorithm-Hardware Co-design to Accelerate Semi-Structured GNNs on ReRAM. 
+  >*Luo Y, Behnam P, Thorat K, et al.* [[Paper]](https://khan.engr.uconn.edu/pubs/iccd22-reram-gnn.pdfO)
 * [**HPCA 2022**] Accelerating Graph Convolutional Networks Using Crossbar-based Processing-In-Memory Architectures. 
   >*Huang Y, Zheng L, Yao P, et al.* [[Paper]](https://www.computer.org/csdl/proceedings-article/hpca/2022/202700b029/1Ds0gRvUFjO)
 * [**HPCA 2022**] GCoD: Graph Convolutional Network Acceleration via Dedicated Algorithm and Accelerator Co-Design. 
