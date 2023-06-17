@@ -6,6 +6,11 @@ Deep graph learning acceleration papers in a chronological order.
 ---
 ## Journal
 
+### 2023
+
+* [**TCAD 2023**] Algorithm/Hardware Co-optimization for Sparsity-Aware SpMM Acceleration of GNNs. *Gao Y, Gong L, Wang C, et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10139803)
+* [**TCAD 2023**] CoGNN: An Algorithm-Hardware Co-Design Approach to Accelerate GNN Inference with Mini-Batch Sampling. *Zhong K, Zeng S, Hou W, et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10131995)
+* [**JCST 2023**] GShuttle: Optimizing Memory Access Efficiency for Graph Convolutional Neural Network Accelerators. *Li J J, Wang K, Zheng H, et al..* [[Paper]](https://link.springer.com/article/10.1007/s11390-023-2875-9)
 
 
 ### 2022
@@ -49,7 +54,8 @@ Deep graph learning acceleration papers in a chronological order.
 ---
 ## Conference
 
-
+### 2023
+* [**GSVLSI 2023**] IMA-GNN: In-Memory Acceleration of Centralized and Decentralized Graph Neural Networks at the Edge. *Morsali M, Nazzal M, Khreishah A, et al.* [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3583781.3590248)
 
 ### 2022
 * [**ICCD 2022**] CoDG-ReRAM: An Algorithm-Hardware Co-design to Accelerate Semi-Structured GNNs on ReRAM. *Luo Y, Behnam P, Thorat K, et al.* [[Paper]](https://khan.engr.uconn.edu/pubs/iccd22-reram-gnn.pdfO)
@@ -175,6 +181,12 @@ Deep graph learning acceleration papers in a chronological order.
 
 ---
 ## arXiv
+
+### 2023
+* [**arXiv 2023**] Dynasparse: Accelerating GNN Inference through Dynamic Sparsity Exploitation. *Bingyi Zhang, Viktor Prasanna.* [[Paper]](https://arxiv.org/pdf/2303.12901)
+* [**arXiv 2023**] GNNBuilder: An Automated Framework for Generic Graph Neural Network Accelerator Generation, Simulation, and Optimization. *Abi-Karam S, Hao C.* [[Paper]](https://arxiv.org/pdf/2303.16459)
+* [**arXiv 2023**] HitGNN: High-throughput GNN Training Framework on CPU+Multi-FPGA Heterogeneous Platform. *Lin Y C, Zhang B.* [[Paper]](https://arxiv.org/pdf/2303.01568)
+* [**arXiv 2023**] GraphTensor: Comprehensive GNN-Acceleration Framework for Efficient Parallel Processing of Massive Datasets. *Jang J, Kwon M, Gouk D, et al.* [[Paper]](https://arxiv.org/pdf/2305.17469)
 
 ### 2022
 * [**arXiv**] Marius++: Large-scale training of graph neural networks on a single machine. *Waleffe R, Mohoney J, Rekatsinas T, et al.* [[Paper]](https://arxiv.org/abs/2202.02365)
