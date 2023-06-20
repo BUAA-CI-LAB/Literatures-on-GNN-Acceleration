@@ -258,7 +258,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   >*Battaglia P W, Hamrick J B, Bapst V, et al.* [[Paper]](https://arxiv.org/abs/1806.01261) [[GitHub]](https://github.com/deepmind/graph_nets)
 ---
 ## Algorithmic Acceleration for Graph Neural Networks
-
+* [**arXiv 2023**] Provably Convergent Subgraph-wise Sampling for Fast GNN Training.
+  >*Wang Jie, Shi Zhihao, et al..* [[Paper]](https://arxiv.org/abs/2303.11081)
 * [**arXiv 2023**] LazyGNN: Large-Scale Graph Neural Networks via Lazy Propagation.
   >*Rui Xue, Haoyu Han, et al..* [[Paper]](https://arxiv.org/abs/2302.01503)
 * [**AAAI 2022**] Early-Bird GCNs: Graph-Network Co-Optimization Towards More Efficient GCN Training and Inference via Drawing Early-Bird Lottery Tickets. 
