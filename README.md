@@ -16,6 +16,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
 ---
 ## Hardware Acceleration for Graph Neural Networks
+* [**TPDPS 2023**] HyScale-GNN: A Scalable Hybrid GNN Training System on Single-Node Heterogeneous Architecture.
+  >*Lin Yichien, Prasanna Vikor, et al.* [[Paper]](http://arxiv.org/abs/2303.00158)
 * [**TCAD 2023**] Algorithm/Hardware Co-optimization for Sparsity-Aware SpMM Acceleration of GNNs. 
   >*Gao Y, Gong L, Wang C, et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10139803)
 * [**TCAD 2023**] CoGNN: An Algorithm-Hardware Co-Design Approach to Accelerate GNN Inference with Mini-Batch Sampling. 
