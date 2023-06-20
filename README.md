@@ -16,7 +16,7 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
 ---
 ## Hardware Acceleration for Graph Neural Networks
-* [**TPDPS 2023**] HyScale-GNN: A Scalable Hybrid GNN Training System on Single-Node Heterogeneous Architecture.
+* [**arXiv 2023**] HitGNN: High-throughput GNN Training Framework on CPU+Multi-FPGA Heterogeneous Platform.
   >*Lin Yichien, Prasanna Vikor, et al.* [[Paper]](http://arxiv.org/abs/2303.00158)
 * [**TCAD 2023**] Algorithm/Hardware Co-optimization for Sparsity-Aware SpMM Acceleration of GNNs. 
   >*Gao Y, Gong L, Wang C, et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10139803)
@@ -148,6 +148,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
 ---
 ## System Designs for Deep Graph Learning
+* [**TPDPS 2023**] HyScale-GNN: A Scalable Hybrid GNN Training System on Single-Node Heterogeneous Architecture.
+  >*Lin Yichien, Prasanna Vikor, et al.* [[Paper]](http://arxiv.org/abs/2303.00158)
 * [**INFOCOM 2023**] Two-level Graph Caching for Expediting Distributed GNN Training.
   >*Ziyue Luo et al.* [[Paper]](https://i.cs.hku.hk/~cwu/papers/zzhang-infocom23.pdf)
 * [**NSDI 2023**] BGL: GPU-Efficient GNN Training by Optimizing Graph Data I/O and Preprocessing.
