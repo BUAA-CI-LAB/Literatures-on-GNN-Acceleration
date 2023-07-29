@@ -16,10 +16,11 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
 ---
 ## Hardware Acceleration for Graph Neural Networks
+
+* [**CASES 2023**] MaGNAS: A Mapping-Aware Graph Neural Architecture Search Framework for Heterogeneous MPSoC Deployment.
+  >*M Odema, H Bouzidi, H Ouarnoughi, et al.* [[paper]](https://arxiv.org/pdf/2307.08065)
 * [**DAC 2023**] Lift: Exploiting Hybrid Stacked Memory for Energy-Efficient Processing of Graph Convolutional Networks.
   >*Jiaxian Chen, Zhaoyu Zhong, et al.* [[paper]](https://csse.szu.edu.cn/attachment/cglr/1681802011_Lift.pdf)
-* [**DAC 2023**] Hardware-Aware Graph Neural Network Automated Design for Edge Computing Platforms.
-  >*Ao Zhou, Jianlei Yang, et al.* [[Paper]](http://)
 * [**DAC 2023**] ReRAM-based Graph Attention Network with Node-Centric Edge Searching and Hamming Similarity.
   >*Ruibin Mao, Xia Sheng, et al.* [[Paper]](http://)
 * [**arXiv 2023**] HitGNN: High-throughput GNN Training Framework on CPU+Multi-FPGA Heterogeneous Platform.
@@ -268,6 +269,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   >*Battaglia P W, Hamrick J B, Bapst V, et al.* [[Paper]](https://arxiv.org/abs/1806.01261) [[GitHub]](https://github.com/deepmind/graph_nets)
 ---
 ## Algorithmic Acceleration for Graph Neural Networks
+* [**DAC 2023**] Hardware-Aware Graph Neural Network Automated Design for Edge Computing Platforms.
+  >*Ao Zhou, Jianlei Yang, et al.* [[Paper]](https://arxiv.org/pdf/2303.10875)
 * [**arXiv 2023**] Provably Convergent Subgraph-wise Sampling for Fast GNN Training.
   >*Wang Jie, Shi Zhihao, et al..* [[Paper]](https://arxiv.org/abs/2303.11081)
 * [**arXiv 2023**] LazyGNN: Large-Scale Graph Neural Networks via Lazy Propagation.
@@ -381,7 +384,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 ---
 ## Surveys and Performance Analysis on Graph Learning
 
-
+* [**arXiv 2023**] A Survey on Graph Neural Network Acceleration: Algorithms, Systems, and Customized Hardware.  
+  >*S Zhang, A Sohrabizadeh, C Wan, et al.* [[Paper]](https://arxiv.org/pdf/2306.14052)
 * [**arXiv 2022**] A Comprehensive Survey on Distributed Training of Graph Neural Networks.  
   >*Lin H, Yan M, Ye X, et al.* [[Paper]](https://arxiv.org/abs/2211.05368)
 * [**arXiv 2022**] Distributed Graph Neural Network Training: A Survey.
