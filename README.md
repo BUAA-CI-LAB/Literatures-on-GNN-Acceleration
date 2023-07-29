@@ -16,10 +16,12 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
 ---
 ## Hardware Acceleration for Graph Neural Networks
+* [**DAC 2023**] Lift: Exploiting Hybrid Stacked Memory for Energy-Efficient Processing of Graph Convolutional Networks.
+  >*Jiaxian Chen, Zhaoyu Zhong, et al.* [[paper]](https://csse.szu.edu.cn/attachment/cglr/1681802011_Lift.pdf)
 * [**DAC 2023**] Hardware-Aware Graph Neural Network Automated Design for Edge Computing Platforms.
- >*Ao Zhou, Jianlei Yang, et al.* [[Paper]](http://)
+  >*Ao Zhou, Jianlei Yang, et al.* [[Paper]](http://)
 * [**DAC 2023**] ReRAM-based Graph Attention Network with Node-Centric Edge Searching and Hamming Similarity.
- >*Ruibin Mao, Xia Sheng, et al.* [[Paper]](http://)
+  >*Ruibin Mao, Xia Sheng, et al.* [[Paper]](http://)
 * [**arXiv 2023**] HitGNN: High-throughput GNN Training Framework on CPU+Multi-FPGA Heterogeneous Platform.
   >*Lin Yichien, Prasanna Vikor, et al.* [[Paper]](http://arxiv.org/abs/2303.00158)
 * [**TCAD 2023**] Algorithm/Hardware Co-optimization for Sparsity-Aware SpMM Acceleration of GNNs. 
