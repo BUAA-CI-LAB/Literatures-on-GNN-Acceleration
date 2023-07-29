@@ -16,6 +16,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
 ---
 ## Hardware Acceleration for Graph Neural Networks
+* [**DAC 2023**] ReRAM-based Graph Attention Network with Node-Centric Edge Searching and Hamming Similarity.
+ >*Ruibin Mao, Xia Sheng, et al.* [[Paper]](http://)
 * [**arXiv 2023**] HitGNN: High-throughput GNN Training Framework on CPU+Multi-FPGA Heterogeneous Platform.
   >*Lin Yichien, Prasanna Vikor, et al.* [[Paper]](http://arxiv.org/abs/2303.00158)
 * [**TCAD 2023**] Algorithm/Hardware Co-optimization for Sparsity-Aware SpMM Acceleration of GNNs. 
