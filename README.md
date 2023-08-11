@@ -155,6 +155,10 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
 ---
 ## System Designs for Deep Graph Learning
+* [**TC 2023**] TurboGNN: Improving the End-to-End Performance for Sampling-Based GNN Training on GPUs.
+  >*Wenchao Wu, Xuanhua Shi, et al.* [[Paper]](https://ieeexplore.ieee.org/document/10070878)
+* [**TPDS 2023**] TurboMGNN: Improving Concurrent GNN Training Tasks on GPU With Fine-Grained Kernel Fusion.
+  >*Wenchao Wu, Xuanhua Shi, et al.* [[Paper](https://ieeexplore.ieee.org/document/10103627)
 * [**TPDPS 2023**] HyScale-GNN: A Scalable Hybrid GNN Training System on Single-Node Heterogeneous Architecture.
   >*Lin Yichien, Prasanna Vikor, et al.* [[Paper]](http://arxiv.org/abs/2303.00158)
 * [**INFOCOM 2023**] Two-level Graph Caching for Expediting Distributed GNN Training.
