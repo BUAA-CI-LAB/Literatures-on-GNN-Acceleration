@@ -279,6 +279,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   >*Wang Jie, Shi Zhihao, et al..* [[Paper]](https://arxiv.org/abs/2303.11081)
 * [**arXiv 2023**] LazyGNN: Large-Scale Graph Neural Networks via Lazy Propagation.
   >*Rui Xue, Haoyu Han, et al..* [[Paper]](https://arxiv.org/abs/2302.01503)
+* [**TPDS 2022**] Accelerating Backward Aggregation in GCN Training With Execution Path Preparing on GPUs.
+  >*Shaoxian Xu, Zhiyuan Shao, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9887890) 
 * [**AAAI 2022**] Early-Bird GCNs: Graph-Network Co-Optimization Towards More Efficient GCN Training and Inference via Drawing Early-Bird Lottery Tickets. 
   >*You H, Lu Z, Zhou Z, et al.* [[Paper]](https://www.researchgate.net/profile/Haoran-You/publication/349704520_GEBT_Drawing_Early-Bird_Tickets_in_Graph_Convolutional_Network_Training/links/61e0930dc5e3103375916c9f/GEBT-Drawing-Early-Bird-Tickets-in-Graph-Convolutional-Network-Training.pdf) [[GitHub]](https://github.com/RICE-EIC/Early-Bird-GCN)
 * [**ICLR 2022**] Adaptive Filters for Low-Latency and Memory-Efficient Graph Neural Networks. 
