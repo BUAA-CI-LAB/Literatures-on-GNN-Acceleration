@@ -16,7 +16,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
 ---
 ## Hardware Acceleration for Graph Neural Networks
-
+* [**TC 2023**] Accelerating GNN Training by Adapting Large Graphs to Distributed Heterogeneous Architectures.
+  >*Lizhi Zhang, Dongsheng Li, et al.* [[paper]](https://ieeexplore.ieee.org/abstract/document/10217071)
 * [**CASES 2023**] MaGNAS: A Mapping-Aware Graph Neural Architecture Search Framework for Heterogeneous MPSoC Deployment.
   >*M Odema, H Bouzidi, H Ouarnoughi, et al.* [[paper]](https://arxiv.org/pdf/2307.08065)
 * [**DAC 2023**] Lift: Exploiting Hybrid Stacked Memory for Energy-Efficient Processing of Graph Convolutional Networks.
