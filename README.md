@@ -273,6 +273,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   >*Battaglia P W, Hamrick J B, Bapst V, et al.* [[Paper]](https://arxiv.org/abs/1806.01261) [[GitHub]](https://github.com/deepmind/graph_nets)
 ---
 ## Algorithmic Acceleration for Graph Neural Networks
+* [**arXiv 2023**] AdaptGear: Accelerating GNN Training via Adaptive Subgraph-Level Kernels on GPUs.
+  >*Yangjie Zhou, Jingwen Leng, et al.*  [[Paper]](https://subjectnoi.github.io/about/AdaptGear.pdf)
 * [**DAC 2023**] Hardware-Aware Graph Neural Network Automated Design for Edge Computing Platforms.
   >*Ao Zhou, Jianlei Yang, et al.* [[Paper]](https://arxiv.org/pdf/2303.10875)
 * [**arXiv 2023**] Provably Convergent Subgraph-wise Sampling for Fast GNN Training.
