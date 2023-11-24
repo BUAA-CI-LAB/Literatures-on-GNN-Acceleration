@@ -16,6 +16,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
 ---
 ## Hardware Acceleration for Graph Neural Networks
+* [**HPCA 2024**] MEGA: A Memory-Efficient GNN Accelerator Exploiting Degree-Aware Mixed-Precision Quantization.
+  >*Zeyu Zhu, Fanrong Li, et al.* [[paper]](https://arxiv.org/pdf/2311.09775.pdf)
 * [**TC 2023**] Accelerating GNN Training by Adapting Large Graphs to Distributed Heterogeneous Architectures.
   >*Lizhi Zhang, Dongsheng Li, et al.* [[paper]](https://ieeexplore.ieee.org/abstract/document/10217071)
 * [**CASES 2023**] MaGNAS: A Mapping-Aware Graph Neural Architecture Search Framework for Heterogeneous MPSoC Deployment.
@@ -274,6 +276,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   >*Battaglia P W, Hamrick J B, Bapst V, et al.* [[Paper]](https://arxiv.org/abs/1806.01261) [[GitHub]](https://github.com/deepmind/graph_nets)
 ---
 ## Algorithmic Acceleration for Graph Neural Networks
+* [**ASC 2023**] Imbalanced node classification with Graph Neural Networks: A unified approach leveraging homophily and label information.
+  >*Lv D, Xu Z, Zhang J, et al.*  [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1568494623010037)
 * [**arXiv 2023**] AdaptGear: Accelerating GNN Training via Adaptive Subgraph-Level Kernels on GPUs.
   >*Yangjie Zhou, Jingwen Leng, et al.*  [[Paper]](https://subjectnoi.github.io/about/AdaptGear.pdf)
 * [**DAC 2023**] Hardware-Aware Graph Neural Network Automated Design for Edge Computing Platforms.
