@@ -158,6 +158,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
 ---
 ## System Designs for Deep Graph Learning
+* [**PPoPP 2023**] DSP: Efficient GNN Training with Multiple GPUs.
+  >*Cai Z, Zhou Q, et al.* [[Paper]](https://assets.amazon.science/70/b4/c4efd54f44b695d62dd7f441fccb/dsp-efficient-gnn-training-with-multiple-gpus.pdf)
 * [**TC 2023**] TurboGNN: Improving the End-to-End Performance for Sampling-Based GNN Training on GPUs.
   >*Wenchao Wu, Xuanhua Shi, et al.* [[Paper]](https://ieeexplore.ieee.org/document/10070878)
 * [**TPDS 2023**] TurboMGNN: Improving Concurrent GNN Training Tasks on GPU With Fine-Grained Kernel Fusion.
