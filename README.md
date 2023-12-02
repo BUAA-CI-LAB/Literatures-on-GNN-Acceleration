@@ -18,6 +18,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 ## Hardware Acceleration for Graph Neural Networks
 * [**HPCA 2024**] MEGA: A Memory-Efficient GNN Accelerator Exploiting Degree-Aware Mixed-Precision Quantization.
   >*Zeyu Zhu, Fanrong Li, et al.* [[paper]](https://arxiv.org/pdf/2311.09775.pdf)
+* [**TPDS 2023**] GraphAGILE: An FPGA-Based Overlay Accelerator for Low-Latency GNN Inference.
+  >*Zhang, Bingyi, Hanqing Zeng, and Viktor Prasanna.* [[paper]](https://ieeexplore.ieee.org/abstract/document/10158054)
 * [**TC 2023**] Accelerating GNN Training by Adapting Large Graphs to Distributed Heterogeneous Architectures.
   >*Lizhi Zhang, Dongsheng Li, et al.* [[paper]](https://ieeexplore.ieee.org/abstract/document/10217071)
 * [**CASES 2023**] MaGNAS: A Mapping-Aware Graph Neural Architecture Search Framework for Heterogeneous MPSoC Deployment.
@@ -28,6 +30,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   >*Ruibin Mao, Xia Sheng, et al.* [[Paper]](http://)
 * [**arXiv 2023**] HitGNN: High-throughput GNN Training Framework on CPU+Multi-FPGA Heterogeneous Platform.
   >*Lin Yichien, Prasanna Vikor, et al.* [[Paper]](http://arxiv.org/abs/2303.00158)
+* [**TCAD 2023**] CoGNN: An Algorithm-Hardware Co-Design Approach to Accelerate GNN Inference With Minibatch Sampling.
+  >*Zhong, Kai, Shulin Zeng, Wentao Hou, et al.* [[paper]](https://ieeexplore.ieee.org/abstract/document/10131995)
 * [**TCAD 2023**] Algorithm/Hardware Co-optimization for Sparsity-Aware SpMM Acceleration of GNNs. 
   >*Gao Y, Gong L, Wang C, et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10139803)
 * [**TCAD 2023**] CoGNN: An Algorithm-Hardware Co-Design Approach to Accelerate GNN Inference with Mini-Batch Sampling. 
@@ -158,8 +162,14 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
 ---
 ## System Designs for Deep Graph Learning
+* [**PPoPP 2023**] PiPAD: Pipelined and Parallel Dynamic GNN Training on GPUs.
+  >*Wang, Chunyang, Desen Sun, and Yuebin Bai.* [[paper]](https://dl.acm.org/doi/abs/10.1145/3572848.3577487)
 * [**PPoPP 2023**] DSP: Efficient GNN Training with Multiple GPUs.
   >*Cai Z, Zhou Q, et al.* [[Paper]](https://assets.amazon.science/70/b4/c4efd54f44b695d62dd7f441fccb/dsp-efficient-gnn-training-with-multiple-gpus.pdf)
+* [**ICS 2023**] BitGNN: Unleashing the Performance Potential of Binary Graph Neural Networks on GPUs.
+  >*Chen, Jou-An, Hsin-Hsuan Sung, Xipeng Shen, et al.* [[paper]](https://dl.acm.org/doi/abs/10.1145/3577193.3593725)
+* [**JSAC 2022**] GNN at the Edge: Cost-Efficient Graph Neural Network Processing Over Distributed Edge Servers.
+  >*Zeng, Liekang, Chongyu Yang, Peng Huang, et al.* [[paper]](https://ieeexplore.ieee.org/abstract/document/9996395)
 * [**TC 2023**] TurboGNN: Improving the End-to-End Performance for Sampling-Based GNN Training on GPUs.
   >*Wenchao Wu, Xuanhua Shi, et al.* [[Paper]](https://ieeexplore.ieee.org/document/10070878)
 * [**TPDS 2023**] TurboMGNN: Improving Concurrent GNN Training Tasks on GPU With Fine-Grained Kernel Fusion.
