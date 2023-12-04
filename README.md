@@ -10,7 +10,7 @@ Literatures in this page are arranged from a classification perspective, includi
   - [Surveys and Performance Analysis on Graph Learning](#surveys-and-performance-analysis-on-graph-learning)
   - [Maintainers](#maintainers)
 
-Click [here](./By-Time.md) to view these literatures in a reverse chronological order. You can also find [Related Conferences](./General%20Resources/Conference.md), [Graph Learning Tools](./General%20Resources/Frameworks%20%26%20Tools/), [Learning Materials on GNNs](./General%20Resources/Learning%20Materials) and Other Resources in [General Resources](./General%20Resources).
+You can also find [Related Conferences](./General%20Resources/Conference.md), [Graph Learning Tools](./General%20Resources/Frameworks%20%26%20Tools/), [Learning Materials on GNNs](./General%20Resources/Learning%20Materials) and Other Resources in [General Resources](./General%20Resources).
 
 
 
@@ -409,6 +409,8 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 ---
 ## Surveys and Performance Analysis on Graph Learning
 
+* [**CAL 2023**] Architectural Implications of GNN Aggregation Programming Abstractions.  
+  >*Qi Y, Yang J, Zhou A, et al.* [[Paper]](https://ieeexplore.ieee.org/document/10288038)
 * [**arXiv 2023**] A Survey on Graph Neural Network Acceleration: Algorithms, Systems, and Customized Hardware.  
   >*S Zhang, A Sohrabizadeh, C Wan, et al.* [[Paper]](https://arxiv.org/pdf/2306.14052)
 * [**arXiv 2022**] A Comprehensive Survey on Distributed Training of Graph Neural Networks.  
