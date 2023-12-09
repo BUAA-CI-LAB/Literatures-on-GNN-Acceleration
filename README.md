@@ -162,6 +162,8 @@ You can also find [Related Conferences](./General%20Resources/Conference.md), [G
 
 ---
 ## System Designs for Deep Graph Learning
+* [**LOG 2023**] FreshGNN: Reducing Memory Access via Stable Historical Embeddings for Graph Neural Network Training.
+  >*Kezhao Huang, Haitian Jiang, Haitian_Jiang3, et al.* [[paper]]([https://dl.acm.org/doi/abs/10.1145/3572848.3577487](https://openreview.net/forum?id=iyJjEkU0Ve))
 * [**PPoPP 2023**] PiPAD: Pipelined and Parallel Dynamic GNN Training on GPUs.
   >*Wang, Chunyang, Desen Sun, and Yuebin Bai.* [[paper]](https://dl.acm.org/doi/abs/10.1145/3572848.3577487)
 * [**PPoPP 2023**] DSP: Efficient GNN Training with Multiple GPUs.
