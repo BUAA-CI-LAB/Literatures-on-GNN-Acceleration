@@ -162,6 +162,19 @@ You can also find [Related Conferences](./General%20Resources/Conference.md), [G
 
 ---
 ## System Designs for Deep Graph Learning
+
+* [**SC 2023**] BLAD: Adaptive Load Balanced Scheduling and Operator Overlap Pipeline For Accelerating The Dynamic GNN Training.
+  >*Fu, Kaihua, et al.* [[paper]](https://dl.acm.org/doi/abs/10.1145/3581784.3607040)
+* [**SOSP 2023**] gSampler: General and Efficient GPU-based Graph Sampling for Graph Learning.
+  >*Gong, Ping, et al.* [[paper]](https://dl.acm.org/doi/abs/10.1145/3600006.3613168)
+* [**ICDE 2023**] InferTurbo: A Scalable System for Boosting Full-graph Inference of Graph Neural Network over Huge Graphs.
+  >*Zhang, Dalong, et al.* [[paper]](https://ieeexplore.ieee.org/abstract/document/10184616/)
+* [**IPDPS 2023**] Communication Optimization for Distributed Execution of Graph Neural Networks.
+  >*Kurt, Süreyya Emre, et al.* [[paper]](https://ieeexplore.ieee.org/abstract/document/10177386/)
+* [**IPDPS 2023**] Betty: Enabling Large-Scale GNN Training with Batch-Level Graph Partitioning.
+  >*Yang, Shuangyan, et al.* [[paper]](https://dl.acm.org/doi/abs/10.1145/3575693.3575725)
+* [**LOG 2023**] PyTorch-Geometric Edge - a Library for Learning Representations of Graph Edges.
+  >*Bielak, Piotr, and Tomasz Jan Kajdanowicz.* [[paper]](https://openreview.net/forum?id=hM5UIWqZ7d)
 * [**LOG 2023**] FreshGNN: Reducing Memory Access via Stable Historical Embeddings for Graph Neural Network Training.
   >*Kezhao Huang, Haitian Jiang, Haitian_Jiang3, et al.* [[paper]]([https://dl.acm.org/doi/abs/10.1145/3572848.3577487](https://openreview.net/forum?id=iyJjEkU0Ve))
 * [**PPoPP 2023**] PiPAD: Pipelined and Parallel Dynamic GNN Training on GPUs.
