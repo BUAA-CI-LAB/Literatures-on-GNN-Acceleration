@@ -162,7 +162,8 @@ You can also find [Related Conferences](./General%20Resources/Conference.md), [G
 
 ---
 ## System Designs for Deep Graph Learning
-
+* [**IPDPS 2024**] ARGO: An Auto-Tuning Runtime System for Scalable GNN Training on Multi-Core Processor.
+  >*Yi-Chien Lin, Yuyang Chen, et al.* [[paper]]([https://dl.acm.org/doi/abs/10.1145/3581784.3607040](https://arxiv.org/abs/2402.03671))
 * [**SC 2023**] BLAD: Adaptive Load Balanced Scheduling and Operator Overlap Pipeline For Accelerating The Dynamic GNN Training.
   >*Fu, Kaihua, et al.* [[paper]](https://dl.acm.org/doi/abs/10.1145/3581784.3607040)
 * [**SOSP 2023**] gSampler: General and Efficient GPU-based Graph Sampling for Graph Learning.
