@@ -18,7 +18,7 @@ You can also find [Related Conferences](./General%20Resources/Conference.md), [G
 ## Hardware Acceleration for Graph Neural Networks
 * [**HPCA 2024**] MEGA: A Memory-Efficient GNN Accelerator Exploiting Degree-Aware Mixed-Precision Quantization.
   >*Zeyu Zhu, Fanrong Li, et al.* [[paper]](https://arxiv.org/pdf/2311.09775.pdf)
-* [**IEEE Transactions on Computers 2023**] Accelerating graph convolutional networks through a pim-accelerated approach.
+* [**TC 2023**] Accelerating graph convolutional networks through a pim-accelerated approach.
   >*Jin H, Chen D, Zheng L, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10070790/)
 * [**TPDS 2023**] GraphAGILE: An FPGA-Based Overlay Accelerator for Low-Latency GNN Inference.
   >*Zhang, Bingyi, Hanqing Zeng, and Viktor Prasanna.* [[paper]](https://ieeexplore.ieee.org/abstract/document/10158054)
