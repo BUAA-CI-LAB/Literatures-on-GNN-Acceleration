@@ -17,7 +17,7 @@ You can also find [Related Conferences](./General%20Resources/Conference.md), [G
 ---
 ## Hardware Acceleration for Graph Neural Networks
 * [**HPCA 2024**] MEGA: A Memory-Efficient GNN Accelerator Exploiting Degree-Aware Mixed-Precision Quantization.
-  >*Zeyu Zhu, Fanrong Li, et al.* [[paper]](https://arxiv.org/pdf/2311.09775.pdf)
+  >*Zeyu Zhu, Fanrong Li, et al.* [[Paper]](https://arxiv.org/pdf/2311.09775.pdf)
 * [**TC 2023**] Accelerating graph convolutional networks through a pim-accelerated approach.
   >*Jin H, Chen D, Zheng L, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10070790/)
 * [**TPDS 2023**] GraphAGILE: An FPGA-Based Overlay Accelerator for Low-Latency GNN Inference.
@@ -308,9 +308,9 @@ You can also find [Related Conferences](./General%20Resources/Conference.md), [G
   >*Battaglia P W, Hamrick J B, Bapst V, et al.* [[Paper]](https://arxiv.org/abs/1806.01261) [[GitHub]](https://github.com/deepmind/graph_nets)
 ---
 ## Algorithmic Acceleration for Graph Neural Networks
-* [**IEEE Transactions on Computers 2023**] Approximation- and Quantization-Aware Training for Graph Neural Networks.
+* [**TC 2023**] Approximation- and Quantization-Aware Training for Graph Neural Networks.
   >*Novkin R, Klemme F, Amrouch H* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10335640)
-* [**IEEE Transactions on Computers 2023**] Sugar: Efficient subgraph-level training via resource-aware graph partitioning.
+* [**TC 2023**] Sugar: Efficient subgraph-level training via resource-aware graph partitioning.
   >*Xue Z, Yang Y, Marculescu R* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10168538/)
 * [**ASC 2023**] Imbalanced node classification with Graph Neural Networks: A unified approach leveraging homophily and label information.
   >*Lv D, Xu Z, Zhang J, et al.*  [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1568494623010037)
@@ -433,6 +433,8 @@ You can also find [Related Conferences](./General%20Resources/Conference.md), [G
 ---
 ## Surveys and Performance Analysis on Graph Learning
 
+* [**TPDS 2025**] Survey on Characterizing and Understanding GNNs from a Computer Architecture Perspective.
+  >*Meng Wu, Mingyu Yan, Wenming Li, et al.* [[Paper]](https://doi.org/10.1109/TPDS.2025.3532089)
 * [**CAL 2023**] Architectural Implications of GNN Aggregation Programming Abstractions.  
   >*Qi Y, Yang J, Zhou A, et al.* [[Paper]](https://ieeexplore.ieee.org/document/10288038)
 * [**arXiv 2023**] A Survey on Graph Neural Network Acceleration: Algorithms, Systems, and Customized Hardware.  
