@@ -164,6 +164,8 @@ You can also find [Related Conferences](./General%20Resources/Conference.md), [G
 
 ---
 ## System Designs for Deep Graph Learning
+* [**WWW 2024**] λGrapher: A Resource-Efficient Serverless System for GNN Serving through Graph Sharing.
+  >*Hu H, Liu F, Pei Q, et al.* [[paper]]([https://dl.acm.org/doi/abs/10.1145/3581784.3607040](https://fangmingliu.github.io/files/WWW24-LambdaGrapher.pdf))
 * [**IPDPS 2024**] ARGO: An Auto-Tuning Runtime System for Scalable GNN Training on Multi-Core Processor.
   >*Yi-Chien Lin, Yuyang Chen, et al.* [[paper]]([https://dl.acm.org/doi/abs/10.1145/3581784.3607040](https://arxiv.org/abs/2402.03671))
 * [**SC 2023**] BLAD: Adaptive Load Balanced Scheduling and Operator Overlap Pipeline For Accelerating The Dynamic GNN Training.
