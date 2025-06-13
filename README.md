@@ -164,6 +164,10 @@ You can also find [Related Conferences](./General%20Resources/Conference.md), [G
 
 ---
 ## System Designs for Deep Graph Learning
+* [**TKDE 2025**] Acceleration Algorithms in GNNs: A Survey.
+ >*Ma L, Sheng Z, Li X, et al.* [[paper]]([https://fangmingliu.github.io/files/WWW24-LambdaGrapher.pdf](https://arxiv.org/pdf/2405.04114))
+* [**HPCA 2024**] MEGA: A Memory-Efficient GNN Accelerator Exploiting Degree-Aware Mixed-Precision Quantization.
+ >*Zhu Z, Li F, Li G, et al.* [[paper]]((https://arxiv.org/pdf/2405.04114)
 * [**WWW 2024**] λGrapher: A Resource-Efficient Serverless System for GNN Serving through Graph Sharing.
   >*Hu H, Liu F, Pei Q, et al.* [[paper]](https://fangmingliu.github.io/files/WWW24-LambdaGrapher.pdf)
 * [**IPDPS 2024**] ARGO: An Auto-Tuning Runtime System for Scalable GNN Training on Multi-Core Processor.
