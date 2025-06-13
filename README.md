@@ -164,8 +164,10 @@ You can also find [Related Conferences](./General%20Resources/Conference.md), [G
 
 ---
 ## System Designs for Deep Graph Learning
-* [**TKDE 2025**] Acceleration Algorithms in GNNs: A Survey.
- >*Ma L, Sheng Z, Li X, et al.* [[paper]]([https://fangmingliu.github.io/files/WWW24-LambdaGrapher.pdf](https://arxiv.org/pdf/2405.04114))
+* [**DAC 2024**] GNNavigator: Towards Adaptive Training of Graph Neural Networks via Automatic Guideline Exploration.
+  >*Tong Qiao, Jianlei Yang, et al.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3649329.3656504)
+* [**DAC 2024**] Graph neural networks automated design and deployment on device-edge co-inference systems.
+  >*Ao Zhou, Jianlei Yang, et al.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3649329.3655938)
 * [**HPCA 2024**] MEGA: A Memory-Efficient GNN Accelerator Exploiting Degree-Aware Mixed-Precision Quantization.
  >*Zhu Z, Li F, Li G, et al.* [[paper]]((https://arxiv.org/pdf/2405.04114)
 * [**WWW 2024**] λGrapher: A Resource-Efficient Serverless System for GNN Serving through Graph Sharing.
@@ -312,6 +314,8 @@ You can also find [Related Conferences](./General%20Resources/Conference.md), [G
   >*Battaglia P W, Hamrick J B, Bapst V, et al.* [[Paper]](https://arxiv.org/abs/1806.01261) [[GitHub]](https://github.com/deepmind/graph_nets)
 ---
 ## Algorithmic Acceleration for Graph Neural Networks
+* [**TC 2024**] HGNAS: Hardware-Aware Graph Neural Architecture Search for Edge Devices.
+  >*Ao Zhou, Jianlei Yang, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10644077)
 * [**TC 2023**] Approximation- and Quantization-Aware Training for Graph Neural Networks.
   >*Novkin R, Klemme F, Amrouch H* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10335640)
 * [**TC 2023**] Sugar: Efficient subgraph-level training via resource-aware graph partitioning.
@@ -436,7 +440,8 @@ You can also find [Related Conferences](./General%20Resources/Conference.md), [G
   >*Zeng H, Zhou H, Srivastava A, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/8820993)
 ---
 ## Surveys and Performance Analysis on Graph Learning
-
+* [**TKDE 2025**] Acceleration Algorithms in GNNs: A Survey.
+ >*Ma L, Sheng Z, Li X, et al.* [[paper]]([https://fangmingliu.github.io/files/WWW24-LambdaGrapher.pdf](https://arxiv.org/pdf/2405.04114))
 * [**TPDS 2025**] Survey on Characterizing and Understanding GNNs from a Computer Architecture Perspective.
   >*Meng Wu, Mingyu Yan, Wenming Li, et al.* [[Paper]](https://doi.org/10.1109/TPDS.2025.3532089)
 * [**CAL 2023**] Architectural Implications of GNN Aggregation Programming Abstractions.  
