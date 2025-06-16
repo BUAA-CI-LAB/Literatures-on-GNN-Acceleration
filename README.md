@@ -164,6 +164,10 @@ You can also find [Related Conferences](./General%20Resources/Conference.md), [G
 
 ---
 ## System Designs for Deep Graph Learning
+* [**ICS 2025**] YH-Light: Yielding Hierarchy-aware Partitioner for Large-scale Graph Processing.
+  >*Gan X, Li T, Gong C, et al.* [[Paper]](https://hpcrl.github.io/ICS2025-webpage/program/Proceedings_ICS25/ics25-1.pdf)
+* [**TRETS 2025**]DGMF:aunified dynamic mapping framework for graph neural networks.
+  >*Fan Z, Peng M.* [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3744345)
 * [**DAC 2024**] GNNavigator: Towards Adaptive Training of Graph Neural Networks via Automatic Guideline Exploration.
   >*Tong Qiao, Jianlei Yang, et al.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3649329.3656504)
 * [**DAC 2024**] Graph neural networks automated design and deployment on device-edge co-inference systems.
